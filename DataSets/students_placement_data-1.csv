@@ -1,0 +1,118 @@
+Roll No,Gender,Section,SSC Percentage,inter_Diploma_percentage,B.Tech_percentage,Backlogs,registered_for_ Placement_Training,placement status
+1,M,A,87.3,65.3,40,18,NO,Not placed
+2,F,A,89,92.4,21.2,0,yes,Placed
+3,F,A,67,40.2,,13,yes,Not placed
+4,M,A,71,70.4,36.47,17,yes,Not placed
+5,M,A,44,65.5,42.52,17,yes,Not placed
+6,M,A,,68,62.2,6,yes,Not placed
+7,M,A,71,56.5,33.77,20,yes,Not placed
+8,F,A,84.83,79.3,61.02,3,NO,Not placed
+9,M,A,85,89.6,53,10,yes,Not placed
+10,M,A,84,75.5,51,8,yes,Not placed
+11,F,A,82.33,76.3,71.49,0,NO,Placed
+12,M,A,91,66,49.67,16,yes,Not placed
+13,M,A,81.33,60.3,54.74,10,yes,Not placed
+14,F,A,87.1,88.7,74.96,0,yes,Placed
+15,M,A,63.1,52.2,50.55,7,yes,Not placed
+16,F,A,85.83,86,75.96,0,yes,Placed
+17,F,A,87,85,70.01,0,yes,Not placed
+18,F,A,93.66,95.1,85.39,0,yes,Placed
+19,F,A,80.66,86.3,71.65,0,yes,Placed
+20,M,A,87.83,93.6,74.34,0,yes,Placed
+21,M,A,83.83,90.3,76.9,0,yes,Placed
+22,M,A,77.5,83.9,73.01,0,yes,Not placed
+23,F,A,80.3,83,68.3,0,yes,Not placed
+24,M,A,90.5,90.4,70.3,0,NO,Not placed
+25,M,A,86.16,87.2,54.18,9,yes,Not placed
+26,M,A,74.5,78.3,55.82,9,yes,Not placed
+27,M,A,87.1,81,61,0,yes,Not placed
+28,M,A,55.66,65.3,38,25,yes,Not placed
+29,F,A,64.3,67.1,64.36,1,yes,Not placed
+30,M,A,72,88.1,69.6,0,yes,Placed
+31,F,A,87.33,96.5,74.25,0,yes,Placed
+32,M,A,72.17,77.7,58,5,yes,Not placed
+33,F,A,79,88.9,71.94,0,yes,Placed
+34,M,A,76,80.1,42,19,yes,Not placed
+35,F,A,86.6,78.4,65.7,1,yes,Not placed
+36,M,A,87.33,90,68.7,0,yes,Placed
+37,M,A,82,91.4,75.42,0,yes,Placed
+38,F,A,91,94.3,72.68,0,yes,Placed
+39,M,A,74,76.8,51,14,yes,Not placed
+40,M,A,83.5,88.8,67.5,0,yes,Not placed
+41,M,A,88.16,91.4,72.74,0,yes,Placed
+42,F,A,75.33,61.2,58.67,4,yes,Not placed
+43,M,A,81.1,67.5,45.45,14,yes,Not placed
+44,M,A,86,92.5,70.85,0,yes,Not placed
+45,F,A,82.3,83.7,69.48,0,yes,Not placed
+46,F,A,87.5,84.4,72.57,0,yes,Placed
+47,F,A,83.5,76.9,59.53,3,yes,Placed
+48,M,A,77.16,89.1,67.06,0,yes,Not placed
+49,M,A,66.16,77.2,52.09,8,yes,Not placed
+50,F,A,85.33,93.8,77.5,1,yes,Placed
+51,F,A,87.42,92.2,78,0,yes,Placed
+52,M,A,79,79,55.49,7,yes,Not placed
+53,M,A,82.9,73.4,52,9,yes,Not placed
+54,M,A,72,84.5,67.21,0,yes,Placed
+55,M,A,85.5,83.6,60.35,3,yes,Not placed
+56,F,A,87.33,92,70.85,0,NO,Placed
+57,M,A,64,56.7,31.2,22,,Not placed
+58,M,A,72.5,67.8,52.31,5,yes,Not placed
+59,F,A,90.3,93.7,77.95,0,yes,Placed
+60,F,A,90.66,94.7,81.1,0,yes,Placed
+61,F,B,81.83,85.6,60.72,6,NO,Not placed
+62,F,B,85.33,91.2,74.3,0,NO,Placed
+63,M,B,77.33,76.5,52,7,NO,Not placed
+64,M,B,79.6,69.2,49.68,20,yes,Not placed
+65,F,B,86,94.2,78.6,0,NO,Placed
+66,F,B,90,91.6,72.4,0,yes,Placed
+67,F,B,83.66,90.4,72.47,0,yes,Placed
+68,F,B,86.66,89.9,75.13,0,yes,Placed
+69,M,B,85,61,52.56,6,NO,Not placed
+70,M,B,47.8,52.4,44.73,22,NO,Not placed
+71,F,B,90.33,95.6,80.47,0,yes,Placed
+72,M,B,79,93,59,2,yes,Not placed
+73,F,B,81.83,83.7,68.9,0,yes,Not placed
+74,M,B,88.16,80.1,63.41,1,NO,Placed
+75,F,B,75.5,81.7,73.13,0,yes,Not placed
+76,M,B,78.6,87.8,56.88,10,yes,Not placed
+77,M,B,78,59,51.06,17,NO,Not placed
+78,F,B,74.16,91.7,73.09,1,NO,Not placed
+79,F,B,89,86,65.6,0,NO,Not placed
+80,M,B,70,81,57.75,3,NO,Not placed
+81,M,B,86,91.9,62.16,2,NO,Not placed
+82,F,B,84.84,91.6,70.09,0,NO,Placed
+83,M,B,83.66,90.5,57.8,2,NO,Placed
+84,M,B,89,88.9,63,1,NO,Not placed
+85,F,B,74,88.4,76.02,0,NO,Placed
+86,F,B,87.33,83.8,69.48,0,NO,Placed
+87,F,B,50.66,54.2,60.53,1,NO,Not placed
+88,M,B,82,73.6,42,11,NO,Not placed
+89,M,B,65.3,77.7,62.99,1,NO,Not placed
+90,F,B,83,83,62.97,1,NO,Not placed
+91,M,B,60.83,80.2,54,5,NO,Not placed
+92,M,B,83.16,79.9,68.7,0,NO,Not placed
+93,M,B,88.1,89.1,61.68,0,yes,Not placed
+94,M,B,72,81,51,10,NO,Not placed
+95,M,B,89.33,88.6,69.62,0,NO,Placed
+96,F,B,79.33,61.1,62.98,0,NO,Not placed
+97,F,B,92.33,96.9,88.1,0,yes,Placed
+98,F,B,76.83,80.4,72.73,0,yes,Not placed
+99,F,B,88.3,93.9,78.6,0,NO,Placed
+100,F,B,82.83,84.1,72.57,0,yes,Not placed
+101,F,B,79.83,64.2,65.46,0,NO,Not placed
+102,F,B,82.66,89.6,83.38,0,NO,Placed
+103,F,B,92.66,93.7,76.35,0,NO,Placed
+104,M,B,88,67.9,53.26,9,NO,Not placed
+105,F,B,68.16,62.6,64.63,0,NO,Not placed
+106,M,B,84.1,73,57.3,0,NO,Not placed
+107,M,B,74.5,69.6,56.89,2,NO,Not placed
+108,M,B,83,81.01,58,1,NO,Not placed
+109,M,B,62,70.91,55.7,2,NO,Not placed
+110,M,B,81,73,42.17,15,NO,Not placed
+111,M,B,82.3,75.13,54.16,2,NO,Not placed
+112,M,B,63.66,69,61,1,NO,Not placed
+113,M,B,81.1,78.6,35.84,16,NO,Not placed
+114,M,B,81.3,85.12,68.5,0,NO,Not placed
+115,M,B,83.5,89.9,76.3,0,NO,Not placed
+116,M,B,85.5,90.63,74.5,0,NO,Not placed
+117,M,B,80,83.33,65.53,0,NO,Not placed
