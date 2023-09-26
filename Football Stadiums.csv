@@ -1,0 +1,1821 @@
+S.No,Confederation,Stadium,City,HomeTeams,Capacity,Country,IOC
+1,UEFA,Stadiumi Besëlidhja,Lezhë,Besëlidhja,7000,Albania,ALB
+2,UEFA,Stadiumi Flamurtari,Vlorë,Flamurtari Vlorë,8200,Albania,ALB
+3,UEFA,Stadiumi Laçi,Laçi,KF Laçi,5000,Albania,ALB
+4,UEFA,Stadiumi Niko Dovana,Durrës,Teuta,12040,Albania,ALB
+5,UEFA,Stadiumi Selman Stërmasi,Tirana,"KF Tirana, Dinamo, Partizani",9500,Albania,ALB
+6,UEFA,Stadiumi Skënderbeu,Korçë,Skënderbeu,7500,Albania,ALB
+7,CAF,Stade 1er Novembre 1954,Tizi Ouzu,JSK,20000,Algeria,ALG
+8,CAF,Stade Ahmed Zabana,Oran,MC Oran,40000,Algeria,ALG
+9,CAF,Stade Amar Hareche,El Eulma,MCEE,5000,Algeria,ALG
+10,CAF,Stade de l'Unité Maghrébine,Béjaïa,"MO Béjaïa, JSM Béjaïa",22000,Algeria,ALG
+11,CAF,Stade Mohamed Boumezrag,Chlef,ASO Chlef,17000,Algeria,ALG
+12,CAF,Stade Mohamed-Benhaddad,Algiers,RC Kouba,10000,Algeria,ALG
+13,CAF,Stade Omar Hamadi,Algiers,USM Alger,12000,Algeria,ALG
+14,CAF,Stade Tahar Zoughari,Relizane,RC Relizane,20000,Algeria,ALG
+15,CAF,Estádio da Tundavala,Lubango,Sport Lubango e Benfica,20000,Angola,ANG
+16,CAF,Estádio de Ombaka,Benguela,Clube 1° de Maio,35000,Angola,ANG
+17,CAF,Estádio do Chiazi,Cabinda,FC de Cabinda,20000,Angola,ANG
+18,CONMEBOL,El Cementario de los Elefantes,Santa Fe,Colón,32000,Argentina,ARG
+19,CONMEBOL,El Gigante de Arroyito,Rosario,Rosario Central,41654,Argentina,ARG
+20,CONMEBOL,El Monumental,Buenos Aires,River Plate,61321,Argentina,ARG
+21,CONMEBOL,El Nuevo Gasómetro,Buenos Aires,San Lorenzo,43494,Argentina,ARG
+22,CONMEBOL,Estadio Arquitecto Antonio Etcheverri,Buenos Aires,Club Ferro Caril Oeste,22797,Argentina,ARG
+23,CONMEBOL,Estadio Ciudad de La Plata,La Plata,"Estudiantes, Gimnasia",53000,Argentina,ARG
+24,CONMEBOL,Estadio del Viaducto,Sarandí,Arsenal FC,16300,Argentina,ARG
+25,CONMEBOL,Estadio Diego Armando Maradona,Buenos Aires,AA Argentinos Juniors,24800,Argentina,ARG
+26,CONMEBOL,Estadio José Amalfitani,Buenos Aires,Vélez Sarsfield,49540,Argentina,ARG
+27,CONMEBOL,Estadio Libertadores de America,Avellaneda,Independiente,48069,Argentina,ARG
+28,CONMEBOL,Estadio Marcelo Bielsa,Rosario,Newell's Old Boys,42000,Argentina,ARG
+29,CONMEBOL,Estadio Néstor Díaz Pérez,Lanús,CA Lanús,46519,Argentina,ARG
+30,CONMEBOL,Estadio Presidente Perón,Avellaneda,Racing Club,42500,Argentina,ARG
+31,CONMEBOL,Estadio Tomás Adolfo Ducó,Buenos Aires,Huracán,48314,Argentina,ARG
+32,CONMEBOL,La Bombonera,Buenos Aires,Boca Juniors,49000,Argentina,ARG
+33,UEFA,Alashkert Stadion,Yerevan,Alashkert,6850,Armenia,ARM
+34,UEFA,Banants Stadion,Yerevan,Banants,4860,Armenia,ARM
+35,UEFA,Hrazdan Stadion,Yerevan,"Ararat, Kilikia",54208,Armenia,ARM
+36,UEFA,Republican Stadion,Yerevan,"Pyunik, Uliss",14403,Armenia,ARM
+37,AFC,AAMI Park,Melbourne,Melbourne Victory,30050,Australia,AUS
+38,AFC,Allianz Stadium,Paddington,"Roosters, Waratahs, Sydney FC",45500,Australia,AUS
+39,AFC,Bluetongue Stadium,Gosford,Mariners,20059,Australia,AUS
+40,AFC,Cbus Super Stadium,Robina,Gold Coast United,27400,Australia,AUS
+41,AFC,Coopers Stadium,Hindmarsh,Adelaide United,17000,Australia,AUS
+42,AFC,Hunter Stadium,Newcastle,"Jets, Knights",33000,Australia,AUS
+43,AFC,Marvel Stadium,Melbourne,Melbourne Victory,56347,Australia,AUS
+44,AFC,Optus Stadium,Perth,"Eagles, Dockers, Western Force",60000,Australia,AUS
+45,AFC,Pirtek Stadium,Sydney,WS Wanderers FC,20741,Australia,AUS
+46,AFC,Subiaco Oval,Perth,"Eagles, Dockers, Western Force",42922,Australia,AUS
+47,AFC,Suncorp Stadium,Brisbane,Brisbane Roar,53223,Australia,AUS
+48,UEFA,Allianz Stadion,Vienna,Rapid,28345,Austria,AUT
+49,UEFA,BSFZ-Arena,Vienna,Admira Wacker,12000,Austria,AUT
+50,UEFA,Cashpoint-Arena,Altach,SCR,8500,Austria,AUT
+51,UEFA,Casino-Stadion,Bregenz,Schwarz-Weiß,11112,Austria,AUT
+52,UEFA,Fill Metallbau Stadion,Ried,SV Ried,7600,Austria,AUT
+53,UEFA,Franz-Fekete-Stadion,Kapfenberg,Kapfenberger SV,12000,Austria,AUT
+54,UEFA,Fußballakademie Burgenland,Mattersburg,SV Mattersburg,2500,Austria,AUT
+55,UEFA,Generali-Arena,Vienna,Austria,13500,Austria,AUT
+56,UEFA,Gernot Langes Stadion,Wattens,WSG Wattens,5200,Austria,AUT
+57,UEFA,Hohe Warte,Vienna,First Vienna,6000,Austria,AUT
+58,UEFA,Lavanttal-Arena,Wolfsberg,WAC,7300,Austria,AUT
+59,UEFA,Linzer Stadion,Linz,Blau-Weiß,21005,Austria,AUT
+60,UEFA,Merkur Arena,Graz,"Grazer AK, SK Sturm",15400,Austria,AUT
+61,UEFA,MyPhone Austria Stadion,Salzburg,Austria,1566,Austria,AUT
+62,UEFA,NV Arena,Sankt Pölten,SKN St Pölten,8000,Austria,AUT
+63,UEFA,Pappelstadion,Mattersburg,SV Mattersburg,18000,Austria,AUT
+64,UEFA,Red Bull Arena,Salzburg,Salzburg,31895,Austria,USA
+65,UEFA,Sonnenseestadion,Ritzing,"SC Ritzing, SC Eisenstadt",5000,Austria,AUT
+66,UEFA,Sportplatz Lend,Hall in Tirol,SV Hall,2000,Austria,AUT
+67,UEFA,Stadion Donawitz,Leoben,DSV Leoben,6000,Austria,AUT
+68,UEFA,Stadion Schuberth,Melk,SC Melk,2500,Austria,AUT
+69,UEFA,Stadion Tivoli NEU,Innsbruck,Wacker,16008,Austria,AUT
+70,UEFA,TGW-Arena,Pasching,"FC Pasching, LASK",7870,Austria,AUT
+71,UEFA,Wörthersee Stadion,Klagenfurt am Wörthersee,SK Austria,31957,Austria,AUT
+72,UEFA,Habil X?lilov Stadionu,Imishli,MKT-Araz,8500,Azerbaijan,AZE
+73,UEFA,??fa  Stadionu,Baku,"Inter, Olimpik, Standard",7535,Azerbaijan,AZE
+74,UEFA,Tofiq B?khramov Stadionu,Baku,"Neftchi, FK Baku",31100,Azerbaijan,AZE
+75,AFC,Bangabandhu National Stadium,Dhaka,"Brothers Union, Mohammedan SC, Abahani Ltd",36000,Bangladesh,BAN
+76,UEFA,Borisov Arena,Borisov,BATE,13121,Belarus,BLR
+77,UEFA,Neman Stadion,Grodno,Neman,8800,Belarus,BLR
+78,UEFA,Stadion Brestskiy,Brest,Dynamo,10169,Belarus,BLR
+79,UEFA,Stadion Dinama,Minsk,Dinamo,34000,Belarus,BLR
+80,UEFA,Stadion Dinamo-Yuni,Minsk,Dinamo,4500,Belarus,BLR
+81,UEFA,Stadion Horodskiy,Borisov,BATE,5402,Belarus,BLR
+82,UEFA,Stadion Torpedo,Zhodino,Torpedo-BelAZ,6542,Belarus,BLR
+83,UEFA,Stadion Torpedo,Minsk,Torpedo Minsk,5200,Belarus,BLR
+84,UEFA,Stadion Traktor,Minsk,"MTZ-RIPO, Zvezda-VA-BGU",17586,Belarus,BLR
+85,UEFA,AFAS Stadion,Mechelen,KV Mechelen,16672,Belgium,BEL
+86,UEFA,Albertparkstadion,Ostenda,KV Oostende,8000,Belgium,BEL
+87,UEFA,Bosuil Stadion,Antwerp,Royal FC,15975,Belgium,BEL
+88,UEFA,Constant Vanden Stock Stadion,Brussels,Anderlecht,28063,Belgium,BEL
+89,UEFA,Daknamstadion,Lokeren,SC Lokeren,12000,Belgium,BEL
+90,UEFA,De Leunen,Geel,ASV Geel,10524,Belgium,BEL
+91,UEFA,De Pluimen,Dikmsuide,KSV Diksmuide,2500,Belgium,BEL
+92,UEFA,Edmond Machtens-Stadion,Sint-Jans-Molenbeek,FC Brussels,15266,Belgium,BEL
+93,UEFA,Freethiel,Beveren,Waasland-Beveren,13290,Belgium,BEL
+94,UEFA,Gemeentelijk Parkstadion,Boom,Rupel Boom,9450,Belgium,BEL
+95,UEFA,Ghelamco Arena,Gent,KAA Gent,19999,Belgium,BEL
+96,UEFA,Henri Houtsaeger Stadion,Koksijde,KVVC,2500,Belgium,BEL
+97,UEFA,Herman Vanderpoortenstadion,Lier,Lierse,15500,Belgium,BEL
+98,UEFA,Jan Breydel Stadion,Brugge,"Club Brugge, Cercle Brugge",29022,Belgium,BEL
+99,UEFA,Kehrwegstadion,Eupen,KAS Eupen,8400,Belgium,BEL
+100,UEFA,King Power at Den Dreef Stadion,Leuven,OH Leuven,10020,Belgium,BEL
+101,UEFA,Ludo Coeck Stadion,Antwerp,Berchem Sport,13607,Belgium,BEL
+102,UEFA,Luminus Arena,Genk,Genk,23718,Belgium,BEL
+103,UEFA,Olympisch Stadion,Antwerp,Beerschot Wilrijk,12771,Belgium,BEL
+104,UEFA,Pierre Cornelisstadion,Aalst,Eendracht,6294,Belgium,BEL
+105,UEFA,Regenboogstadion,Waregem,Zulte,11020,Belgium,BEL
+106,UEFA,Schierveldestadion,Roeselare,KSV Roeselare,9036,Belgium,BEL
+107,UEFA,Staaien,Sint-Truiden,St-Truiden VV,12125,Belgium,BEL
+108,UEFA,Stade Charles Tondreau,Mons,RAEC Mons,12662,Belgium,BEL
+109,UEFA,Stade de la Neuville,Charleroi,ROC de Charleroi,12164,Belgium,BEL
+110,UEFA,Stade de Sclessin,Liège,Standard,30023,Belgium,BEL
+111,UEFA,Stade du Pays de Charleroi,Charleroi,Charleroi,14000,Belgium,BEL
+112,UEFA,Stade du Tivoli,La Louvière,UR La Louvière Centre,12500,Belgium,BEL
+113,UEFA,Stade Le Cannonier,Mouscron,Royal Mouscron-Péruwelz,10830,Belgium,BEL
+114,UEFA,Stade Robert Urbain,Boussu,Royal Boussu,6000,Belgium,BEL
+115,UEFA,t’Kuipje,Westerlo,KVC Westerlo,10278,Belgium,BEL
+116,CONMEBOL,Estadio Hernando Siles,La Paz,"The Strongest, Destroyers, Mariscal Braun",42000,Bolivia,BOL
+117,CONMEBOL,Estadio Juan Carlos Durán Saucedo,Santa Cruz,Real,10000,Bolivia,BOL
+118,CONMEBOL,Estadio Ramón Aguilera,Santa Cruz de la Sierra,"Oriente Petrolero, Destroyers, Guabira, Blooming",38000,Bolivia,BOL
+119,UEFA,Olimpiskij Stadion Koševo,Sarajevo,FK Sarajevo,35630,Bosnia-Herzegovina,BIH
+120,UEFA,Stadion Banja Ilidža,Grada?ac,Zvijezda,5000,Bosnia-Herzegovina,BIH
+121,UEFA,Stadion Bilino Polje,Zenica,?elik,18000,Bosnia-Herzegovina,BIH
+122,UEFA,Stadion Gradski,Banja Luka,Borac,9730,Bosnia-Herzegovina,BIH
+123,UEFA,Stadion Gradski,Ugljevik,Rudar,8000,Bosnia-Herzegovina,BIH
+124,UEFA,Stadion Gradski,Orašje,HNK Orašje,3000,Bosnia-Herzegovina,BIH
+125,UEFA,Stadion Grbavica,Sarajevo,"Željezni?ar, Olimpik",16100,Bosnia-Herzegovina,BIH
+126,UEFA,Stadion Jedinstvo,Biha?,Jedinstvo,7500,Bosnia-Herzegovina,BIH
+127,UEFA,Stadion Mokri Dolac,Posušje,Posušje,8000,Bosnia-Herzegovina,BIH
+128,UEFA,Stadion pod Bijelim Brijegom,Mostar,HŠK Zrinjski,25000,Bosnia-Herzegovina,BIH
+129,UEFA,Stadion Ro?eni,Mostar,Velež,5294,Bosnia-Herzegovina,BIH
+130,CONMEBOL,Allianz Parque,São Paulo,Palmeiras,43713,Brazil,BRA
+131,CONMEBOL,Arena Barueri,Barueri,"SC Barueri, Grêmio",35000,Brazil,BRA
+132,CONMEBOL,Arena Condá,Chapecó,Chapecoense,19325,Brazil,BRA
+133,CONMEBOL,Arena Corinthians,São Paulo,Corinthians,48234,Brazil,BRA
+134,CONMEBOL,Arena da Baixada,Cúritiba,Paranaense,43981,Brazil,BRA
+135,CONMEBOL,Arena das Dunas,Natal,"América FC, ABC FC",31375,Brazil,BRA
+136,CONMEBOL,Arena do Grêmio,Pôrto Alegre,Gr?mio,60540,Brazil,BRA
+137,CONMEBOL,Arena Pantanal,Cuiabá,"Mixto, Cuiabá EC",41390,Brazil,BRA
+138,CONMEBOL,Estádio Anacleto Campanella,São Caetano do Sul,AD São Caetano,14400,Brazil,BRA
+139,CONMEBOL,Estádio Beira-Rio,Pôrto Alegre,Internacional,51800,Brazil,BRA
+140,CONMEBOL,Estádio Boca do Lobo,Pelotas,EC Pelotas,23336,Brazil,BRA
+141,CONMEBOL,Estádio Brinco de Ouro,Campinas,Guarani FC,29130,Brazil,BRA
+142,CONMEBOL,Estádio Caio Martins,Niterói,Botafogo,15000,Brazil,BRA
+143,CONMEBOL,Estádio Castelão,Fortaleza,"Fortaleza, Ceará, Ferroviário",63903,Brazil,BRA
+144,CONMEBOL,Estádio Couto Pereira,Cúritiba,Coritiba FC,40310,Brazil,BRA
+145,CONMEBOL,Estádio de Pituaçu,Salvador da Bahia,Bahia,32157,Brazil,BRA
+146,CONMEBOL,Estádio do Arruda,Recife,Santa Cruz,53289,Brazil,BRA
+147,CONMEBOL,Estádio do Canindé,São Paulo,A.D. Portuguesa,21004,Brazil,BRA
+148,CONMEBOL,Estádio do Morumbi,São Paulo,FC São Paulo,67428,Brazil,BRA
+149,CONMEBOL,Estádio dos Aflitos,Recife,Náutico Capibaribe,28000,Brazil,BRA
+150,CONMEBOL,Estádio Ilha do Retiro,Recife,SC Recife,45500,Brazil,BRA
+151,CONMEBOL,Estádio Joaquim Henrique Nogueira,Sete Lagoas,Democrata FC,18870,Brazil,BRA
+152,CONMEBOL,Estádio Kléber Andrade,Cariacica,Rio Branco,21150,Brazil,BRA
+153,CONMEBOL,Estádio Mangueirão,Belém,Remo,45007,Brazil,BRA
+154,CONMEBOL,Estádio Manoel Barradas,Salvador da Bahia,Vitória,34842,Brazil,BRA
+155,CONMEBOL,Estádio Mineirão,Belo Horizonte,"Cruzeiro, Mineiro",62160,Brazil,BRA
+156,CONMEBOL,Estádio Moisés Lucarelli,Campinas,Ponte Preta,27946,Brazil,BRA
+157,CONMEBOL,Estádio Nacional,Brasilia,Brasília FC,72888,Brazil,BRA
+158,CONMEBOL,Estádio Nilton Santos,Rio de Janeiro,Botafogo,44661,Brazil,BRA
+159,CONMEBOL,Estádio Olímpico Monumental,Pôrto Alegre,Gr?mio,51081,Brazil,BRA
+160,CONMEBOL,Estádio Presidente Vargas,Fortaleza,"Fortaleza EC, Tiradentes, Ceará",20268,Brazil,BRA
+161,CONMEBOL,Estádio Raulino de Oliveira,Volta Redonda,"Flamengo, Fluminense",21000,Brazil,BRA
+162,CONMEBOL,Estádio São Januário,Rio de Janeiro,Vasco,25000,Brazil,BRA
+163,CONMEBOL,Estádio Serra Dourada,Goiânia,"Goiás, Vila Nova, Atlético Goianiense, Goiânia",50049,Brazil,BRA
+164,CONMEBOL,Estádio Vila Belmiro,Santos,Santos FC,15800,Brazil,BRA
+165,CONMEBOL,Estádio Zerão,Macapá,"Amapá Clube, EC Macapá, Trem, Ypiranga Clube",13680,Brazil,BRA
+166,CONMEBOL,Independência,Belo Horizonte,"América FC, Atlético Mineiro",23950,Brazil,BRA
+167,CONMEBOL,Itaipava Arena Fonte Nova,Salvador da Bahia,EC Bahia,50000,Brazil,BRA
+168,CONMEBOL,Itaipava Arena Pernambuco,São Lourenço da Mata,Náutico Capibaribe,46154,Brazil,BRA
+169,CONMEBOL,Maracanã,Rio de Janeiro,"Flamengo, Botafogo, Fluminense, Vasco",78838,Brazil,BRA
+170,AFC,Stadium Balapan,Bandar Seri Begawan,"Jerudong, Gunners, NBT, Majra",3000,Brunei,BRU
+171,AFC,Stadium Negara Hassanal Bolkiah,Bandar Seri Begawan,DPMM FC,30000,Brunei,BRU
+172,UEFA,Ludogorets Arena,Razgrad,Ludogorets,9000,Bulgaria,BUL
+173,UEFA,Stadion „Akademik”,Sofia,Akademik,10000,Bulgaria,BUL
+174,UEFA,Stadion 9. Septembri,Burgas,Czernomorec,22000,Bulgaria,BUL
+175,UEFA,Stadion Bâlgarska Armiya,Sofia,CSKA,22015,Bulgaria,BUL
+176,UEFA,Stadion Bonchuk,Dupnitsa,Marek,16050,Bulgaria,BUL
+177,UEFA,Stadion Georgi Asparuhov,Sofia,Levski,29200,Bulgaria,BUL
+178,UEFA,Stadion Hristo Botev,Plovdiv,Botev,21000,Bulgaria,BUL
+179,UEFA,Stadion Hristo Botev,Blagoevgrad,Pirin,7500,Bulgaria,BUL
+180,UEFA,Stadion Lazur,Burgas,Neftochimic,18339,Bulgaria,BUL
+181,UEFA,Stadion Lokomotiv,Plovdiv,Lokomotiv,12000,Bulgaria,BUL
+182,UEFA,Stadion Lokomotiv,Sofia,Lokomotiv,16000,Bulgaria,BUL
+183,UEFA,Stadion ?owecz,Lovech,Litex,7050,Bulgaria,BUL
+184,UEFA,Stadion Slavija,Sofia,Slavija,18000,Bulgaria,BUL
+185,UEFA,Stadion Spartak,Varna,Spartak,12000,Bulgaria,BUL
+186,AFC,Bogyoke Aung San Stadium,Yangon,Manaw Mayay,40000,Burma,MYA
+187,AFC,Mandalar Thiri Sports Stadium,Mandalay,Yadanarbon,30589,Burma,MYA
+188,AFC,Thuwunna YTC Stadium,Yangon,Rakhapura United,50000,Burma,MYA
+189,CAF,Stade Prince Louis Rwagasore,Bujumbura,"Prince Louis, Vital'O",22000,Burundi,BDI
+190,AFC,Changlimithang Stadium,Thimphu,"Druk Pol, Druk Star, Druk United, Thimpu City",15000,Butan,BHU
+191,CONCACAF,BC Place,Vancouver,"Whitecaps, Lions",52465,Canada,CAN
+192,CONCACAF,BMO Field,Toronto,Toronto FC,30991,Canada,CAN
+193,CONCACAF,Commonwealth Stadium,Edmonton,Eskimos,56302,Canada,CAN
+194,CONCACAF,Investors Group Field,Winnipeg,Blue Bombers,33422,Canada,CAN
+195,CONCACAF,Lamport Stadium,Toronto,Serbian White Eagles,9600,Canada,CAN
+196,CONCACAF,McMahon Stadium,Calgary,"Stampeders, Dinos",35650,Canada,CAN
+197,CONCACAF,Mosaic Stadium,Regina,Roughriders,33000,Canada,CAN
+198,CONCACAF,Olympic Stadium,Montreal,Alouettes,66308,Canada,CAN
+199,CONCACAF,Percival Molson Stadium,Montreal,Alouettes,25012,Canada,CAN
+200,CONCACAF,Rogers Centre,Toronto,Argonauts,54000,Canada,CAN
+201,CONCACAF,Stade Saputo,Montreal,Impact,20801,Canada,CAN
+202,CONCACAF,TD Place Stadium,Ottawa,"Redblacks, Fury",24000,Canada,CAN
+203,CONCACAF,Tim Hortons Field,Hamilton,Tiger-Cats,24000,Canada,CAN
+204,CONMEBOL,Estadio Bicentenario La Florida,La Florida,Audax Italiano,12000,Chile,CHI
+205,CONMEBOL,Estadio CAP,Talcahuano,CD Huachipato,10500,Chile,CHI
+206,CONMEBOL,Estadio Carlos Dittborn,Arica,San Marcos,9746,Chile,CHI
+207,CONMEBOL,Estadio El Teniente,Rancagua,O’Higgins,14087,Chile,CHI
+208,CONMEBOL,Estadio Elías Figueroa,Valparaiso,Wanderers,21113,Chile,CHI
+209,CONMEBOL,Estadio Francisco Sánchez Rumoroso,Coquimbo,Unido,18750,Chile,CHI
+210,CONMEBOL,Estadio Germán Becker,Temuco,CD Temuco,18125,Chile,CHI
+211,CONMEBOL,Estadio La Cisterna,Santiago,Palestino,12000,Chile,CHI
+212,CONMEBOL,Estadio La Granja,Curicó,Curicó Unido,8000,Chile,CHI
+213,CONMEBOL,Estadio La Portada,La Serena,Deportes,18243,Chile,CHI
+214,CONMEBOL,Estadio Lucio Fariña Fernández,Quillota,San Luis,7680,Chile,CHI
+215,CONMEBOL,Estadio Luis Valenzuela Hermosilla,Copiapó,Deportes Copiapó,8000,Chile,CHI
+216,CONMEBOL,Estadio Monumental David Arellano,Santiago,Colo Colo,47347,Chile,CHI
+217,CONMEBOL,Estadio Municipal de Concepción,Concepción,"Universidad, Concepción, Fernández Vial",30448,Chile,CHI
+218,CONMEBOL,Estadio Nacional,Santiago,Universidad de Chile,48745,Chile,CRC
+219,CONMEBOL,Estadio Nelson Oyarzún,Chillán,Ñublense,12000,Chile,CHI
+220,CONMEBOL,Estadio Regional Calvo y Bascuñán,Antofagasta,CD Antofagasta,21178,Chile,CHI
+221,CONMEBOL,Estadio Regional de Chinquihue,Puerto Montt,CD Puerto Montt,10000,Chile,CHI
+222,CONMEBOL,Estadio San Carlos de Apoquindo,Santiago,Universidad Católica,12000,Chile,CHI
+223,CONMEBOL,Estadio Santa Laura,Santiago,Unión Espa?ola,25000,Chile,CHI
+224,CONMEBOL,Estadio Sausalito,Viña del Mar,Everton,23423,Chile,CHI
+225,CONMEBOL,Estadio Zorros del Desierto,Calama,CD Cobreloa,12346,Chile,CHI
+226,AFC,Dalian Sports Center Stadium,Dalian,Aerbin,61000,China,CHN
+227,AFC,Hefei Olympic Stadium,Hefei,Jiufang,60000,China,CHN
+228,AFC,Hongkou Stadium,Shanghai,Shenua,33060,China,CHN
+229,AFC,Huangpu Sports Center Stadium,Guangzhou,Guangdong FC,12000,China,CHN
+230,AFC,Nanjing Olympic Stadium,Nanjing,Sainty,61443,China,CHN
+231,AFC,People’s Stadium,Dalian,Shide,55843,China,CHN
+232,AFC,Shandong Sports Center,Jinan,Luneng Taishan,43700,China,CHN
+233,AFC,Shanghai Stadium,Shanghai,SIPG FC,56842,China,CHN
+234,AFC,Shaoxing Stadium,Shaoxing,Zhejiang Yiteng,40000,China,CHN
+235,AFC,Teda Football Stadium,Tianjin,Teda,36390,China,CHN
+236,AFC,Tianhe Stadium,Guangzhou,Evergrande,58500,China,CHN
+237,AFC,Workers’ Stadium,Beijing,Hyundai,66161,China,CHN
+238,AFC,Wuhan Sports Center Stadium,Wuhan,Zall,52672,China,CHN
+239,AFC,Yuanshen Stadium,Shanghai,Zobon,20000,China,CHN
+240,AFC,Yuexiushan Stadium,Guangzhou,Guangzhou R&F,20000,China,CHN
+241,CONMEBOL,Estadio Atanasio Girardot,Medellín,"Atlético, Independiente",40043,Colombia,COL
+242,CONMEBOL,Estadio General Santander,Cúcuta,Deportivo,42901,Colombia,COL
+243,CONMEBOL,Estadio Hernán Ramírez Villegas,Pereira,Deportivo Pereira,38500,Colombia,COL
+244,CONMEBOL,Estadio Jaime Morón León,Cartagena,Real,14000,Colombia,COL
+245,CONMEBOL,Estadio Metropolitano,Baranquilla,"Junior, Uniautónoma",49612,Colombia,COL
+246,CONMEBOL,Estadio Nemesio Camacho,Bogotá,"Santa Fe, Millonarios",36343,Colombia,COL
+247,CONMEBOL,Estadio Palogrande,Manizales,Once Caldas,32000,Colombia,COL
+248,CONMEBOL,Estadio Pascual Guerrero,Cali,"América, Deportivo, Depor",33130,Colombia,COL
+249,CONCACAF,Estadio Alejandro Morera Soto,Alajuela,LD Alajuelense,17895,Costa Rica,CRC
+250,CONCACAF,Estadio Miguel „Lito” Pérez,Puntarenas,Puntarenas FC,4105,Costa Rica,CRC
+251,CONCACAF,Estadio Ricardo Saprissa,San José,Deportivo Saprissa,23112,Costa Rica,CRC
+252,UEFA,Stadion Aldo Drosina,Pula,"Istra 1961, Istra Pula",8923,Croatia,CRO
+253,UEFA,Stadion Branko ?avlovi?-?avlek,Karlovac,NK Karlovac,12000,Croatia,CRO
+254,UEFA,Stadion Cibalia,Vinkovci,Cibalia,10000,Croatia,CRO
+255,UEFA,Stadion Gospin Dolac,Imotski,NK Imotski,2766,Croatia,CRO
+256,UEFA,Stadion Gradski,Koprivnica,Slaven,3134,Croatia,CRO
+257,UEFA,Stadion Gradski vrt,Osijek,NK Osjiek,18856,Croatia,CRO
+258,UEFA,Stadion Hrvatski vitezovi,Rijeka,NK Dugopolje,5200,Croatia,CRO
+259,UEFA,Stadion Intera,Zapreši?,Inter,4528,Croatia,CRO
+260,UEFA,Stadion Kamen Ingrad,Velika,Kamen Ingrad,7095,Croatia,CRO
+261,UEFA,Stadion Kranj?evi?eva,Zagreb,"NK Zagreb, Lokomotiva",8850,Croatia,CRO
+262,UEFA,Stadion Lu?ko,Zagreb,NK Lu?ko,1800,Croatia,CRO
+263,UEFA,Stadion Maksimir,Zagreb,Dinamo,38168,Croatia,CRO
+264,UEFA,Stadion na Kantridi,Rijeka,NK Rijeka,10275,Croatia,CRO
+265,UEFA,Stadion NK Varteks,Varaždin,Varteks,9099,Croatia,CRO
+266,UEFA,Stadion Poljud,Split,Hajduk,34448,Croatia,CRO
+267,UEFA,Stadion Radnik,Velika Gorica,HNK Gorica,8000,Croatia,CRO
+268,UEFA,Stadion Rujevica,Rijeka,NK Rijeka,8279,Croatia,CRO
+269,UEFA,Stadion SRC Mladost,?akovec,Me?imurje,8000,Croatia,CRO
+270,UEFA,Stadion Stanovi,Zadar,NK Zadar,5860,Croatia,CRO
+271,UEFA,Stadion Stjepan Spaji?,Zagreb,Hrvatski dragovoljac,4500,Croatia,CRO
+272,UEFA,Stadion Šubi?evac,Šibenik,Šibenik,8500,Croatia,CRO
+273,UEFA,Stadion u Pricvi?u,Žrnovnica,Mosor,3000,Croatia,CRO
+274,UEFA,Ammóchostos,Larnaca,Néa Salamís,4000,Cyprus,CYP
+275,UEFA,Antonis Papadopoulos,Larnaca,Anorthosis,9319,Cyprus,CYP
+276,UEFA,Makario,Nicosia,"Ethnikos, Digenis",16440,Cyprus,CYP
+277,UEFA,Neo GSP,Nicosia,"APOEL, Omonia, Olympiakos",22859,Cyprus,CYP
+278,UEFA,Pafiako Athlítiko Kentro,Paphos,Pafos FC,9394,Cyprus,CYP
+279,UEFA,Paralimni,Paralimni,Enosis Neon Paralimni,5800,Cyprus,CYP
+280,UEFA,Tsirion Athlitiko Kentro,Limassol,"Aris, AEL, Apollon",13261,Cyprus,CYP
+281,UEFA,Zenon Athlitiko Kentro,Larnaca,"AEK, Alki",13032,Cyprus,CYP
+282,UEFA,Andr?v Stadion,Olomouc,Sigma,12566,Czech Republic,CZE
+283,UEFA,Chance Arena,Jablonec nad Nisou,FK Jablonec,6280,Czech Republic,CZE
+284,UEFA,?olí?ek,Prague,Bohemians 1905,5000,Czech Republic,CZE
+285,UEFA,Doosan Arena,Pilzno,Viktoria,11700,Czech Republic,CZE
+286,UEFA,Eden Aréna,Prague,Slavia,21000,Czech Republic,CZE
+287,UEFA,Generali Arena,Prague,Sparta,18944,Czech Republic,CZE
+288,UEFA,Juliska,Prague,Dukla,4560,Czech Republic,CZE
+289,UEFA,Letná Stadion,Zlín,FC Fastav Zlín,6375,Czech Republic,CZE
+290,UEFA,M?stský fotbalový stadion Srbská,Brno,Zbrojovka,10785,Czech Republic,CZE
+291,UEFA,M?stský stadion,Karvina,MFK Karviná,4833,Czech Republic,CZE
+292,UEFA,Mestsky Stadion Liberec,Liberec,FC Slovan Liberec,7000,Czech Republic,CZE
+293,UEFA,M?stský stadion Mladá Boleslav,Mladá Boleslav,FK Mladá Boleslav,5000,Czech Republic,CZE
+294,UEFA,M?stský stadión Znojmo,Znojmo,1. SC Znojmo,5000,Czech Republic,CZE
+295,UEFA,Na Litavce,P?íbram,FK P?íbram,9100,Czech Republic,CZE
+296,UEFA,Na Stínadlech,Teplice,FK Teplice,18221,Czech Republic,CZE
+297,UEFA,Pod Vinicí,Pardubice,FK Pardubice,3000,Czech Republic,CZE
+298,UEFA,Stadion 1. HFK Olomouc,Olomouc,HFK Olomouc,2900,Czech Republic,CZE
+299,UEFA,Stadion Banik Sokolov,Sokolov,Banik,5000,Czech Republic,CZE
+300,UEFA,Stadion Dukla,Havirov,MFK Haví?ov,7500,Czech Republic,CZE
+301,UEFA,Stadion FK Drnovice,Drnovice,FK Drnovice,6400,Czech Republic,CZE
+302,UEFA,Stadion Františka Kloze,Kladno,SK Kladno,4000,Czech Republic,CZE
+303,UEFA,Stadion Josefa Masopusta,Most,Siad,7500,Czech Republic,CZE
+304,UEFA,Stadion Markéta,Prague,"Olymp, Markéta",17500,Czech Republic,CZE
+305,UEFA,Stadion Miroslava Valenty,Uherské Hradišt?,Slovácko,8121,Czech Republic,CZE
+306,UEFA,Stadion na St?eleckém Ostrov?,Czeskie Budziejowice,Dynamo,6746,Czech Republic,CZE
+307,UEFA,Stadion na Zadních Vinohradech,Chomutov,FC Chomutov,4800,Czech Republic,CZE
+308,UEFA,Stadion u Nisy,Liberec,FC Slovan Liberec,9900,Czech Republic,CZE
+309,UEFA,Stadion v Jiráskov? ulici,Jihlava,Vyso?ina,4075,Czech Republic,CZE
+310,UEFA,Viktoria Stadion,Prague,Viktoria Žižkov,5600,Czech Republic,CZE
+311,UEFA,Vítkovice Aréna,Ostrava,"MFK Vítkovice, Baník Ostrava",15000,Czech Republic,CZE
+312,UEFA,Všesportovní Stadion,Hradec Králové,FC Hradec Králové,7100,Czech Republic,CZE
+313,UEFA,Aalborg Portland Park,Aalborg,AaB,13800,Denmark,DEN
+314,UEFA,BioNutria Park Randers,Randers,Randers FC,10300,Denmark,DEN
+315,UEFA,Blue Water Arena,Esbjerg,Esbjerg FB,18000,Denmark,DEN
+316,UEFA,Brøndby Stadion,Brøndby,Brøndby IF,31400,Denmark,DEN
+317,UEFA,CASA Arena Horsens,Horsens,AC Horsens,10400,Denmark,DEN
+318,UEFA,Ceres Park,Århus,AGF Århus,20220,Denmark,DEN
+319,UEFA,DS Arena,Hobro,Hobro IK,10700,Denmark,DEN
+320,UEFA,EWII Park,Odense,OB,15761,Denmark,DEN
+321,UEFA,Gladsaxe Idrætspark,Søborg,Akademisk,12000,Denmark,DEN
+322,UEFA,Helsingør Stadion,Helsingør,FC Helsingør,5500,Denmark,DEN
+323,UEFA,JYSK park,Silkeborg,Silkeborg IF,10000,Denmark,DEN
+324,UEFA,Lyngby Stadion,Lyngby,Lyngby BK,9000,Denmark,DEN
+325,UEFA,MCH Arena,Herning,Midtjylland,11535,Denmark,DEN
+326,UEFA,Næstved Stadion,Næstved,Næstved BK,10000,Denmark,DEN
+327,UEFA,Right to Dream Park,Farum,Nordsj?lland,10100,Denmark,DEN
+328,UEFA,Slagelse Stadion,Slagelse,Slagelse BK,10000,Denmark,DEN
+329,UEFA,Sundby IP,Kopenhagen,Fremad Amager,7200,Denmark,DEN
+330,UEFA,Sydbank Park,Haderslev,Sønderjysk,10000,Denmark,DEN
+331,UEFA,Telia Parken,Kopenhagen,FC København,38009,Denmark,DEN
+332,UEFA,Valby Idrætspark,Kopenhagen,Frem,12000,Denmark,DEN
+333,CONMEBOL,Estadio Capwell,Guayaquil,Emelec,40059,Ecuador,ECU
+334,CONMEBOL,Estadio Monumental Banco Pichincha,Guayaquil,Barcelona,59283,Ecuador,ECU
+335,CONMEBOL,Estadio Olímpico Atahualpa,Quito,"El Nacional, Deportivo Quito",39816,Ecuador,ECU
+336,CONMEBOL,La Casa Blanca,Quito,LDU Quito,41596,Ecuador,ECU
+337,CAF,Cairo International Stadium,Cairo,"Zamalek, Al-Ahly",74100,Egypt,EGY
+338,CAF,Harras El-Hedoud Stadium,Alexandria,Sawahel,22000,Egypt,EGY
+339,CAF,Military Academy Stadium,Cairo,Al-Jaish,28500,Egypt,EGY
+340,CAF,Mukhtar Al-Tetsh Stadium,Cairo,Al-Ahly,25000,Egypt,EGY
+341,CAF,Port Said Stadium,Port Said,Al-Masry,17988,Egypt,EGY
+342,UEFA,ABAX Stadium,Peterborough,Peterborough Utd,14319,England,ENG
+343,UEFA,Abbey Business Stadium,Chaltenham,"Chaltenham Town, Gloucester City",7066,England,ENG
+344,UEFA,Abbey Stadium,Cambridge,Cambridge United,9617,England,ENG
+345,UEFA,Academy Stadium,Manchester,Manchester City,7000,England,ENG
+346,UEFA,Adams Park,Wycombe,Wycombe Wanderers,10284,England,ENG
+347,UEFA,Aggborough,Kidderminster,Harriers,6238,England,ENG
+348,UEFA,Alexandra Stadium,Crewe,Crewe Alexandra,10153,England,ENG
+349,UEFA,Amex Stadium,Brighton & Hove,Albion,30666,England,ENG
+350,UEFA,Anfield,Liverpool,Liverpool,53394,England,ENG
+351,UEFA,Ashton Gate,Bristol,Bristol City,27699,England,ENG
+352,UEFA,Banks’s Stadium,Walsall,Walsall FC,11300,England,ENG
+353,UEFA,bet365 Stadium,Stoke-on-Trent,Stoke City,30089,England,ENG
+354,UEFA,Bloomfield Road,Blackpool,Blackpool FC,16220,England,ENG
+355,UEFA,Blundell Park,Grimsby,Grimsby Town,9052,England,ENG
+356,UEFA,Boleyn Ground,London,West Ham,35345,England,ENG
+357,UEFA,Boundary Park,Oldham,Athletic,10638,England,ENG
+358,UEFA,Bramall Lane,Sheffield,Sheffield United,32702,England,ENG
+359,UEFA,Bristol Memorial Stadium,Bristol,Rovers,11917,England,ENG
+360,UEFA,Broadhurst Park,Manchester,FC United,4400,England,ENG
+361,UEFA,Brunton Park,Carlisle,United,16980,England,ENG
+362,UEFA,Carrow Road,Norwich,Norwich City,27033,England,ENG
+363,UEFA,Checkatrade.com Stadium,Crawley,Crawley Town,6134,England,ENG
+364,UEFA,City Ground,Nottingham,Nottingham Forest,30445,England,ENG
+365,UEFA,Colchester Community Stadium,Colchester,Colchester United,10084,England,ENG
+366,UEFA,County Ground,Swindon,Swindon Town FC,15728,England,ENG
+367,UEFA,Craven Cottage,London,Fulham,25700,England,ENG
+368,UEFA,DCJ Group Insurance Arena,Matlock,Matlock Town,2757,England,ENG
+369,UEFA,Deepdale Stadium,Preston,Preston,23404,England,ENG
+370,UEFA,DW Stadium,Wigan,Wigan,25138,England,ENG
+371,UEFA,Elland Road,Leeds,Leeds United,39460,England,ENG
+372,UEFA,Emirates Stadium,London,Arsenal,59867,England,ENG
+373,UEFA,Etihad Stadium,Manchester,Manchester City,55017,England,ENG
+374,UEFA,Ewen Fields,Hyde,Hyde FC,4073,England,ENG
+375,UEFA,Ewood Park,Blackburn,Blackburn Rovers,31154,England,ENG
+376,UEFA,Fratton Park,Portsmouth,Portsmouth,20821,England,ENG
+377,UEFA,Gigg Lane,Bury,Bury FC,11840,England,ENG
+378,UEFA,Glanford Park,Scunthorpe,Scunthorpe United,9088,England,ENG
+379,UEFA,Globe Arena,Morecambe,Morecambe FC,6476,England,ENG
+380,UEFA,Goodison Park,Liverpool,Everton,39595,England,ENG
+381,UEFA,Griffin Park,London,Brentford FC,12300,England,ENG
+382,UEFA,Highbury Stadium,Fleetwood,Fleetwood Town,5094,England,ENG
+383,UEFA,Hillsborough,Sheffield,Sheffield Wednesday,39812,England,ENG
+384,UEFA,Home Park,Plymouth,Argyle,16388,England,ENG
+385,UEFA,Huish Park,Yeovil,Yeovil Town,9665,England,ENG
+386,UEFA,John Smith’s Stadium,Huddersfield,Huddersfield Town,24169,England,ENG
+387,UEFA,Kassam Stadium,Oxford,Oxford United,12500,England,ENG
+388,UEFA,KCOM Stadium,Hull,Hull City,24983,England,ENG
+389,UEFA,Keepmoat Stadium,Doncaster,Rovers,15231,England,ENG
+390,UEFA,Kenilworth Road,Luton,Luton Town,10226,England,ENG
+391,UEFA,King Power Stadium,Leicester,Leicester City,32273,England,ENG
+392,UEFA,Kingsmeadow,London,"Kingstonian, Wimbledon",4850,England,ENG
+393,UEFA,Loftus Road,London,QPR,18000,England,ENG
+394,UEFA,London Stadium,London,West Ham,60000,England,ENG
+395,UEFA,Macron Stadium,Bolton,Bolton Wanderers,28723,England,ENG
+396,UEFA,Madejski Stadium,Reading,Reading,24161,England,ENG
+397,UEFA,Matchroom Stadium,London,Leyton Orient,9271,England,ENG
+398,UEFA,Meadow Lane,Nottingham,Notts County,20229,England,ENG
+399,UEFA,Merseyrail Community Stadium,Southport,Southport FC,6008,England,ENG
+400,UEFA,Mill Farm,Medlar with Wesham,AFC Fylde,6000,England,ENG
+401,UEFA,Molineux Stadium,Wolverhampton,Wolverhampton,32057,England,ENG
+402,UEFA,Montgomery Waters Meadow,Shrewsbury,Shrewsbury Town,9875,England,ENG
+403,UEFA,Moor Lane,Salford,Salford City,3339,England,ENG
+404,UEFA,Moss Rose,Macclesfield,Macclesfield Town,6355,England,ENG
+405,UEFA,New York AESSEAL Stadium,Rotherham,Rotherham United FC,12021,England,ENG
+406,UEFA,Oakwell Stadium,Barnsley,Barnsley FC,23009,England,ENG
+407,UEFA,Old Trafford,Manchester,Manchester United,74994,England,ENG
+408,UEFA,One Call Stadium,Mansfield,Mansfield Town,9186,England,ENG
+409,UEFA,PHB Stadium,Northfleet,Ebbsfleet United,5011,England,ENG
+410,UEFA,Pirelli Stadium,Burton upon Trent,Burton Albion,6912,England,ENG
+411,UEFA,Plainmoor,Torquay,Torquay United,6500,England,ENG
+412,UEFA,Portman Road,Ipswich,Ipswich Town,30311,England,ENG
+413,UEFA,Prenton Park,Birkenhead,Tranmere,16587,England,ENG
+414,UEFA,Pride Park Stadium,Derby,Derby,33597,England,ENG
+415,UEFA,Priestfield Stadium,Gillingham,Gillingham FC,11582,England,ENG
+416,UEFA,Princes Park,Dartford,Dartford FC,4100,England,ENG
+417,UEFA,Proact Stadium,Chesterfield,Chesterfield FC,10379,England,ENG
+418,UEFA,Ricoh Arena,Coventry,Coventry City,32609,England,ENG
+419,UEFA,Riverside Stadium,Middlesbrough,Middlesbrough,33746,England,ENG
+420,UEFA,Roots Hall,Southend-on-Sea,Southend United,12392,England,ENG
+421,UEFA,Sandygate Road,Sheffield,Hallam FC,700,England,ENG
+422,UEFA,Selhurst Park,London,Crystal Palace,25456,England,ENG
+423,UEFA,Sincil Bank Stadium,Lincoln,Lincoln City,10127,England,ENG
+424,UEFA,South Kesteven Sports Stadium,Grantham,Grantham Town,7500,England,ENG
+425,UEFA,Spotland Stadium,Rochdale,Rochdale AFC,10249,England,ENG
+426,UEFA,St James Park,Exeter,Exeter City,8541,England,ENG
+427,UEFA,St. Andrew’s Stadium,Birmingham,Birmingham City,30009,England,ENG
+428,UEFA,St. James’ Park,Newcastle,Newcastle United,52354,England,ENG
+429,UEFA,St. Mary’s Stadium,Southampton,Southampton,32384,England,ENG
+430,UEFA,Stadium mk,Milton Keynes,Dons,30700,England,ENG
+431,UEFA,Stadium of Light,Sunderland,Sunderland,48707,England,ENG
+432,UEFA,Stamford Bridge,London,Chelsea,41631,England,ENG
+433,UEFA,Swansway Chester Stadium,Chester,Chester FC,5376,England,ENG
+434,UEFA,Tameside Stadium,Ashton-under-Lyne,Curzon Ashton,4000,England,ENG
+435,UEFA,The Den,London,Millwall,20146,England,ENG
+436,UEFA,The Dripping Pan,Lewes,Lewes FC,3000,England,ENG
+437,UEFA,The Hawthorns,West Bromwich,WBA,26688,England,ENG
+438,UEFA,The Hive,London,Barnet FC,6205,England,ENG
+439,UEFA,The New Lawn,Nailsworth,Forest Green Rovers,5032,England,ENG
+440,UEFA,The PTS Academy Stadium,Northampton,Northampton Town,7653,England,ENG
+441,UEFA,The Valley,London,Charlton Athletic,27111,England,ENG
+442,UEFA,Totally Wicked Stadium,St Helens,St. Helens RFC,17646,England,ENG
+443,UEFA,Turf Moor,Burnley,Burnley,21944,England,ENG
+444,UEFA,Vale Park,Stoke-on-Trent,Port Vale,19052,England,ENG
+445,UEFA,Valley Parade Stadium,Bradford,Bradford City,25100,England,ENG
+446,UEFA,Vicarage Road,Watford,Watford FC,21000,England,ENG
+447,UEFA,Victoria Park,Hartlepool,Hartlepool United,7856,England,ENG
+448,UEFA,Victoria Road,London,Dagenham & Redbridge,6078,England,ENG
+449,UEFA,Villa Park,Birmingham,Aston Villa,42682,England,ENG
+450,UEFA,Vitality Stadium,Bournemouth,AFC Bournemouth,11360,England,ENG
+451,UEFA,Wembley,London,Tottenham,90652,England,ENG
+452,UEFA,Wham Stadium,Accrington,Stanley,5057,England,ENG
+453,UEFA,White Hart Lane,London,Tottenham,32000,England,ENG
+454,CAF,Estadio de Malabo,Malabo,"Atlético Malabo, Atlético Semu, Deportivo Unidad,",15250,Equatorial Guinea,EQG
+455,CAF,Cicero Stadium,Asmara,"Red Sea, Adulis, Hintsa, Edaga Hamus",20000,Eritrea,ERI
+456,UEFA,A. Le Coq Arena,Tallinn,FC Flora,15000,Estonia,EST
+457,UEFA,Kadrioru Staadion,Tallinn,Levadia,4700,Estonia,EST
+458,UEFA,Kalevi Keskstaadion,Tallinn,Tallinna Kalev,11500,Estonia,EST
+459,UEFA,Valga Keskstaadion,Valga,FC Valga,2500,Estonia,EST
+460,UEFA,Á Mølini,Eiði,EB/Streymur,500,Faroe Islands,FRO
+461,UEFA,Fløtugerði,Fuglafjørður,ÍFF,3000,Faroe Islands,FRO
+462,UEFA,Gundadalur,Tórshavn,"B36, BH",5000,Faroe Islands,FRO
+463,UEFA,Lilit Svangaskarð,Toftir,B68,1200,Faroe Islands,FRO
+464,UEFA,Skála Vøllurin,Skala,Skála IF,1000,Faroe Islands,FRO
+465,UEFA,Skansi Arena,Argir,AB,2000,Faroe Islands,FRO
+466,UEFA,Svangaskarð,Toftir,B68,6000,Faroe Islands,FRO
+467,UEFA,Við Djúpumýrar,Klaksvík,KÍ Klaksvík,1500,Faroe Islands,FRO
+468,UEFA,Lahden Stadion,Lahti,FC Lahti,14465,Finland,FIN
+469,UEFA,Myyrmäen jalkapallostadion,Vantaa,PK-35 Vantaa,4700,Finland,FIN
+470,UEFA,Ratina Stadion,Tampere,FC Ilves,16820,Finland,FIN
+471,UEFA,Sonera Stadium,Helsinki,HJK,10770,Finland,FIN
+472,UEFA,Veritas Stadion,Turku,"Inter, TPS",9400,Finland,FIN
+473,UEFA,Allianz Riviera,Nice,OGC Nice,36178,France,FRA
+474,UEFA,Groupama Stadium,Lyon,Lyon,59286,France,FRA
+475,UEFA,Matmut Atlantique,Bordeaux,Bordeaux,42115,France,FRA
+476,UEFA,MMArena,Le Mans,UC Le Mans,25064,France,FRA
+477,UEFA,Orange Vélodrome,Marseille,Marseille,67394,France,FRA
+478,UEFA,Parc des Princes,Paris,PSG,47929,France,FRA
+479,UEFA,Roazhon Park,Rennes,Stade Rennais,29778,France,FRA
+480,UEFA,Stade Armand-Cesari,Furiani,SC Bastia,17000,France,FRA
+481,UEFA,Stade Auguste Bonal,Montbéliard,FC Sochaux,20005,France,FRA
+482,UEFA,Stade Auguste-Delaune,Reims,Stade Reims,21684,France,FRA
+483,UEFA,Stade Bollaert-Delelis,Lens,Lens,38223,France,FRA
+484,UEFA,Stade Crédit Agricole La Licorne,Amiens,Amiens SC,12097,France,FRA
+485,UEFA,Stade de l‘Aar,Schiltigheim,SC Schiltigheim,2500,France,FRA
+486,UEFA,Stade de l’Abbe Deschamps,Auxerre,Auxerre,18541,France,FRA
+487,UEFA,Stade de l’Aube,Troyes,ES Troyes,18200,France,FRA
+488,UEFA,Stade de l’Épopée,Calais,Calais RUFC,12432,France,FRA
+489,UEFA,Stade de l’Ill,Mulhouse,FC Mulhouse,11303,France,FRA
+490,UEFA,Stade de la Beaujoire,Nantes,Nantes,37473,France,FRA
+491,UEFA,Stade de la Libération,Boulogne-sur-Mer,US Boulogne,15034,France,FRA
+492,UEFA,Stade de la Méditerranée,Béziers,ASB,18555,France,FRA
+493,UEFA,Stade de la Meinau,Strasburg,Strasbourg,26500,France,FRA
+494,UEFA,Stade de la Mosson,Montpellier,Montpellier,32939,France,FRA
+495,UEFA,Stade de Roudourou,Guingamp,En Avant,18197,France,FRA
+496,UEFA,Stade des Alpes,Grenoble,Grenoble Foot,20068,France,FRA
+497,UEFA,Stade des Costieres,Nîmes,Nimes Olympique,18482,France,FRA
+498,UEFA,Stade du Hainaut,Valenciennes,Valenciennes FC,25172,France,FRA
+499,UEFA,Stade du Moustoir,Lorient,FC Lorient,18500,France,FRA
+500,UEFA,Stade du Ray,Nice,OGC Nice,17415,France,FRA
+501,UEFA,Stade Francis Le Basser,Laval,Stade Lavallois,18607,France,FRA
+502,UEFA,Stade Francis-Le Blé,Brest,Stade brestois 29,15305,France,FRA
+503,UEFA,Stade François-Coty,Ajaccio,AC Ajaccio,10500,France,FRA
+504,UEFA,Stade Gabriel Montpied,Clermont-Ferrand,Clermont Foot,10800,France,FRA
+505,UEFA,Stade Gaston-Gérard,Dijon,Dijon FCO,16288,France,FRA
+506,UEFA,Stade Geoffroy-Guichard,Saint-Étienne,Saint-Étienne,41965,France,FRA
+507,UEFA,Stade Jean Bouin,Paris,Stade Français,20000,France,FRA
+508,UEFA,Stade Lille-Métropole,Lille,OSC Lille,18185,France,FRA
+509,UEFA,Stade Louis Dugauguez,Sedan,Sedan,23189,France,FRA
+510,UEFA,Stade Louis II,Monaco,Monaco,18523,France,FRA
+511,UEFA,Stade Marcel Picot,Nancy,AS Nancy,20087,France,FRA
+512,UEFA,Stade Marcel-Saupin,Nantes,Nantes,1880,France,FRA
+513,UEFA,Stade Marcel-Tribut,Dunkerque,USL Dunkerque,4200,France,FRA
+514,UEFA,Stade Michel d’Ornano,Caen,SM Caen,20300,France,FRA
+515,UEFA,Stade Nungesser,Valenciennes,Valenciennes FC,16547,France,FRA
+516,UEFA,Stade Océane,Le Havre,Le Havre AC,25178,France,FRA
+517,UEFA,Stade Pierre de Coubertin,Cannes,AS Cannes,10000,France,FRA
+518,UEFA,Stade Pierre Mauroy,Lille,OSC Lille,50157,France,FRA
+519,UEFA,Stade René-Gaillard,Niort,Chamois Niortais,11352,France,FRA
+520,UEFA,Stade Saint Symphorien,Metz,Metz,26671,France,FRA
+521,UEFA,Stade Saint-Avold,Saint-Avold,Etoile Naborienne,3000,France,FRA
+522,UEFA,Stade Sébastien Charléty,Paris,Paris FC,19141,France,FRA
+523,UEFA,Stade Yves-du-Manoir,Montpellier,Montpellier Hérault Rugby,14700,France,FRA
+524,UEFA,Stadium de Toulouse,Toulouse,Toulouse,33300,France,FRA
+525,UEFA,U Arena,Paris,Racing 92,32000,France,FRA
+526,CAF,Stade de Franceville,Franceville,FC Franceville,22000,Gabon,GAB
+527,UEFA,Boris Paichadze Dinamo Arena,Tbilisi,"Dinamo, FC Tbilisi",54549,Georgia,GEO
+528,UEFA,Stadion Mikheil Meskhi,Tbilisi,"Lokomotivi, Spartaki",27223,Georgia,GEO
+529,UEFA,Stadion Ramaz Shengelia,Kutaisi,Torpedo,12000,Georgia,GEO
+530,UEFA,Stadioni Temur Maghradze,Chiatura,FC Chiatura,11650,Georgia,GEO
+531,UEFA,Alfred-Kunze-Sportpark,Leipzig,"Sachsen, Chemie",10500,Germany,GER
+532,UEFA,Allianz Arena,Munich,Bayern,75024,Germany,GER
+533,UEFA,Alte Försterei,Berlin,Union,22012,Germany,GER
+534,UEFA,Audi-Sportpark,Ingolstadt,Ingolstadt 04,15445,Germany,GER
+535,UEFA,Auestadion,Kassel,Hessen Kassel,18800,Germany,GER
+536,UEFA,BayArena,Leverkusen,Bayer,30210,Germany,GER
+537,UEFA,Benteler-Arena,Paderborn,SC Paderborn,15000,Germany,GER
+538,UEFA,Borussia Park,Moenchengladbach,Borussia,54010,Germany,GER
+539,UEFA,Brita-Arena,Wiesbaden,Wehen,12566,Germany,GER
+540,UEFA,Bruchwegstadion,Moguncja,FSV Mainz,18000,Germany,GER
+541,UEFA,Carl-Benz-Stadion,Mannhiem,Waldhof,27000,Germany,GER
+542,UEFA,Commerzbank Arena,Frankfurt nad Menem,Eintracht Frankfurt,51500,Germany,GER
+543,UEFA,Continental Arena,Regensburg,SSV Jahn,15224,Germany,GER
+544,UEFA,Dietmar-Hopp-Stadion,Sinsheim,Hoffenheim,6350,Germany,GER
+545,UEFA,DKB Arena,Rostock,Hansa Rostock,29000,Germany,GER
+546,UEFA,Donaustadion,Ulm,SSV Ulm,19500,Germany,GER
+547,UEFA,Eintracht-Stadion,Braunschweig,Eintracht,23325,Germany,GER
+548,UEFA,Ellenfeldstadion,Neunkirchen,Borussia,23400,Germany,GER
+549,UEFA,ERDGAS Sportpark,Halle,Hallescher FC,15000,Germany,GER
+550,UEFA,Ernst-Abbe-Sportfeld,Jena,FC Carl Zeiss Jena,12630,Germany,GER
+551,UEFA,Erzgebirgsstadion,Aue,FC Erzgebirge,15690,Germany,GER
+552,UEFA,flyeralarm Arena,Würzburg,Würzburger Kickers,14500,Germany,GER
+553,UEFA,Frankenstadion,Heilbronn,FC Heilbronn,17284,Germany,GER
+554,UEFA,Frankfurter Volksbank Stadion,Frankfurt nad Menem,FSV,12500,Germany,GER
+555,UEFA,Franz-Kremer-Stadion,Cologne,1. FC Köln II,5457,Germany,GER
+556,UEFA,Friedrich-Ebert-Stadion,Hildesheim,VfV 06,8000,Germany,GER
+557,UEFA,Fritz-Walter-Stadion,Kaiserslautern,Kaiserslautern,49780,Germany,GER
+558,UEFA,Gazi-Stadion,Stuttgart,Stuttgarter Kickers,11408,Germany,GER
+559,UEFA,Grenzland-Stadion,Moenchengladbach,Borussia,10000,Germany,GER
+560,UEFA,Grotenburg,Krefeld,KFC Uerdingen,34500,Germany,GER
+561,UEFA,Grünwalder Stadion,Munich,TSV 1860,15000,Germany,GER
+562,UEFA,Hans-Walter-Wild-Stadion,Bayreuth,SpVgg Bayreuth,21500,Germany,GER
+563,UEFA,Hardtwaldstadion,Sandhausen,SV Sandhausen,12100,Germany,GER
+564,UEFA,HDI-Arena,Hanover,Hanover 96,49951,Germany,GER
+565,UEFA,Hermann-Löns-Stadion,Paderborn,SC Paderborn 07,12000,Germany,GER
+566,UEFA,Holstein-Stadion,Kiel,Holstein Kiel,10200,Germany,GER
+567,UEFA,Jahnstadion Göttingen,Göttingen,Göttingen 05,17000,Germany,GER
+568,UEFA,Leimbachstadion,Siegen,Sportfreunde Siegen,18500,Germany,GER
+569,UEFA,Lohmühle,Lübeck,VfL Lübeck,17869,Germany,GER
+570,UEFA,Lohrheidestadion,Bochum,Wattenscheid 09,16233,Germany,GER
+571,UEFA,Ludwig-Jahn-Stadion,Herford,SC Herford,18400,Germany,GER
+572,UEFA,Ludwigsparkstadion,Saarbrücken,1. FC Saarbrücken,35303,Germany,GER
+573,UEFA,Max-Morlock-Stadion,Nuremberg,Nürnberg,48553,Germany,GER
+574,UEFA,MDCC-Arena,Magdeburg,Magdeburg,25910,Germany,GER
+575,UEFA,mechatronik Arena,Aspach,SG Sonnenhof,10001,Germany,GER
+576,UEFA,Mercedes-Benz Arena,Stuttgart,Stuttgart,60441,Germany,GER
+577,UEFA,Merck-Stadion am Böllenfalltor,Darmstadt,SV Darmstadt,17468,Germany,GER
+578,UEFA,Merkur Spiel-Arena,Düsseldorf,Fortuna Düsseldorf,54600,Germany,GER
+579,UEFA,Millerntor-Stadion,Hamburg,St. Pauli,29546,Germany,GER
+580,UEFA,Olympiastadion,Berlin,Hertha,74475,Germany,GER
+581,UEFA,Opel Arena,Moguncja,FSV Mainz,34034,Germany,GER
+582,UEFA,Osnatel-Arena,Osnabrück,VfL Osnabrück,16667,Germany,GER
+583,UEFA,OSTALB Arena,Aalen,VfR Aalen,14500,Germany,GER
+584,UEFA,Preußenstadion,Münster,Preußen,15050,Germany,GER
+585,UEFA,Red Bull Arena,Leipzig,RB Leipzig,44345,Germany,AUT
+586,UEFA,Rhein-Neckar-Stadion,Mannhiem,VfR Mannheim,8000,Germany,GER
+587,UEFA,RheinEnergie Stadion,Cologne,Köln,50374,Germany,GER
+588,UEFA,Rosenaustadion,Augsburg,FC Augsburg,32354,Germany,GER
+589,UEFA,RSV-Stadion,Moenchengladbach,RSV,20000,Germany,GER
+590,UEFA,Rudolf-Harbig-Stadon,Dresden,Dynamo,32066,Germany,GER
+591,UEFA,Schauinsland-Reisen-Arena,Duisburg,MSV Duisburg,31500,Germany,GER
+592,UEFA,Schönebürgstadion,Crailsheim,TSV Crailsheim,5500,Germany,GER
+593,UEFA,Schüco Arena,Bielefeld,Arminia Bielefeld,28008,Germany,GER
+594,UEFA,Schwarzwald-Stadion,Freiburg,SC Freiburg,25000,Germany,GER
+595,UEFA,Sepp-Herberger-Stadion,Mannhiem,Waldhof,15200,Germany,GER
+596,UEFA,Signal Iduna Park,Dortmund,Borussia,81359,Germany,GER
+597,UEFA,Sparda-Bank-Hessen-Stadion,Offenbach am Main,Kickers Offenbach,20600,Germany,GER
+598,UEFA,Sportpark Höhenberg,Cologne,Viktoria,10000,Germany,GER
+599,UEFA,Sportpark Ronhof,Fürth,SpVgg Greuther Fürth,18000,Germany,GER
+600,UEFA,Stadion am Zoo,Wuppertal,WSV,23067,Germany,GER
+601,UEFA,Stadion Chemnitz,Chemnitz,Chemnitzer FC,15479,Germany,GER
+602,UEFA,Stadion der Freundschaft,Chociebu?,Energie Cottbus,22528,Germany,GER
+603,UEFA,Stadion Essen,Essen,Rot-Weiss,20650,Germany,GER
+604,UEFA,Stadion Niederrhein,Oberhausen,Rot-Weiß Oberhausen,21318,Germany,GER
+605,UEFA,Stadion Oberwerth,Koblenz,TuS Koblenz,15000,Germany,GER
+606,UEFA,Stadion Rote Erde,Dortmund,Borussia II,9999,Germany,GER
+607,UEFA,Stadion Zwickau,Zwickau,FSV Zwickau,10134,Germany,GER
+608,UEFA,Steigerwaldstadion,Erfurt,Rot-Weiß,18559,Germany,GER
+609,UEFA,Südstadion,Cologne,Fortuna,14944,Germany,GER
+610,UEFA,Tivoli,Aachen,Alemannia,32900,Germany,GER
+611,UEFA,Tönnies-Arena,Rheda-Wiedenbrück,"FSV Gütersloh, FSC Rheda",3562,Germany,GER
+612,UEFA,Veltins Arena,Gelsenkirchen,Schalke,62271,Germany,GER
+613,UEFA,VfL-Stadion am Elsterweg,Wolfsburg,Wolfsburg,17600,Germany,GER
+614,UEFA,Voith-Arena,Heidenheim,1. FC Heidenheim,15000,Germany,GER
+615,UEFA,Volksparkstadion,Hamburg,HSV,57274,Germany,GER
+616,UEFA,Volkswagen Arena,Wolfsburg,Wolfsburg,30122,Germany,GER
+617,UEFA,Vonovia Ruhrstadion,Bochum,VFL Bochum,32645,Germany,GER
+618,UEFA,Waldstadion Homburg,Homburg,FC Homburg,16488,Germany,GER
+619,UEFA,Waldstadion Weismain,Weismain,DC Weismain,18000,Germany,GER
+620,UEFA,Walter-Mundorf-Stadion,Siegburg,SSV 04,5000,Germany,GER
+621,UEFA,Weserstadion,Bremen,Werder Bremen,42354,Germany,GER
+622,UEFA,Wildparkstadion,Karlsruhe,Karlsruher SC,29699,Germany,GER
+623,UEFA,Willy-Sachs-Stadion,Schweinfurt,1. FC Schweinfurt 05,15000,Germany,GER
+624,UEFA,Wirsol Rhein-Neckar Arena,Sinsheim,Hoffenheim,30164,Germany,GER
+625,UEFA,WWK Arena,Augsburg,FC Augsburg,30660,Germany,GER
+626,CAF,Accra Sports Stadium,Accra,"Hearts of Oak,  Great Olympics",40000,Ghana,GHA
+627,CAF,Alhaji Aliu Mahama Sports Stadium,Tamale,Real Tamale United,21017,Ghana,GHA
+628,CAF,Baba Yara Stadium,Kumasi,"Asante Kotoko, King Faisal",40528,Ghana,GHA
+629,CAF,Cape Coast Stadium,Cape Coast,Ebusua Dwarfs,15000,Ghana,GHA
+630,CAF,Sekondi-Takoradi Stadium,Sekondi-Takoradi,Hasaacas,20000,Ghana,GHA
+631,UEFA,AEL Arena,Larissa,AE Lárisas,16118,Greece,GRE
+632,UEFA,Gípedo  Véroias,Véroia,Véroia,9300,Greece,GRE
+633,UEFA,Gípedo Astéra Trípolis,Trípoli,Astéras,2500,Greece,GRE
+634,UEFA,Gípedo Neápolis,Níkaia,Ionikós,6500,Greece,GRE
+635,UEFA,Gípedo Theodoros Vardinogiannis,Iraklio,OFI 1925,9088,Greece,GRE
+636,UEFA,Karaiskaki,Peiraiefs,Olympiacos,33334,Greece,GRE
+637,UEFA,Pampeloponnisiakó Stádio,Petras,PAS Panachaiki,23588,Greece,GRE
+638,UEFA,Panthessalikó Stádio,Vólos,Níkis,22140,Greece,GRE
+639,UEFA,Stádio Alkazár,Larissa,AE Lárisas,13108,Greece,GRE
+640,UEFA,Stádio Apostolos Nikolaidis,Athens,Panathinaikos,16003,Greece,GRE
+641,UEFA,Stádio Fyli,Fyli,Thrasyvoulos,3142,Greece,GRE
+642,UEFA,Stadio Georgios Kamaras,Athens,"Apollonas Smyrnis, Aiyaleo",14200,Greece,GRE
+643,UEFA,Stádio Kaftanzóglio,Thessaloniki,Iraklis,28028,Greece,GRE
+644,UEFA,Stádio Kalamariás,Kalamariá,Apóllon,7000,Greece,GRE
+645,UEFA,Stádio Kavala,Kavala,AO Kavala,12500,Greece,GRE
+646,UEFA,Stádio Kérkyras,Korfu,Kérkyras,4000,Greece,GRE
+647,UEFA,Stádio Kleánthis Vikelídis,Thessaloniki,Aris,23220,Greece,GRE
+648,UEFA,Stádio Komotini,Komotini,Panthrakikos,3000,Greece,GRE
+649,UEFA,Stádio Livadeiás,Livadéia,Levadeiakós,5915,Greece,GRE
+650,UEFA,Stádio Nea Smyrni,Athens,Panionios,11115,Greece,GRE
+651,UEFA,Stádio Pankritio,Iraklio,Ergotelis,25780,Greece,GRE
+652,UEFA,Stádio Peristeríou,Peristeri,Atrómitos,10000,Greece,GRE
+653,UEFA,Stádio Serres,Serres,Paneserraikos,9500,Greece,GRE
+654,UEFA,Stádio ŠKODA Xánthis,Pigádhia,Xánthi,7456,Greece,GRE
+655,UEFA,Stádio Spiros Louis,Athens,"Panathinaikos, AEK",69618,Greece,GRE
+656,UEFA,Stádio Stavros Mavrothalassitis,Aíyaleo,Aiyáleo Athínion,3530,Greece,GRE
+657,UEFA,Stádio Toumba,Thessaloniki,PAOK,28701,Greece,GRE
+658,UEFA,Stádio Vólou,Vólos,Olympiakós,9000,Greece,GRE
+659,UEFA,Nuuk Stadion,Nuuk,"Nuuk IL, B-67",2000,Greenland,GRL
+660,UEFA,Tasiilaq Stadion,Tasiilaq,ATA,500,Greenland,GRL
+661,CONCACAF,Estadio Carlos Salazar Hijo,Mazatenango,CD Suchitepéquez,12000,Guatemala,GUA
+662,CONCACAF,Estadio del Ejército,Guatemala City,Aurora F.C.,12453,Guatemala,GUA
+663,CONCACAF,Estadio Mario Camposeco,Quetzaltenango,Xelajú MC,11000,Guatemala,GUA
+664,CONCACAF,Estadio Mateo Flores,Guatemala City,"Comunicaciones, Municipal",30000,Guatemala,GUA
+665,CONCACAF,Estadio Municipal de Petapa,Petapa,CD Petapa,10000,Guatemala,GUA
+666,CONCACAF,Estadio Pensativo,Antigua,Antigua GFC,9000,Guatemala,GUA
+667,CONCACAF,Estádio Carlos Miranda,Comayagua,Hispano,10000,Honduras,HON
+668,CONCACAF,Estádio Francisco Morazán,San Pedro Sula,España,18000,Honduras,HON
+669,CONCACAF,Estádio Nilmo Edwards,La Ceiba,"Victoria, Vida",15000,Honduras,HON
+670,CONCACAF,Estádio Olímpico Metropolitano,San Pedro Sula,"Marathón, España",40000,Honduras,HON
+671,CONCACAF,Estadio Tiburcio Carías Andino,Tegucigalpa,"Motagua,  Olímpia",35000,Honduras,HON
+672,UEFA,Bozsik Stadion,Budapest,Honved,9500,Hungary,HUN
+673,UEFA,Dunaferr Arena,Dunaújváros,Dunaújváros FC,12000,Hungary,HUN
+674,UEFA,ETO Park,Gy?r,Gy?ri ETO,16000,Hungary,HUN
+675,UEFA,Groupama Aréna,Budapest,Ferencváros,23700,Hungary,HUN
+676,UEFA,Haladás Sportkomplexum,Szombathely,Haladás,8656,Hungary,HUN
+677,UEFA,Hidegkuti Nándor Stadion,Budapest,MTK,5322,Hungary,HUN
+678,UEFA,Illovszky Stadion,Budapest,Vasas,9000,Hungary,HUN
+679,UEFA,Káposztás utcai Stadion,Sopron,Soproni VSE,5800,Hungary,HUN
+680,UEFA,Ligeti Stadion,Vác,Dunakanyar-Vác FC,9000,Hungary,HUN
+681,UEFA,Nagyerdei Stadion,Debrecen,DVSC,20340,Hungary,HUN
+682,UEFA,Pancho Aréna,Felcsút,Puskás Akadémia FC,3500,Hungary,HUN
+683,UEFA,Stadion Oláh Gábor Út,Debrecen,DVSC,10000,Hungary,HUN
+684,UEFA,Szusza Ferenc Stadion,Budapest,Újpest,14817,Hungary,HUN
+685,UEFA,Vasút utca,Százhalombatta,Százhalombattai LK,2000,Hungary,HUN
+686,UEFA,ZTE-Aréna,Zalaegerszeg,ZTE,12360,Hungary,HUN
+687,UEFA,Fjölnisvöllur,Reykjavík,Fjölnir,1098,Iceland,ISL
+688,UEFA,Hásteinsvöllur,Heimaey,IB Vestmannaeyja,2983,Iceland,ISL
+689,UEFA,Hlíðarendi,Reykjavík,Valur,3421,Iceland,ISL
+690,UEFA,Kaplakriki,Hafnarfjordur,Fimleikafélag Hafnarfjarðar,6450,Iceland,ISL
+691,UEFA,Kópavogsvöllur,Kópavogur,"Breiðablik, HK",5501,Iceland,ISL
+692,UEFA,Laugardalsvöllur,Reykjavík,Fram,13000,Iceland,ISL
+693,UEFA,Norðurálsvöllurinn,Akranes,ÍA,5524,Iceland,ISL
+694,UEFA,Samsung Völlurinn,Garðabær,Stjarnan,1000,Iceland,ISL
+695,UEFA,Víkingsvöllur,Reykjavík,Víkingur,1100,Iceland,ISL
+696,AFC,Bangalore Football Stadium,Bangalore,HAL SC,8400,India,IND
+697,AFC,Cooperage Football Stadium,Mumbai,"Mumbai FC, Mumbai City",4156,India,IND
+698,AFC,Jawaharlal Nehru Stadium (Delhi),New Delhi,Dynamos,60000,India,IND
+699,AFC,Jawaharlal Nehru Stadium (Kochi),Kochi,Chirag United,41000,India,IND
+700,AFC,Yuba Bharati Krirangan,Kolkata,"East Bengal, Mohun Bagan, Prayag United, Pailan Ar",66000,India,IND
+701,AFC,Gelora Bung Karno,Jakarta,Persija Jakarta,76127,Indonesia,IDN
+702,AFC,Gelora Bung Tomo,Surabaya,Persebaya,50000,Indonesia,IDN
+703,AFC,GOR Aji Imbut,Tenggarong,Mitra Kukar,35000,Indonesia,IDN
+704,AFC,Kuantan Singingi Stadium,Teluk Kuantan,PSPS,25000,Indonesia,IDN
+705,AFC,Stadion Diponegoro,Banyuwangi,Persewangi,8000,Indonesia,IDN
+706,AFC,Stadion Dipta,Gianyar,Bali United,25000,Indonesia,IDN
+707,AFC,Stadion Gajayana,Malang,Persema,30000,Indonesia,IDN
+708,AFC,Stadion Gelora Sriwijaya,Palembang,Sriwijaya FC,40000,Indonesia,IDN
+709,AFC,Stadion Kanjuruhan,Malang,Arema,35000,Indonesia,IDN
+710,AFC,Stadion Pakansari,Cibinong,Persikabo,31000,Indonesia,IDN
+711,AFC,Stadion Segiri,samarinda,Pusamania Borneo,18000,Indonesia,IDN
+712,AFC,Stadion Si Jalak Harupat,Bandung,"Persib, Persikab",27000,Indonesia,IDN
+713,AFC,Stadion Utama Riau,Pekanbaru,PSPS,40700,Indonesia,IDN
+714,AFC,Azadi Stadium,Tehran,"Persepolis, Esteghlal",78116,Iran,IRN
+715,AFC,Imam Reza Stadium,Mashhad,Padideh,27700,Iran,IRN
+716,AFC,Yadegar-e Emam Stadium,Tabriz,Tractor Sazi,66833,Iran,IRN
+717,AFC,Franso Hariri Stadium,Erbil,Erbil SC,28000,Iraq,IRQ
+718,AFC,Karbala International Stadium,Karbala,Karbala FC,30000,Iraq,IRQ
+719,UEFA,Dalymount Park,Dublin,Bohemians,4227,Ireland,IRL
+720,UEFA,Flancare Park,Longford,Longford Town,6850,Ireland,IRL
+721,UEFA,Tallaght Stadium,Tallaght,Shamrock Rovers,5947,Ireland,IRL
+722,UEFA,The Showgrounds,Sligo,Rovers,4000,Ireland,IRL
+723,UEFA,Tolka Park,Dublin,"Shelbourne, Dublin City",6000,Ireland,IRL
+724,UEFA,Turners Cross Stadium,Cork,Cork City,7485,Ireland,IRL
+725,UEFA,Bloomfield Stadium,Tel Awiw-Jafa,"Hapoel Tel Aviv, Maccabi Tel Aviv, Bnei Yehuda",14413,Israel,ISR
+726,UEFA,HaMoshava Stadium,Petah Tikwa,"Hapoel, Maccabi",11500,Israel,ISR
+727,UEFA,Ilut Stadium,Ilut,Maccabi,4932,Israel,ISR
+728,UEFA,Municipal Stadium,Herzliya,Maccabi,8400,Israel,ISR
+729,UEFA,Netanya Stadium,Netanya,Maccabi,13800,Israel,ISR
+730,UEFA,Sammy Ofer Stadium,Haifa,"Maccabi, Hapoel",30820,Israel,ISR
+731,UEFA,Teddy Stadium,Jerusalem,"Beitar, Hapoel, Hapoel Katamon",31733,Israel,ISR
+732,UEFA,The Green Stadium,Nazareth,"Maccabi, Hapoel",5000,Israel,ISR
+733,UEFA,Turner Stadium,Beersheba,Hapoel,16126,Israel,ISR
+734,UEFA,Yud-Alef,Ashdod,Ashdod,7980,Israel,ISR
+735,UEFA,Allianz Stadium,Turin,Juventus,41507,Italy,ITA
+736,UEFA,Arena Garibaldi,Piza,AC Pisa,14869,Italy,ITA
+737,UEFA,Dacia Arena,Udine,Udinese,25144,Italy,ITA
+738,UEFA,Mapei Stadium,Reggio Emilia,"Reggiana, US Sassuolo",23717,Italy,ITA
+739,UEFA,Sardegna Arena,Cagliari,Cagliari Calcio,16416,Italy,ITA
+740,UEFA,Stadio Alberto Braglia,Modena,FC Modena,20507,Italy,ITA
+741,UEFA,Stadio Aldo e Dino Ballarin,Chioggia,Clodiense SSD,3000,Italy,ITA
+742,UEFA,Stadio Angelo Massimino,Catania,Calcio Catania,20797,Italy,ITA
+743,UEFA,Stadio Arechi,Salerno,Salernitana Sport,37245,Italy,ITA
+744,UEFA,Stadio Armando Picchi,Livorno,Livorno Calcio,19801,Italy,ITA
+745,UEFA,Stadio Artemio Franchi,Florence,Fiorentina,47300,Italy,ITA
+746,UEFA,Stadio Artemio Franchi,Siena,AC Siena,15725,Italy,ITA
+747,UEFA,Stadio Atleti Azzurri d’Italia,Bergamo,"Atalanta Bergamasca, Albinoleffe",24726,Italy,ITA
+748,UEFA,Stadio Benito Stirpe,Frosinone,Frosinone Calcio,16125,Italy,ITA
+749,UEFA,Stadio Brianteo,Monza,AC Monza,18568,Italy,ITA
+750,UEFA,Stadio Carlo Castellani,Empoli,Empoli FC,16800,Italy,ITA
+751,UEFA,Stadio Cino e Lillo Del Duca,Ascoli Piceno,Ascoli Picchio,20000,Italy,ITA
+752,UEFA,Stadio Comunale di Torino,Turin,Torino FC,28140,Italy,ITA
+753,UEFA,Stadio Danilo Martelli,Mantua,Mantova,14884,Italy,ITA
+754,UEFA,Stadio Dino Manuzzi,Cesena,AC Cesena,23860,Italy,ITA
+755,UEFA,Stadio Ennio Tardini,Parma,Parma,21473,Italy,ITA
+756,UEFA,Stadio Erasmo Iacovone,Taranto,Taranto Calcio,26348,Italy,ITA
+757,UEFA,Stadio Euganeo,Padova,Padova 1910,32336,Italy,ITA
+758,UEFA,Stadio Filadelfia,Turin,Torino FC,4200,Italy,ITA
+759,UEFA,Stadio Franco Ossola,Varese,AS Varese,9424,Italy,ITA
+760,UEFA,Stadio Giuseppe Sinigaglia,Como,Como Calcio,13602,Italy,ITA
+761,UEFA,Stadio Libero Liberati,Terni,Ternana,22000,Italy,ITA
+762,UEFA,Stadio Luigi Ferraris,Genoa,"Sampdoria, Genoa 1893",36348,Italy,ITA
+763,UEFA,Stadio Marc Antonio Bentegodi,Verona,"Chievo Verona, Hellas Verona",39211,Italy,ITA
+764,UEFA,Stadio Mario Rigamonti,Brescia,AS Brescia,26072,Italy,ITA
+765,UEFA,Stadio Nereo Rocco,Triest,Triestina,28565,Italy,ITA
+766,UEFA,Stadio Olimpico,Rome,"Roma, Lazio",70634,Italy,ITA
+767,UEFA,Stadio Oreste Granillo,Reggio Calabria,Reggina,27713,Italy,ITA
+768,UEFA,Stadio Paolo Mazza,Ferrara,SPAL,7000,Italy,ITA
+769,UEFA,Stadio Partenio,Avellino,US Avellino,26150,Italy,ITA
+770,UEFA,Stadio Piercesare Tombolato,Cittadella,AS Cittadella,7623,Italy,ITA
+771,UEFA,Stadio Pierluigi Penzo,Venice,Venezia FC,7389,Italy,ITA
+772,UEFA,Stadio Pino Zaccheria,Foggia,US Foggia,25085,Italy,ITA
+773,UEFA,Stadio Polisportivo Provinciale,Trapani,Trapani Calcio,7787,Italy,ITA
+774,UEFA,Stadio Raffaele Mancini,Fano,Alma Juventus,8800,Italy,ITA
+775,UEFA,Stadio Renato Curi,Perugia,AC Perugia,27049,Italy,ITA
+776,UEFA,Stadio Renato Dall’Ara,Bologna,Bologna FC,39300,Italy,ITA
+777,UEFA,Stadio Renzo Barbera,Palermo,US Palermo,36349,Italy,ITA
+778,UEFA,Stadio San Filippo,Messina,FC Messina,40200,Italy,ITA
+779,UEFA,Stadio San Nicola,Bari,AS Bari,58270,Italy,ITA
+780,UEFA,Stadio San Paolo,Neapol,SSC Napoli,60240,Italy,ITA
+781,UEFA,Stadio San Siro,Milan,"AC Milan, Inter FC",81277,Italy,ITA
+782,UEFA,Stadio Sant’Elia,Cagliari,Cagliari Calcio,16000,Italy,ITA
+783,UEFA,Stadio Silvio Piola,Novara,Novara Calcio,17875,Italy,ITA
+784,UEFA,Stadio Silvio Piola,Vercelli,Pro Vercelli,4200,Italy,ITA
+785,UEFA,Stadio Via del Mare,Lecce,US Lecce,36285,Italy,ITA
+786,CAF,Stade Félix-Houphouët-Boigny,Abidjan,ASEC Mimosas,35000,Ivory Coast,CIV
+787,AFC,Ajinomoto Stadium,Chofu (Tokyo),"FC Tokyo, Verdy",50100,Japan,JPN
+788,AFC,Atsubetsu Stadium,Sapporo,Consadole,20861,Japan,JPN
+789,AFC,Banpaku Stadium,Osaka,Gamba,23000,Japan,JPN
+790,AFC,Best Amenity Stadium,Tosu,Sagan,24490,Japan,JPN
+791,AFC,Big Arch Stadium,Hiroshima,Sanfrecce,45000,Japan,JPN
+792,AFC,City Light Stadium,Okayama,Fagiano,20000,Japan,JPN
+793,AFC,Ecopa Stadium,Fukuroi,"Jubilo, S-Pulse",50889,Japan,JPN
+794,AFC,Fukuda Denshi Arena,Ichihara,JEF United,19781,Japan,JPN
+795,AFC,Hitachidai,Kashiwa,Reysol,15349,Japan,JPN
+796,AFC,Ichihara Seaside Stadium,Ichihara,JEF United,15338,Japan,JPN
+797,AFC,Kashima Stadium,Kashima,Antlers,40728,Japan,JPN
+798,AFC,Kashiwanoha Stadium,Kashiwa,Reysol,20000,Japan,JPN
+799,AFC,Kincho Stadium,Osaka,Cerezo,20500,Japan,JPN
+800,AFC,Kumagaya Sports Park Stadium,Kumagaya,Ardija,15392,Japan,JPN
+801,AFC,Level-5 Stadium,Fukuoka,Avispa,22563,Japan,JPN
+802,AFC,Machida Athletic Stadium,Machida,Zelvia,10600,Japan,JPN
+803,AFC,Marugame Stadium,Marugame,Kamatamare,30099,Japan,JPN
+804,AFC,Matsumoto Stadium,Matsumoto,"Yamaga, Shiojri",20396,Japan,JPN
+805,AFC,Mikuni World Stadium,Kitakyushu,Giravanz,15066,Japan,JPN
+806,AFC,Minaminagano Stadium,Nagano,Nagano Parceiro,15491,Japan,JPN
+807,AFC,Miyagi Stadium,Rifu,"Vegalta, Sony",49133,Japan,JPN
+808,AFC,Nagaragawa Stadium,Gifu,FC Gifu,31000,Japan,JPN
+809,AFC,Nagasaki Athletic Stadium,Isahaya,V-Varen,20246,Japan,JPN
+810,AFC,ND Soft Stadium,Tend?,Yamagata,20315,Japan,JPN
+811,AFC,NHK Spring Mitsuzawa Stadium,Yokohama,"Yokohama FC, F.Marinos",15454,Japan,JPN
+812,AFC,Niigata Stadium,Niigata,Albirex,42279,Japan,JPN
+813,AFC,Ningineer Stadium,Matsuyama,Ehime FC,30000,Japan,JPN
+814,AFC,Nishikyogoku Stadium,Kyoto,Sanga,20242,Japan,JPN
+815,AFC,Nissan Stadium,Yokohama,Marinos,72327,Japan,JPN
+816,AFC,Noevir Stadium Kobe,Kobe,Vissel,30132,Japan,JPN
+817,AFC,?ita Stadium,Oita,Trinita,40000,Japan,JPN
+818,AFC,?miya Park Stadium,Saitama,Ardija,15500,Japan,JPN
+819,AFC,Outsourcing Stadium Nihondaira,Shimizu-Miho,S-Pulse,20299,Japan,JPN
+820,AFC,Saitama Stadium,Urawa,Red Diamonds,63718,Japan,JPN
+821,AFC,Sapporo Dome,Sapporo,Consadole,41484,Japan,JPN
+822,AFC,Shikishima Stadium,Gunma,Thespa,10050,Japan,JPN
+823,AFC,Shonan BMW Stadium,Hiratsuka,Shonan Bellmare,18500,Japan,JPN
+824,AFC,Stadium Sendai,Sendai,"Vegalta, Sony",19694,Japan,JPN
+825,AFC,Suita City Stadium,Suita,Gamba,39694,Japan,JPN
+826,AFC,Tochigi Green Stadium,Utsunomiya,Tochigi,15589,Japan,JPN
+827,AFC,Todoroki Athletic Stadium,Kawasaki,Frontale,27495,Japan,JPN
+828,AFC,Toyama Stadium,Toyama,Kataller,28494,Japan,JPN
+829,AFC,Toyota Stadium,Toyota,Grampus Eight,45000,Japan,JPN
+830,AFC,Umakana Yokana Stadium,Kumamoto,Roasso,32000,Japan,JPN
+831,AFC,Universiade Stadium,Kobe,Vissel,60000,Japan,JPN
+832,AFC,Urawa Komaba Stadium,Urawa,Red Diamonds,21500,Japan,JPN
+833,AFC,Yamaha Stadium,Iwata,Júbilo,16879,Japan,JPN
+834,AFC,Yanmar Nagai Stadium,Osaka,Cerezo,45409,Japan,JPN
+835,AFC,King Abdullah Stadium,Amman,"Al-Wahdat, Al-Baqa'a, Al-Jazeera, Al-Yarmouk",18000,Jordan,JOR
+836,UEFA,Astana Arena,Astana,FC Astana,30254,Kazakhstan,KAZ
+837,UEFA,Ortalyk Tsentralnyi Stadion,Almaty,"Almaty FK, MegaSport, Qayrat",23804,Kazakhstan,KAZ
+838,UEFA,Stadion Kazhimukan Munaytpasov,Shymkent,FK Ordabasy,37000,Kazakhstan,KAZ
+839,UEFA,Stadion Kazhimukan Munaytpasov,Astana,FK Astana,12250,Kazakhstan,KAZ
+840,UEFA,Stadion Zhetysu,Taldykorgan,Zhetysu,5550,Kazakhstan,KAZ
+841,CAF,Afraha Stadium,Nakuru,"AllStars, Ulinzi Stars, Utawala",8200,Kenya,KEN
+842,CAF,Nyayo National Stadium,Nairobi,Leopards,30000,Kenya,KEN
+843,CAF,Safaricom Stadium,Nairobi,"Mathare United, Tusker",60000,Kenya,KEN
+844,AFC,Mubarak Alair Stadium,Jahra,Al-Jahra SC,17000,Kuwait,KUW
+845,AFC,Thamir Stadium,Salmiya,Al-Salmiya SC,16105,Kuwait,KUW
+846,UEFA,Celtnieks,Daugavpils,"Dinaburg, Ditton",3480,Latvia,LVA
+847,UEFA,Daugavas stadions,Riga,Olimps,10000,Latvia,LVA
+848,UEFA,Daugavas stadions,Liep?ja,FK Liep?ja,5083,Latvia,LVA
+849,UEFA,Olimpija stadions,Liep?ja,"FK Liep?ja, 1625 Liep?ja",1500,Latvia,LVA
+850,UEFA,Skonto,Riga,Skonto,9500,Latvia,LVA
+851,UEFA,Stadions Ark?dija,Riga,Caramba/Dinamo,412,Latvia,LVA
+852,UEFA,Ventspils stadions,Ventspils,FK Ventspils,3250,Latvia,LVA
+853,UEFA,ZOC stadions,Jelgava,FK Jelgava,1560,Latvia,LVA
+854,AFC,Beirut Municipal Stadium,Beirut,Al-Ansar,18000,Lebanon,LIB
+855,AFC,Saida International Stadium,Sidon,Al-Ahli,22600,Lebanon,LIB
+856,UEFA,Aukštaitijos,Panev?žys,Ekranas,9940,Lithuania,LTU
+857,UEFA,LFF Stadionas,Vilnius,"Žalgiris, MRU, Polonia",5422,Lithuania,LTU
+858,UEFA,Pakruojo miesto stadionas,Pakruojis,Kruoja,2000,Lithuania,LTU
+859,UEFA,S. Dariaus ir S. Gireno,Kaunas,FBK,8248,Lithuania,LTU
+860,UEFA,Savivaldyb?s stadionas,Šiauliai,"FC Šiauliai, Gintra–Universitetas",2430,Lithuania,LTU
+861,UEFA,Suduvos,Marijampol?,S?duva,4000,Lithuania,LTU
+862,UEFA,Stade Alphonse Theis,Hesperange,Swift,4100,Luxemburg,LUX
+863,UEFA,Stade au Cents,Luxembourg,Hamm Benfica,2800,Luxemburg,LUX
+864,UEFA,Stade du Thillenberg,Differdange,FC Differdange,6300,Luxemburg,LUX
+865,UEFA,Stade Émile Mayrisch,Esch-sur-Alzette,Fola,3900,Luxemburg,LUX
+866,UEFA,Stade Jos Nosbaum,Dudelange,F91 Dudelange,2558,Luxemburg,LUX
+867,UEFA,Stade Josy Barthel,Luxembourg,Racing Union,8054,Luxemburg,LUX
+868,UEFA,Stade Municipal de Rumelange,Rumelange,US Rumelange,3010,Luxemburg,LUX
+869,UEFA,Stade Municipal Oberkorn,Differdange,"CS Oberkorn, FC Differdange 03",2400,Luxemburg,LUX
+870,UEFA,Stade op Flohr,Grevenmacher,SC Grevenmacher,4062,Luxemburg,LUX
+871,UEFA,Pod Tumbe Kafe,Bitola,Pelister,6100,Macedonia,MKD
+872,UEFA,Stadion Boris Trajkovski,Skopje,Madžari Solidarnost,3000,Macedonia,MKD
+873,UEFA,Stadion Gjor?e Petrov,Skopje,Makedonija,3000,Macedonia,MKD
+874,UEFA,Stadion Goce Del?ev,Prilep,Pobeda,5684,Macedonia,MKD
+875,UEFA,Stadion Gradska Plaža,Struga,"Karaorman, Vlaznimi",1000,Macedonia,MKD
+876,UEFA,Stadion Gradski Ki?evo,Ki?evo,Napredok,5000,Macedonia,MKD
+877,UEFA,Stadion Gradski Tetovo,Tetovo,"Renova, Shkendija 79, Teteks",15000,Macedonia,MKD
+878,UEFA,Telekom Arena,Skopje,"Rabotni?ki, Vardar",36400,Macedonia,MKD
+879,AFC,Stadium Darul Makmur,Kuantan,"PB Pahang, Shahzan Muda",40000,Malaysia,MAS
+880,AFC,Stadium JCorp,Pasir Gudang,Johor FC,15000,Malaysia,MAS
+881,AFC,Stadium Larkin,Johor Bahru,Johor Darul Ta'zim,30000,Malaysia,MAS
+882,AFC,Stadium Likas,Kota Kinabalu,Sabah FA,35000,Malaysia,MAS
+883,AFC,Stadium MPS,Selayang,Sime Darby,10000,Malaysia,MAS
+884,AFC,Stadium Petaling Jaya,Petaling Jaya,PKNS,25000,Malaysia,MAS
+885,AFC,Stadium Shah Alam,Shah Alam,Selangor,69372,Malaysia,MAS
+886,UEFA,Hibernians Ground,Paola,Hibernians,1232,Malta,MLT
+887,UEFA,Ta’ Qali Stadium,Ta’ Qali,"Birkirka, Valletta, inne",17797,Malta,MLT
+888,UEFA,Victor Tedesco Stadium,?amrun,?amrun Spartans,858,Malta,MLT
+889,CONCACAF,Estadio 3 de Marzo,Guadalajara,Estudiantes,22988,Mexico,MEX
+890,CONCACAF,Estadio Agustín Coruco Díaz,Zacatepec,Zacatepec Siglo XXI,24443,Mexico,MEX
+891,CONCACAF,Estadio Akron,Zapopan,Chivas,49850,Mexico,MEX
+892,CONCACAF,Estadio Alberto Córdoba,Toluca,Potros,32000,Mexico,MEX
+893,CONCACAF,Estadio Alfonso Lastras,San Luís Potosí,Club San Luís,24000,Mexico,MEX
+894,CONCACAF,Estadio Andrés Quintana Roo,Cancún,CF Atlante,20000,Mexico,MEX
+895,CONCACAF,Estadio Azteca,Mexico City,"América, Cruz Azul",87000,Mexico,MEX
+896,CONCACAF,Estadio Azulgrana,Netzahualcóyotl,Atlante,28500,Mexico,MEX
+897,CONCACAF,Estadio Banorte,Culiacán,Dorados,21000,Mexico,MEX
+898,CONCACAF,Estadio BBVA Bancomer,Guadeloupe,CF Monterrey,53500,Mexico,MEX
+899,CONCACAF,Estadio Caliente,Tijuana,Club Tijuana,27333,Mexico,MEX
+900,CONCACAF,Estadio Cuauhtémoc,Puebla,Puebla FC,51726,Mexico,MEX
+901,CONCACAF,Estadio Jalisco,Guadalajara,Atlas,56713,Mexico,MEX
+902,CONCACAF,Estadio Juan N. López,La Piedad,Reboceros,20000,Mexico,MEX
+903,CONCACAF,Estadio La Corregidora,Querétaro,Querétaro FC,34130,Mexico,MEX
+904,CONCACAF,Estadio León,León,Club León,31297,Mexico,MEX
+905,CONCACAF,Estadio Luís de la Fuente,Boca del Rio,Veracruz,28703,Mexico,MEX
+906,CONCACAF,Estadio Marte R. Gómez,Ciudad Victoria,Correcaminos,18000,Mexico,MEX
+907,CONCACAF,Estadio Miguel Hidalgo,Pachuca,Pachuca CF,25000,Mexico,MEX
+908,CONCACAF,Estadio Morelos,Morelia,Monarcas,38869,Mexico,MEX
+909,CONCACAF,Estadio Nemesio Díez,Toluca,Deportivo Toluca,30000,Mexico,MEX
+910,CONCACAF,Estadio Olímpico Universitario,Mexico City,Pumas,63186,Mexico,MEX
+911,CONCACAF,Estadio Tecnológico de Oaxaca,Oaxaca de Juárez,Alebrijes,17200,Mexico,MEX
+912,CONCACAF,Estadio TSM Corona,Torreon,Santos Laguna,30000,Mexico,MEX
+913,CONCACAF,Estadio Universitario,San Nicolás de los Garza,Tigres,41886,Mexico,MEX
+914,CONCACAF,Estadio Universitario BUAP,Puebla,"Lobos de la BUAP, Lobos Prepa",20411,Mexico,MEX
+915,CONCACAF,Estadio Víctor Manuel Reyna,Tuxtla Gutiérrez,Jaguares,29508,Mexico,MEX
+916,CONCACAF,Estadio Victoria,Aquascalientes,Necaxa,25494,Mexico,MEX
+917,UEFA,Bolshaya Sportivnaya Arena,Tiraspol,Sheriff,12746,Moldova,MDA
+918,UEFA,Dinamo,Kishinev,"FC Politehnica, CSCA",2692,Moldova,MDA
+919,UEFA,Krytaya Arena,Tiraspol,Sheriff,3570,Moldova,MDA
+920,UEFA,Malaya Sportivnaya Arena,Tiraspol,Sheriff,8914,Moldova,MDA
+921,UEFA,Republican,Kishinev,"FC Dacia, Dacia-2",8009,Moldova,MDA
+922,UEFA,Zimbru,Kishinev,FC Zimbru,10600,Moldova,MDA
+923,UEFA,Stadion pod Goricom,Podgorica,Budu?nost,15230,Montenegro,MNE
+924,CAF,Complexe Sportif de Fès,Fes,"Maghreb, Wydad",45000,Morocco,MAR
+925,CAF,Stade Adrar,Agadir,Hassania,45480,Morocco,MAR
+926,CAF,Stade Bachir,Mohammedia,Chabab,15000,Morocco,MAR
+927,CAF,Stade d'Honneur d’Oujda,Oujda,Mouloudia,30000,Morocco,MAR
+928,CAF,Stade d'Honneur de Meknès,Meknes,CODM,20000,Morocco,MAR
+929,CAF,Stade de FUS,Rabat,FUS,10000,Morocco,MAR
+930,CAF,Stade de Marrakech,Marrakech,KACM,45240,Morocco,MAR
+931,CAF,Stade de Tanger,Tangier,Ittihad,45000,Morocco,MAR
+932,CAF,Stade du 18-Novembre,Khemisset,Ittihad,10000,Morocco,MAR
+933,CAF,Stade du Phosphate,Khouribga,Olympique,10000,Morocco,MAR
+934,CAF,Stade El Abdi,El Jadida,Difaâ,10000,Morocco,MAR
+935,CAF,Stade El Massira,Safi,Olympique,15000,Morocco,MAR
+936,CAF,Stade Hassan II,Fes,Wydad,10000,Morocco,MAR
+937,CAF,Stade Mimoun Al Arsi,Al Hoceima,Chabab,12500,Morocco,MAR
+938,CAF,Stade Mohamed V,Casablanca,"Raja, Wydad",67000,Morocco,MAR
+939,CAF,Stade Moulay Abdallah,Rabat,FAR,65000,Morocco,MAR
+940,CAF,Stade Municipal de Kénitra,Kenitra,KAC,15000,Morocco,MAR
+941,CAF,Stade Saniat Rmel,Tetouan,Moghreb,10000,Morocco,MAR
+942,CAF,Estádio da Machava,Maputo,Ferroviário,40000,Mozambique,MOZ
+943,AFC,Dasarath Rangasala,Kathmandu,"New Road, Ranipokhari Corner, Three Star, Tribhuva",25000,Nepal,NEP
+944,UEFA,Abe Lenstra Stadion,Heerenven,SC Heerenven,26400,Netherlands,NED
+945,UEFA,AFAS Stadion,Alkmaar,AZ,17250,Netherlands,NED
+946,UEFA,Cambuurstadion,Leeuwarden,SC Cambuur,10250,Netherlands,NED
+947,UEFA,De Adelaarshorst,Deventer,Go Ahead Eagles,10400,Netherlands,NED
+948,UEFA,De Geusselt,Maastricht,MVV Maastricht,10000,Netherlands,NED
+949,UEFA,De Grolsch Veste,Enschede,Twente,30205,Netherlands,NED
+950,UEFA,De Koel,Venlo,VVV Venlo,8000,Netherlands,NED
+951,UEFA,De Oude Meerdijk,Emmen,FC Emmen,8301,Netherlands,NED
+952,UEFA,Frans Heesen Stadion,Oss,FC Oss,4560,Netherlands,NED
+953,UEFA,GelreDome,Arnhem,Vitesse,21248,Netherlands,NED
+954,UEFA,Goffertstadion,Nijmegen,NEC,12470,Netherlands,NED
+955,UEFA,Hitachi Stadion,Groningen,FC Groningen,22550,Netherlands,NED
+956,UEFA,Johan Cruijff ArenA,Amsterdam,Ajax,55134,Netherlands,NED
+957,UEFA,Koning Willem II Stadion,Tilburg,Willem II,14637,Netherlands,NED
+958,UEFA,Kras Stadion,Volendam,FC Volendam,6984,Netherlands,NED
+959,UEFA,Kyocera Stadion,Hague,ADO Den Haag,15000,Netherlands,NED
+960,UEFA,Lavans Stadion,Helmond,Helmond Sport,4200,Netherlands,NED
+961,UEFA,MAC³PARK stadion,Zwolle,PEC Zwolle,13250,Netherlands,NED
+962,UEFA,Mandemakers Stadion,Waalwijk,RKC Waalwijk,7500,Netherlands,NED
+963,UEFA,Parkstad Limburg,Kerkrade,Roda,19200,Netherlands,NED
+964,UEFA,Philips Stadion,Eindhoven,PSV,35119,Netherlands,NED
+965,UEFA,Rat Verlegh Stadion,Breda,NAC,19000,Netherlands,NED
+966,UEFA,Sparta Stadion,Rotterdam,Sparta Rotterdam,11026,Netherlands,NED
+967,UEFA,Sportpark De Heikant,Groesbeek,Achilles '29,4500,Netherlands,NED
+968,UEFA,Sportpark De Hoge Bomen,Naaldwijk,Westlandia,2000,Netherlands,NED
+969,UEFA,Sportpark De Westmaat (Blauwe),Spakenburg,SV Spakenburg,2300,Netherlands,NED
+970,UEFA,Sportpark De Westmaat (Rode),Spakenburg,IJsselmeervogels,2550,Netherlands,NED
+971,UEFA,Sportpark Elinkwijk,Utrecht,USV Elinkwijk,5000,Netherlands,NED
+972,UEFA,Sportpark Westvliet,Voorburg,Wilhelmus,1000,Netherlands,NED
+973,UEFA,Stadion Feijenoord,Rotterdam,Feyenoord,51117,Netherlands,NED
+974,UEFA,Stadion Galgenwaard,Utrecht,Utrecht,24426,Netherlands,NED
+975,UEFA,Stadion Heracles Almelo,Almelo,Heracles,13500,Netherlands,NED
+976,UEFA,Stadion Woudestein,Rotterdam,Exelsior,3785,Netherlands,NED
+977,UEFA,Telstar Stadion,Velsen-Zuid,Telstar,3625,Netherlands,NED
+978,UEFA,Trendwork Arena Stadion,Sittard,Fortuna Sittard,12500,Netherlands,NED
+979,OFC,Forsyth Barr Stadium,Dunedin,Otago United,30748,New Zeland,NZL
+980,OFC,Westpac Stadium,Wellington,Phoenix,36000,New Zeland,NZL
+981,AFC,Kim Il-sung Stadium,Pyongyang,Pyongyang City,50000,North Korea,PKR
+982,UEFA,Kingspan Stadium,Belfast,Ulster Rugby,18196,Northern Ireland,NIR
+983,UEFA,Solitude,Belfast,Cliftonville,6224,Northern Ireland,NIR
+984,UEFA,The Oval,Belfast,Glentoran,5056,Northern Ireland,NIR
+985,UEFA,Windsor Park,Belfast,Linfield,18614,Northern Ireland,NIR
+986,UEFA,Aker Stadion,Molde,Molde FK,11167,Norway,NOR
+987,UEFA,Alfheim Stadion,Tromsø,Tromsø IL,7500,Norway,NOR
+988,UEFA,Åråsen Stadion,Lillestrøm,Lillestrøm SK,12250,Norway,NOR
+989,UEFA,Aspmyra Stadion,Bodø,Bodø/Glimt,7294,Norway,NOR
+990,UEFA,Bislett Stadion,Oslo,"Skeid, Lyn",15400,Norway,NOR
+991,UEFA,Brann Stadion,Bergen,Brann,17686,Norway,NOR
+992,UEFA,Color Line Stadion,Ålesund,Ålesund FK,10720,Norway,NOR
+993,UEFA,HIL Stadion,Henningsvær,Henningsvær IL,500,Norway,NOR
+994,UEFA,Intility Arena,Oslo,Vålerenga,17333,Norway,NOR
+995,UEFA,Komplett.no Arena,Sandefjord,Sandefjord Fotball,9000,Norway,NOR
+996,UEFA,Lerkendal Stadion,Trondheim,Rosenborg,21366,Norway,NOR
+997,UEFA,Marienlyst Stadion,Drammen,"Stromsgodset, Drafn, Drammen FK",8500,Norway,NOR
+998,UEFA,Nadderud Stadion,Bærum,Stabæk,4750,Norway,NOR
+999,UEFA,Sarpsborg Stadion,Sarpsborg,Sarpsborg 08 FF,5000,Norway,NOR
+1000,UEFA,Sør Arena,Kristiansand,IK Start,14300,Norway,NOR
+1001,UEFA,Strømmen Stadion,Strømmen,Strømmen IF,1800,Norway,NOR
+1002,UEFA,Viking Stadion,Stavanger,Viking,15300,Norway,NOR
+1003,AFC,Al-Saada Stadium,Salalah,"Dhofar, Al-Nasr",8000,Oman,OMA
+1004,AFC,Seeb Stadium,Seeb,Al-Seeb SC,8000,Oman,OMA
+1005,AFC,Sohar Regional Sports Complex,Sohar,Sohar Club,19000,Oman,OMA
+1006,AFC,Sur Sports Complex,Sur,Sur SC,8000,Oman,OMA
+1007,CONMEBOL,Estadio Antonio Oddone Sarubbi,Pedro Juan Caballero,3 de Febrero,28000,Paraguay,PAR
+1008,CONMEBOL,Estadio Dr. Nicolás Leóz,Asunción,Club Libertad,10000,Paraguay,PAR
+1009,CONMEBOL,Estadio Feliciano Cáceres,Luque,Luque?o,24000,Paraguay,PAR
+1010,CONMEBOL,Estadio General Pablo Rojas,Asunción,Cerro Porte?o,45000,Paraguay,PAR
+1011,CONMEBOL,Estadio Manuel Ferreira,Asunción,Olímpia,22000,Paraguay,PAR
+1012,CONMEBOL,Estadio Rio Parapiti,Pedro Juan Caballero,2 de Mayo,22000,Paraguay,PAR
+1013,CONMEBOL,Estadio Alejandro Villanueva,Lima,Alianza,33938,Peru,PER
+1014,CONMEBOL,Estadio Garcilaso de la Vega,Cusco,Cienciano,42056,Peru,PER
+1015,CONMEBOL,Estadio Miguel Grau,Callao,Sport Boys,15000,Peru,PER
+1016,CONMEBOL,Estadio Teodoro Lolo Fernández,Ate,Universitario,80093,Peru,PER
+1017,UEFA,Arena Cz?stochowa,Cz?stochowa,W?ókniarz,16850,Poland,POL
+1018,UEFA,Arena Lublin,Lublin,"Motor, Lublinianka",15400,Poland,POL
+1019,UEFA,Arena Zabrze,Zabrze,Górnik,24563,Poland,POL
+1020,UEFA,Arena ?aga?,Zagan,Czarni,2060,Poland,POL
+1021,UEFA,Dolcan Arena,Zabki,Dolcan,2100,Poland,POL
+1022,UEFA,GIEKSA Arena,Be?chatów,GKS,5264,Poland,POL
+1023,UEFA,Intakus Park,Wroclaw,?l?za,4000,Poland,POL
+1024,UEFA,Izo Arena,Boguchwa?a,"Izolator, Stal",943,Poland,POL
+1025,UEFA,Kompleks im. W?odzimierza Smolarka,Uniejów,MGLKS Uniejów,800,Poland,POL
+1026,UEFA,Motoarena,Toru?,Apator,15000,Poland,POL
+1027,UEFA,Narodowy Stadion Rugby,Gdynia,Ba?tyk,2425,Poland,POL
+1028,UEFA,Stadion 1000-lecia w Turku,Turek,Tur,2400,Poland,POL
+1029,UEFA,Stadion Alfreda Smoczyka,Leszno,Unia,16700,Poland,POL
+1030,UEFA,Stadion Amiki,Wronki,Amica,5296,Poland,POL
+1031,UEFA,Stadion Arkonii,Szczecin,Arkonia,10000,Poland,POL
+1032,UEFA,Stadion Ba?tyku,Koszalin,Ba?tyk,4000,Poland,POL
+1033,UEFA,Stadion BBOSiR M?y?ska,Bielsko-Bia?a,"Podbeskidzie, BKS Stal",660,Poland,POL
+1034,UEFA,Stadion Boles?awa,Bukowno,Boles?aw,3469,Poland,POL
+1035,UEFA,Stadion Broni Radom,Radom,"Bro?, Radomiak",4066,Poland,POL
+1036,UEFA,Stadion Bronis?awa Bagi?skiego,Barlinek,Pogo?,960,Poland,POL
+1037,UEFA,Stadion Bruk-Bet,Nieciecza,Termalica Bruk-Bet,4666,Poland,POL
+1038,UEFA,Stadion Bugu Wyszków,Wyszków,Bug,6900,Poland,POL
+1039,UEFA,Stadion Bytovii,Bytow,Bytovia,2043,Poland,POL
+1040,UEFA,Stadion Carbo,Gliwice,Carbo,1025,Poland,POL
+1041,UEFA,Stadion Cartusii,Kartuzy,Cartusia,1000,Poland,POL
+1042,UEFA,Stadion Ceramiki,Opoczno,Ceramika,4700,Poland,POL
+1043,UEFA,Stadion Che?mianki,Chelm,Che?mianka,3280,Poland,POL
+1044,UEFA,Stadion Chemika Bydgoszcz,Bydgoszcz,Chemik,15000,Poland,POL
+1045,UEFA,Stadion Chojniczanki,Chojnice,Chojniczanka,3500,Poland,POL
+1046,UEFA,Stadion Chrobrego,G?ogów,Chrobry,2817,Poland,POL
+1047,UEFA,Stadion Cracovii,Krakow,Cracovia,14572,Poland,POL
+1048,UEFA,Stadion CSiR w Babimo?cie,Babimost,Klon,540,Poland,POL
+1049,UEFA,Stadion CTS Nowa Ruda,Nowa Ruda,Piast,1483,Poland,POL
+1050,UEFA,Stadion Czarnych Jas?o,Jas?o,Czarni,873,Poland,POL
+1051,UEFA,Stadion Czarnych Olecko,Olecko,Czarni,2000,Poland,POL
+1052,UEFA,Stadion Dyskobolii,Grodzisk Wielkopolski,Dyskobolia,5383,Poland,POL
+1053,UEFA,Stadion Edwarda Szymkowiaka,Bytom,Polonia,5500,Poland,POL
+1054,UEFA,Stadion Energa Gda?sk,Gdansk,Lechia,41620,Poland,POL
+1055,UEFA,Stadion Falubazu,Zielona Gora,ZK?,15000,Poland,POL
+1056,UEFA,Stadion Floriana Krygiera,Szczecin,Pogo?,18027,Poland,POL
+1057,UEFA,Stadion Floty,?winouj?cie,Flota,3240,Poland,POL
+1058,UEFA,Stadion Garbarni,Krakow,Garbarnia,963,Poland,POL
+1059,UEFA,Stadion GKS-u Jastrz?bie,Jastrz?bie-Zdrój,GKS,6800,Poland,POL
+1060,UEFA,Stadion GKS-u Katowice,Katowice,GKS,6710,Poland,POL
+1061,UEFA,Stadion Górnika ??czna,??czna,Górnik,7456,Poland,POL
+1062,UEFA,Stadion Górnika Libi??,Libiaz,Górnik,977,Poland,POL
+1063,UEFA,Stadion GOS,Nadarzyn,GLKS Nadarzyn,900,Poland,POL
+1064,UEFA,Stadion GOSiR w Gdyni,Gdynia,Arka,15139,Poland,POL
+1065,UEFA,Stadion Granicy Bogatynia,Bogatynia,Granica,1476,Poland,POL
+1066,UEFA,Stadion Gryfa,Wejherowo,Gryf,2500,Poland,POL
+1067,UEFA,Stadion Gryfa Kamie? Pomorski,Kamie? Pomorski,Gryf,900,Poland,POL
+1068,UEFA,Stadion Gryfa S?upsk,S?upsk,Gryf,3000,Poland,POL
+1069,UEFA,Stadion Grzegorza Duneckiego,Toru?,Elana Toru?,4300,Poland,POL
+1070,UEFA,Stadion Henryka Reymana,Krakow,Wis?a,33130,Poland,POL
+1071,UEFA,Stadion Hetmana,Zamo??,Hetman,12500,Poland,POL
+1072,UEFA,Stadion Huraganu Pobiedziska,Pobiedziska,Huragan,924,Poland,POL
+1073,UEFA,Stadion Hutnika Warszawa,Warsaw,Hutnik,6000,Poland,POL
+1074,UEFA,Stadion Igloopolu D?bica,Debica,Igloopol,12000,Poland,POL
+1075,UEFA,Stadion im. Stanis?awa B?ka,W?growiec,Nielba,2600,Poland,POL
+1076,UEFA,Stadion im. W?odzimierza Smolarka,Aleksandrów ?ódzki,Sokó?,2086,Poland,POL
+1077,UEFA,Stadion Inowroc?awskich Olimpijczyków,Inowroclaw,Cuiavia,3500,Poland,POL
+1078,UEFA,Stadion Jagiellonii,Bialystok,Jagiellonia,22386,Poland,POL
+1079,UEFA,Stadion Jaroty,Jarocin,Jarota,1984,Poland,POL
+1080,UEFA,Stadion Jezioraka,I?awa,Jeziorak,5000,Poland,POL
+1081,UEFA,Stadion Józefa Pawe?czyka,Czeladz,CKS,1300,Poland,POL
+1082,UEFA,Stadion Karkonoszy,Jelenia Gora,Karkonosze,7558,Poland,POL
+1083,UEFA,Stadion Karola Kucharskiego,Gryfice,Sparta,644,Poland,POL
+1084,UEFA,Stadion Karpat,Krosno,"Karpaty, KSM",6000,Poland,POL
+1085,UEFA,Stadion Kazimierza Deyny,Starogard Gda?ski,KP Starogard,3291,Poland,POL
+1086,UEFA,Stadion Kazimierza Górskiego,P?ock,Wis?a,10978,Poland,POL
+1087,UEFA,Stadion Konfeksu,Legnica,Konfeks,3200,Poland,POL
+1088,UEFA,Stadion Koszarawy,?ywiec,Koszarawa,2500,Poland,POL
+1089,UEFA,Stadion KSZO,Ostrowiec ?wi?tokrzyski,KSZO,7430,Poland,POL
+1090,UEFA,Stadion Kujawiaka,W?oc?awek,W?oc?avia,4840,Poland,POL
+1091,UEFA,Stadion Ku?niczka,K?dzierzyn-Ko?le,Chemik,3000,Poland,POL
+1092,UEFA,Stadion ?ady Bi?goraj,Bi?goraj,?ada,1495,Poland,POL
+1093,UEFA,Stadion Lecha Pozna?,Poznan,Lech Pozna?,42837,Poland,POL
+1094,UEFA,Stadion Lechii,Gdansk,Lechia,11811,Poland,POL
+1095,UEFA,Stadion Lechii Dzier?oniów,Dzierzoniow,Lechia,4500,Poland,POL
+1096,UEFA,Stadion Lechii Strawczyn,Strawczyn,Lechia,1150,Poland,POL
+1097,UEFA,Stadion Legionovii,Legionowo,Legionovia,1730,Poland,POL
+1098,UEFA,Stadion Lekkoatletyczny BOSiR,Bialystok,Bojary,1500,Poland,POL
+1099,UEFA,Stadion Lekkoatletyczny w Barcinie,Barcin,D?b,672,Poland,POL
+1100,UEFA,Stadion Le?ny w Niechorzu,Niechorze,Wybrze?e Rewalskie,1250,Poland,POL
+1101,UEFA,Stadion ?KS-u ?ód?,?ód?,?KS,5700,Poland,POL
+1102,UEFA,Stadion ?KS-u ?om?a,?om?a,?KS,3450,Poland,POL
+1103,UEFA,Stadion Ludowy,Sosnowiec,Zag??bie,7500,Poland,POL
+1104,UEFA,Stadion Mariana Paska,Konin,Górnik,850,Poland,POL
+1105,UEFA,Stadion Mazura,Elk,"Mazur, P?omie?",2720,Poland,POL
+1106,UEFA,Stadion Miejski Tychy,Tychy,GKS Tychy,15150,Poland,POL
+1107,UEFA,Stadion Miejski w Alwerni,Alwernia,MKS Alwernia,1500,Poland,POL
+1108,UEFA,Stadion Miejski w B?dzinie,Bedzin,Sarmacja,10000,Poland,POL
+1109,UEFA,Stadion Miejski w Bielsku-Bia?ej,Bielsko-Bia?a,"Podbeskidzie, BKS Stal",15076,Poland,POL
+1110,UEFA,Stadion Miejski w Gogolinie,Gogolin,MKS Gogolin,1600,Poland,POL
+1111,UEFA,Stadion Miejski w Gostyninie,Gostynin,Mazur,3000,Poland,POL
+1112,UEFA,Stadion Miejski w Gubinie,Gubin,Carina,2000,Poland,POL
+1113,UEFA,Stadion Miejski w Kluczborku,Kluczbork,MKS Kluczbork,2586,Poland,POL
+1114,UEFA,Stadion Miejski w Kutnie,Kutno,KS Kutno,4050,Poland,POL
+1115,UEFA,Stadion Miejski w Mi?dzychodzie,Mi?dzychód,Warta,600,Poland,POL
+1116,UEFA,Stadion Miejski w Nowym Tomy?lu,Nowy Tomy?l,"Polonia, TS05",1030,Poland,POL
+1117,UEFA,Stadion Miejski w Polkowicach,Polkowice,KS Polkowice,3325,Poland,POL
+1118,UEFA,Stadion Miejski w Rad?owie,Rad?ów,Rad?ovia,1000,Poland,POL
+1119,UEFA,Stadion Miejski w Radomsku,Radomsko,RKS 1979,5000,Poland,POL
+1120,UEFA,Stadion Miejski w Radzyniu,Radzy? Podlaski,Orl?ta-Spomlek,1000,Poland,POL
+1121,UEFA,Stadion Miejski w Starachowicach,Starachowice,Star,15000,Poland,POL
+1122,UEFA,Stadion Miejski w Sulejówku,Sulejówek,Victoria,1240,Poland,POL
+1123,UEFA,Stadion Miejski w ?widniku,?widnik,Avia,2800,Poland,POL
+1124,UEFA,Stadion Miejski w Szczecinku,Szczecinek,"Wielim, Darzbór",1500,Poland,POL
+1125,UEFA,Stadion Miejski w Trzemiesznie,Trzemeszno,Zjednoczeni,1000,Poland,POL
+1126,UEFA,Stadion Miejski w Zgorzelcu,Zgorzelec,Nysa,1913,Poland,POL
+1127,UEFA,Stadion Miejski we Wrze?ni,Wrze?nia,Victoria,927,Poland,POL
+1128,UEFA,Stadion Mieszka Gniezno,Gniezno,Mieszko,2050,Poland,POL
+1129,UEFA,Stadion MKS-u Kozienice,Kozienice,MKS,4700,Poland,POL
+1130,UEFA,Stadion MOSiR Brzeg,Brzeg,Stal,2100,Poland,POL
+1131,UEFA,Stadion MOSiR Bystrzyca,Lublin,"Motor, T? Lublin",10000,Poland,POL
+1132,UEFA,Stadion MOSiR Pu?awy,Pu?awy,Wis?a,4418,Poland,POL
+1133,UEFA,Stadion MOSiR w Kostrzynie,Kostrzyn nad Odr?,Celuloza,2800,Poland,POL
+1134,UEFA,Stadion MOSiR w Myszkowie,Myszków,MKS Myszków,780,Poland,POL
+1135,UEFA,Stadion MOSiR w Pucku,Puck,Zatoka,636,Poland,POL
+1136,UEFA,Stadion Naprzodu Rydu?towy,Rydultowy,Naprzód,5500,Poland,POL
+1137,UEFA,Stadion Narwi,Ostro??ka,Narew,2758,Poland,POL
+1138,UEFA,Stadion Obry,Koscian,Obra,4000,Poland,POL
+1139,UEFA,Stadion OCKF,Olawa,MKS O?awa,3000,Poland,POL
+1140,UEFA,Stadion Odry Opole,Opole,Odra,4560,Poland,POL
+1141,UEFA,Stadion Odry Wodzis?aw,Wodzis?aw ?l?ski,"Odra, Odra Centrum, SWD Wodzis?aw",5835,Poland,POL
+1142,UEFA,Stadion Ok?cia,Warsaw,Ok?cie,1000,Poland,POL
+1143,UEFA,Stadion Olimpii,Elbl?g,Olimpia,3000,Poland,POL
+1144,UEFA,Stadion Olimpii Grudzi?dz,Grudzi?dz,Olimpia,5500,Poland,POL
+1145,UEFA,Stadion Olimpii Pozna?,Poznan,PS?,6250,Poland,POL
+1146,UEFA,Stadion Olimpii Zambrów,Zambrow,Olimpia,999,Poland,POL
+1147,UEFA,Stadion Olimpijski,Wroclaw,Sparta,11000,Poland,POL
+1148,UEFA,Stadion Olimpijski w S?ubicach,Slubice,Polonia,3056,Poland,POL
+1149,UEFA,Stadion Orkana Rumia,Rumia,Orkan,1280,Poland,POL
+1150,UEFA,Stadion Orkana Sochaczew,Sochaczew,Orkan,3000,Poland,POL
+1151,UEFA,Stadion Or?a Bia?ego,Legnica,Mied?,6194,Poland,POL
+1152,UEFA,Stadion Or?a Mi?dzyrzecz,Mi?dzyrzecz,Orze?,1500,Poland,POL
+1153,UEFA,Stadion Or?a Z?bkowice,Z?bkowice ?l?skie,Orze?,1266,Poland,POL
+1154,UEFA,Stadion OSiR Czarnków,Czarnków,Note?,1360,Poland,POL
+1155,UEFA,Stadion OSiR Gorzów,Gorzów Wielkopolski,Stilon,4000,Poland,POL
+1156,UEFA,Stadion OSiR Ska?ka,Swietochlowice,?l?sk,244,Poland,POL
+1157,UEFA,Stadion OSiR w Olsztynie,Olsztyn,Stomil,16800,Poland,POL
+1158,UEFA,Stadion OSiR w Trzciance,Trzcianka,Lubuszanin,2000,Poland,POL
+1159,UEFA,Stadion Patrii Buk,Buk,Patria,900,Poland,POL
+1160,UEFA,Stadion Pcimianki Pcim,Pcim,Pcimianka,384,Poland,POL
+1161,UEFA,Stadion Pelikana,?owicz,Pelikan,4000,Poland,POL
+1162,UEFA,Stadion Piasta Gliwice,Gliwice,Piast,10037,Poland,POL
+1163,UEFA,Stadion Piasta ?migród,?migród,Piast,900,Poland,POL
+1164,UEFA,Stadion Podlesianki,Katowice,Podlesianka,500,Poland,POL
+1165,UEFA,Stadion Pogoni Lwówek,Lwówek,Pogo?,1000,Poland,POL
+1166,UEFA,Stadion Pogoni Miechów,Miechów,Pogo?,1000,Poland,POL
+1167,UEFA,Stadion Pogoni ?wiebodzin,?wiebodzin,Pogo?,3500,Poland,POL
+1168,UEFA,Stadion Polaru Wroc?aw,Wroclaw,Polar,1800,Poland,POL
+1169,UEFA,Stadion Polonii Bydgoszcz,Bydgoszcz,Polonia,20000,Poland,POL
+1170,UEFA,Stadion Polonii Lidzbark,Lidzbark Warmi?ski,Polonia,1600,Poland,POL
+1171,UEFA,Stadion Polonii Warszawa,Warsaw,Polonia,7152,Poland,POL
+1172,UEFA,Stadion Posnanii,Poznan,Posnania,1458,Poland,POL
+1173,UEFA,Stadion Promienia Opalenica,Opalenica,Promie?,1015,Poland,POL
+1174,UEFA,Stadion Przeboju,Wolbrom,Przebój,1500,Poland,POL
+1175,UEFA,Stadion Przemszy Siewierz,Siewierz,Przemsza,647,Poland,POL
+1176,UEFA,Stadion Puszczy Niepo?omice,Niepo?omice,Puszcza,2118,Poland,POL
+1177,UEFA,Stadion Radomiaka,Radom,Radomiak,6000,Poland,POL
+1178,UEFA,Stadion Rakowa,Cz?stochowa,Raków,8000,Poland,POL
+1179,UEFA,Stadion Resovii,Rzeszów,Resovia,3420,Poland,POL
+1180,UEFA,Stadion ROSRRiT Siedlce,Siedlce,Pogo?,2901,Poland,POL
+1181,UEFA,Stadion ROW-u,Rybnik,ROW,10304,Poland,POL
+1182,UEFA,Stadion Roztocza Szczebrzeszyn,Szczebrzeszyn,Roztocze,660,Poland,POL
+1183,UEFA,Stadion Rozwoju Katowice,Katowice,Rozwój,2472,Poland,POL
+1184,UEFA,Stadion Ruchu,Chorzów,Ruch,10000,Poland,POL
+1185,UEFA,Stadion Sandecji,Nowy S?cz,Sandecja,3527,Poland,POL
+1186,UEFA,Stadion Sebastiana Karpiniuka,Ko?obrzeg,Kotwica,3014,Poland,POL
+1187,UEFA,Stadion Siarki Tarnobrzeg,Tarnobrzeg,Siarka,3770,Poland,POL
+1188,UEFA,Stadion Skry Warszawa,Warsaw,Skra,35000,Poland,POL
+1189,UEFA,Stadion ?l?ska (Oporowska),Wroclaw,?l?sk,8346,Poland,POL
+1190,UEFA,Stadion ?l?ska Wroc?aw,Wroclaw,?l?sk,42771,Poland,POL
+1191,UEFA,Stadion Soko?a Ostróda,Ostroda,Sokó?,4998,Poland,POL
+1192,UEFA,Stadion Soko?a Pniewy,Pniewy,Sokó?,960,Poland,POL
+1193,UEFA,Stadion Sparty Szamotu?y,Szamotu?y,Sparta,2877,Poland,POL
+1194,UEFA,Stadion Sparty Zabrze,Zabrze,Sparta,13000,Poland,POL
+1195,UEFA,Stadion Stali Gorzów,Gorzów Wielkopolski,Stal,15024,Poland,POL
+1196,UEFA,Stadion Stali Kra?nik,Kasnik,Stal,1960,Poland,POL
+1197,UEFA,Stadion Stali Mielec,Mielec,Stal,6864,Poland,POL
+1198,UEFA,Stadion Stali Poniatowa,Poniatowa,Stal,1200,Poland,POL
+1199,UEFA,Stadion Stali Rzeszów,Rzeszów,Stal,11547,Poland,POL
+1200,UEFA,Stadion Stali Stalowa Wola,Stalowa Wola,Stal,2937,Poland,POL
+1201,UEFA,Stadion Stanis?awa Figasa,Koszalin,Gwardia,1500,Poland,POL
+1202,UEFA,Stadion Startu Gniezno,Gniezno,Start,10000,Poland,POL
+1203,UEFA,Stadion Startu Krasnystaw,Krasnystaw,Start,1972,Poland,POL
+1204,UEFA,Stadion Stoczniowy,Szczecin,Stal,300,Poland,POL
+1205,UEFA,Stadion ?witu Dzia?oszyce,Dzia?oszyce,?wit,500,Poland,POL
+1206,UEFA,Stadion ?witu Nowy Dwór,Nowy Dwór Mazowiecki,?wit,3400,Poland,POL
+1207,UEFA,Stadion Szombierek,Bytom,"Szombierki, Polonia",1000,Poland,POL
+1208,UEFA,Stadion T?oków,Gorzyce,T?oki,3000,Poland,POL
+1209,UEFA,Stadion Tomasovii,Tomaszów Lubelski,Tomasovia,2050,Poland,POL
+1210,UEFA,Stadion Tysi?clecia,Wa?brzych,Górnik,3500,Poland,POL
+1211,UEFA,Stadion Unii Janikowo,Janikowo,Unia Janikowo,3828,Poland,POL
+1212,UEFA,Stadion Unii Racibórz,Racibórz,Unia,2500,Poland,POL
+1213,UEFA,Stadion Unii Swarz?dz,Swarz?dz,Unia,1500,Poland,POL
+1214,UEFA,Stadion Unii Tarnów,Tarnów,Unia,13000,Poland,POL
+1215,UEFA,Stadion Unii Tczew,Tczew,Gryf 2009,1292,Poland,POL
+1216,UEFA,Stadion Uranii,Ruda slaska,Urania,2000,Poland,POL
+1217,UEFA,Stadion Ursusa Warszawa,Warsaw,Ursus,1120,Poland,POL
+1218,UEFA,Stadion Victorii Jaworzno,Jaworzno,Szczakowianka,7000,Poland,POL
+1219,UEFA,Stadion Victorii Skalbmierz,Skalbmierz,Victoria,400,Poland,POL
+1220,UEFA,Stadion w Plewiskach,Plewiska,Grom,600,Poland,POL
+1221,UEFA,Stadion Warmii Grajewo,Grajewo,Warmia,1740,Poland,POL
+1222,UEFA,Stadion Warty Pozna?,Poznan,Warta,4694,Poland,POL
+1223,UEFA,Stadion Warty Sieradz,Sieradz,Warta,2000,Poland,POL
+1224,UEFA,Stadion Warty ?rem,?rem,Warta,3000,Poland,POL
+1225,UEFA,Stadion Warty Zawiercie,Zawiercie,Warta,1500,Poland,POL
+1226,UEFA,Stadion Wawelu,Krakow,Wawel,5500,Poland,POL
+1227,UEFA,Stadion Widzewa,?ód?,Widzew,18018,Poland,POL
+1228,UEFA,Stadion Wigier Suwa?ki,Suwalki,Wigry,3060,Poland,POL
+1229,UEFA,Stadion Wis?y Annopol,Annopol,Wis?a,736,Poland,POL
+1230,UEFA,Stadion Wis?y Sandomierz,Sandomierz,Wis?a,2221,Poland,POL
+1231,UEFA,Stadion W?oc?avii,W?oc?awek,W?oc?avia,937,Poland,POL
+1232,UEFA,Stadion Wojska Polskiego,Warsaw,Legia,30967,Poland,POL
+1233,UEFA,Stadion Zag??bia,Lubin,Zag??bie,16086,Poland,POL
+1234,UEFA,Stadion Zbigniewa Podleckiego,Gdansk,Wybrze?e,10000,Poland,POL
+1235,UEFA,Stadion Zdzis?awa Krzyszkowiaka,Bydgoszcz,SP Zawisza,20247,Poland,POL
+1236,UEFA,Stadion Z?otej Jedenastki,Konin,Medyk,7871,Poland,POL
+1237,UEFA,Stadion Znicza,Pruszków,Znicz,1977,Poland,POL
+1238,UEFA,Stadion Zorzy-Tempo Pacanów,Pacanow,Zorza-Tempo,431,Poland,POL
+1239,UEFA,Suche Stawy,Krakow,Nowy Hutnik,6000,Poland,POL
+1240,UEFA,Suzuki Arena,Kielce,Korona,15500,Poland,POL
+1241,UEFA,Caixa Futebol Campus,Seixal,Benfica,2708,Portugal,POR
+1242,UEFA,Complexo Desportivo de Barcelos,Barcelos,Gil Vicente,12504,Portugal,POR
+1243,UEFA,Estádio  do Mar,Matosinhos,Leixões,9730,Portugal,POR
+1244,UEFA,Estádio  do Restelo,Lisbon,Belenenses,19980,Portugal,POR
+1245,UEFA,Estádio  Municipal de Chaves,Chaves,GD Chaves,8800,Portugal,POR
+1246,UEFA,Estádio Agostino de Lima,Caldas de Vizela,Vizela,1500,Portugal,POR
+1247,UEFA,Estádio Antonio Coimbra,Estoril,Estoril Praia,8000,Portugal,POR
+1248,UEFA,Estádio Bento Pessoa,Figueira da Foz,Naval,10000,Portugal,POR
+1249,UEFA,Estádio Campo do Pragal,Almada,Almada AC,3000,Portugal,POR
+1250,UEFA,Estádio Cidade de Coimbra,Coimbra,Académica,30210,Portugal,POR
+1251,UEFA,Estádio da Luz,Lisbon,Benfica,66147,Portugal,POR
+1252,UEFA,Estádio da Madeira,Funchal,Nacional Madeira,5132,Portugal,POR
+1253,UEFA,Estádio da Mata Real,Paços de Ferreira,P. Ferreira,6452,Portugal,POR
+1254,UEFA,Estádio de Machico,Machico,AD de Machico,3300,Portugal,POR
+1255,UEFA,Estádio de São Luís,Faro,Farense,7000,Portugal,POR
+1256,UEFA,Estádio do Bessa XXI,Porto,Boavista,28263,Portugal,POR
+1257,UEFA,Estádio do Bonfim,Setubal,Vitória,18728,Portugal,POR
+1258,UEFA,Estádio do CD das Aves,Vila das Aves,Aves,5441,Portugal,POR
+1259,UEFA,Estádio do Dragão,Porto,FC Porto,50948,Portugal,POR
+1260,UEFA,Estádio do Maritimo,Funchal,Marítimo,10932,Portugal,POR
+1261,UEFA,Estádio do SC Freamunde,Freamunde,SC Freamunde,5000,Portugal,POR
+1262,UEFA,Estádio Dom Afonso Henriques,Guimarâes,Vitória,30452,Portugal,POR
+1263,UEFA,Estádio dos Arcos,Vila do Conde,Rio Ave,12820,Portugal,POR
+1264,UEFA,Estádio Dr. Francisco Vieira,Silves,Silves FC,3000,Portugal,POR
+1265,UEFA,Estádio Dr. Magalhaes Pessoa,Leiria,Leiria,23850,Portugal,POR
+1266,UEFA,Estádio João Cardoso,Tondela,CD Tondela,4500,Portugal,POR
+1267,UEFA,Estádio Jose Alvalade,Lisbon,Sporting,50044,Portugal,POR
+1268,UEFA,Estádio Municipal 25 de Abril,Penafiel,FC de Panafiel,6500,Portugal,POR
+1269,UEFA,Estádio Municipal de Albufeira,Albufeira,Imortal,5000,Portugal,POR
+1270,UEFA,Estádio Municipal de Arouca,Arouca,FC Arouca,5000,Portugal,POR
+1271,UEFA,Estádio Municipal de Aveiro,Aveiro,Beira Mar,30970,Portugal,POR
+1272,UEFA,Estádio Municipal de Braga,Braga,Braga,30154,Portugal,POR
+1273,UEFA,Estádio Municipal de Lagos,Lagos,CF Esperança,4600,Portugal,POR
+1274,UEFA,Estádio Municipal de Portimão,Portimão,Portimonense,6204,Portugal,POR
+1275,UEFA,Estádio Pina Manique,Lisbon,Casa Pia,2574,Portugal,POR
+1276,UEFA,Estádio Varzim SC,Póvoa de Varzim,Varzim SC,11000,Portugal,POR
+1277,AFC,Abdullah bin Khalifa Stadium,Doha,Lekhwiya SC,9000,Qatar,QAT
+1278,AFC,Ahmed bin Ali Stadium,Al-Rayyan,"Al-Rayyan, Al-Kharitiyath",21282,Qatar,QAT
+1279,AFC,Al Shamal Stadium,Madinat ash Shamal,Al Shamal,5000,Qatar,QAT
+1280,AFC,Grand Hamad Stadium,Doha,Al-Arabi,13000,Qatar,QAT
+1281,AFC,Jassim bin Hamad Stadium,Doha,Al-Sadd,15000,Qatar,QAT
+1282,AFC,Thani bin Jassim Stadium,Doha,Al-Gharafa,21175,Qatar,QAT
+1283,CAF,Bidvest Stadium,Johannesburg,Bidvest Wits,5000,Republic of South Africa,RSA
+1284,CAF,Cape Town Stadium,Cape Town,Ajax,55000,Republic of South Africa,RSA
+1285,CAF,FNB Stadium,Johannesburg,Kaizer Chiefs,94736,Republic of South Africa,RSA
+1286,CAF,Lucas Moripe Stadium,Atteridgeville,"Sundowns, Supersport United",28900,Republic of South Africa,RSA
+1287,CAF,Nelson Mandela Bay Stadium,Port Elizabeth,Chippa United,48459,Republic of South Africa,RSA
+1288,CAF,Orlando Stadium,Orlando,Pirates,40000,Republic of South Africa,RSA
+1289,CAF,Rand Stadium,Rosettenville,Kaizer Chiefs,25000,Republic of South Africa,RSA
+1290,CAF,Royal Bafokeng Stadium,Phokeng,Platinum Stars,44530,Republic of South Africa,RSA
+1291,CAF,Vodacom Park,Bloemfontein,Celtic,48000,Republic of South Africa,RSA
+1292,UEFA,Cluj Arena,Cluj-Napoca,U Cluj,30335,Romania,ROU
+1293,UEFA,Stadionul Areni,Suceava,"Rapid, Sporting",12500,Romania,ROU
+1294,UEFA,Stadionul Avântul,Reghin,Avântul Reghin,3000,Romania,ROU
+1295,UEFA,Stadionul Ceahl?ul,Piatra Neam?,Ceahl?ul,18000,Romania,ROU
+1296,UEFA,Stadionul Central,Ovidiu,Viitorul,3000,Romania,ROU
+1297,UEFA,Stadionul Concordia,Chiajna,Concordia,5123,Romania,ROU
+1298,UEFA,Stadionul Cotroceni,Bucarest,Progresul,14542,Romania,ROU
+1299,UEFA,Stadionul Dan Paltinisanu,Timi?oara,Poli,32019,Romania,ROU
+1300,UEFA,Stadionul Dinamo,Bucarest,Dinamo,15300,Romania,ROU
+1301,UEFA,Stadionul Dr. Constantin R?dulescu,Cluj-Napoca,CFR Cluj,23500,Romania,ROU
+1302,UEFA,Stadionul Emil Alexandrescu,Ia?i,CSMS Ia?i,11390,Romania,ROU
+1303,UEFA,Stadionul Farul,Constan?a,Farul,15500,Romania,ROU
+1304,UEFA,Stadionul Flac?ra,Moreni,Flac?ra,10000,Romania,ROU
+1305,UEFA,Stadionul Flac?ra,N?vodari,S?geata,4000,Romania,ROU
+1306,UEFA,Stadionul Francisc von Neumann,Arad,UTA,12500,Romania,ROU
+1307,UEFA,Stadionul Gaz Metan,Târgu Mure?,Gaz Metan Târgu Mure?,2000,Romania,ROU
+1308,UEFA,Stadionul Ghencea,Bucarest,Steaua,27063,Romania,ROU
+1309,UEFA,Stadionul Giule?ti-Valentin St?nescu,Bucarest,Rapid,19100,Romania,ROU
+1310,UEFA,Stadionul Gloria,Bistri?a,Gloria Bistri?a,8100,Romania,ROU
+1311,UEFA,Stadionul Ilie Oan?,Ploie?ti,Petrolul,15500,Romania,ROU
+1312,UEFA,Stadionul Ion Oblemenco,Craiova,Universitatea,30983,Romania,ROU
+1313,UEFA,Stadionul Iuliu Bodola,Oradea,Bihor,11000,Romania,ROU
+1314,UEFA,Stadionul Jiul,Petro?ani,Jiul,15500,Romania,ROU
+1315,UEFA,Stadionul Ladislau Bölöni,Târgu Mure?,Maris Târgu Mure?,15000,Romania,ROU
+1316,UEFA,Stadionul Marin Anastasovici,Giurgiu,Astra,8500,Romania,ROU
+1317,UEFA,Stadionul Metalul,Aiud,"Metalul, Olimpia",4000,Romania,ROU
+1318,UEFA,Stadionul Michael Klein,Hunedoara,FC Hunedoara,16500,Romania,ROU
+1319,UEFA,Stadionul Municipal,Târgu Mure?,ASA Târgu Mure?,3500,Romania,ROU
+1320,UEFA,Stadionul Municipal Bac?u,Bac?u,FCM Bac?u,17500,Romania,ROU
+1321,UEFA,Stadionul Municipal Boto?ani,Boto?ani,FC Boto?ani,8500,Romania,ROU
+1322,UEFA,Stadionul Municipal Br?ila,Br?ila,CF Br?ila,20194,Romania,ROU
+1323,UEFA,Stadionul Municipal Buz?u,Buz?u,Gloria,18000,Romania,ROU
+1324,UEFA,Stadionul Municipal Sibiu,Sibiu,Hermannstadt,14200,Romania,ROU
+1325,UEFA,Stadionul Na?ional,Bucarest,FCSB,55634,Romania,ROU
+1326,UEFA,Stadionul Regie,Bucarest,Sportul,12000,Romania,ROU
+1327,UEFA,Stadionul Tudor Vladimirescu,Târgu-Jiu,Pandurii,9200,Romania,ROU
+1328,UEFA,Stadionul Viitorul,Scornice?ti,Olt,13500,Romania,ROU
+1329,UEFA,Achmat Arena,Grozny,Akhmat,30597,Russia,RUS
+1330,UEFA,Anji Arena,Kaspiysk,Anji,27000,Russia,RUS
+1331,UEFA,Arena Khimki,Khimki,"Dinamo, CSKA",18636,Russia,RUS
+1332,UEFA,Arsena? Stadion,Tula,FK Arsenal,20048,Russia,RUS
+1333,UEFA,Dinamo Stadion,Vladivostok,Luch-Energiya,10200,Russia,RUS
+1334,UEFA,Kazan Arena,Kazan,Rubin,45105,Russia,RUS
+1335,UEFA,Kuban Stadion,Krasnodar,Kuban,31654,Russia,RUS
+1336,UEFA,Lokomotiv Stadion,Moscow,Lokomotiv,28800,Russia,RUS
+1337,UEFA,Malaja Sportivnaja Arena Lokomotiv,Moscow,Lokomotiv,10000,Russia,RUS
+1338,UEFA,"Malaya Arena, Petrovsky",Petersburg,Zenit,3018,Russia,RUS
+1339,UEFA,Metallurg Stadion,Samara,Krylia Sovietov,33001,Russia,RUS
+1340,UEFA,Mordovia Arena,Saransk,Mordovia,44149,Russia,RUS
+1341,UEFA,Olimp-2 Stadion,Rostov-on-Don,FK Rostov,17023,Russia,RUS
+1342,UEFA,Otkritie Arena,Moscow,Spartak,45360,Russia,RUS
+1343,UEFA,Petrovsky Stadion,Petersburg,Zenit,21838,Russia,RUS
+1344,UEFA,Rostov Arena,Rostov-on-Don,FK Rostov,45335,Russia,RUS
+1345,UEFA,Samara Arena,Samara,Krylia Sovetov,44918,Russia,RUS
+1346,UEFA,Spartak Stadion,Novosibirsk,FK Sibir,12500,Russia,RUS
+1347,UEFA,Stadion Dynamo,Moscow,Dinamo,37000,Russia,RUS
+1348,UEFA,Stadion FK Krasnodar,Krasnodar,FK Krasnodar,34291,Russia,RUS
+1349,UEFA,Stadion FOP Izmailovo,Moscow,Sportakademklub,13000,Russia,RUS
+1350,UEFA,Stadion Kaliningrad,Kaliningrad,Baltika,35212,Russia,RUS
+1351,UEFA,Stadion Nizhny Novgorod,Nizhny Novgorod,Olimpiyets,45000,Russia,RUS
+1352,UEFA,Stadion Sankt Petersburg,Petersburg,Zenit,68134,Russia,RUS
+1353,UEFA,Torpedo Stadion,Vladimir,Torpedo,18500,Russia,RUS
+1354,UEFA,Torpedo Stadion,Moscow,Torpedo,14274,Russia,RUS
+1355,UEFA,Tsentralnyi Stadion,Yekaterinburg,Ural,35696,Russia,RUS
+1356,UEFA,Tsentralnyi Stadion,Krasnoyarsk,FK Enisey,25000,Russia,RUS
+1357,UEFA,VEB Arena,Moscow,CSKA,30000,Russia,RUS
+1358,UEFA,Volgograd Arena,Volgograd,Rotor,45568,Russia,RUS
+1359,UEFA,Zvezda Stadion,Perm,Amkar,20000,Russia,RUS
+1360,CAF,Stade Amahoro,Kigali,"AS Kigali, Rayon Sports, Nyanza, Kiyovu, La Jeunes",30000,Rwanda,RWA
+1361,AFC,King Abdullah Sports City Stadium,Buraydah,"Al-Taawon, Al-Raed",25000,Saudi Arabia,KSA
+1362,AFC,King Abdullah Stadium,Jeddah,"Al-Ahli, Al-Ittihad",60241,Saudi Arabia,KSA
+1363,AFC,King Fahd International Stadium,Riyadh,"Al-Shabab, Al-Hilal, Al-Riyadh",68752,Saudi Arabia,KSA
+1364,AFC,Prince Abdullah Al-Faisal Stadium,Jeddah,"Al-Ahli, Al-Ittihad",20000,Saudi Arabia,KSA
+1365,UEFA,Broadwood Stadium,Cumbernauld,Clyde,8029,Scotland,SCO
+1366,UEFA,Caledonian Stadium,Inverness,Inverness CT,7512,Scotland,SCO
+1367,UEFA,Cappielow,Greenock,Greenock Morton,11100,Scotland,SCO
+1368,UEFA,Celtic Park,Glasgow,Celtic,60832,Scotland,SCO
+1369,UEFA,Dam Park,Ayr,Whitletts Victoria,1478,Scotland,SCO
+1370,UEFA,East End Park,Dunfermline,Dunfermline Athletic,11780,Scotland,SCO
+1371,UEFA,Easter Road Stadium,Edinburgh,Hibernian,20421,Scotland,SCO
+1372,UEFA,Energy Check Stadium,Glasgow,Partick Thistle,10887,Scotland,SCO
+1373,UEFA,Excelsior Stadium,Airdrie,Airdrie United,10171,Scotland,SCO
+1374,UEFA,Falkirk Stadium,Falkirk,Falkirk FC,6857,Scotland,SCO
+1375,UEFA,Fir Park,Motherwell,Motherwell FC,13742,Scotland,SCO
+1376,UEFA,Galabank,Annan,Annan Athletic,2504,Scotland,SCO
+1377,UEFA,Global Energy Stadium,Dingwall,Ross County,6310,Scotland,SCO
+1378,UEFA,Hampden Park,Glasgow,Queens Park,51866,Scotland,SCO
+1379,UEFA,Ibrox Stadium,Glasgow,Rangers,50817,Scotland,SCO
+1380,UEFA,Kilmac Stadium,Dundee,Dundee FC,12006,Scotland,SCO
+1381,UEFA,McDiarmid Park,Perth,St. Johnstone,10723,Scotland,SCO
+1382,UEFA,Meadow Park,Irvine,Irvine Meadow XI,5000,Scotland,SCO
+1383,UEFA,Meadowbank,Edinburgh,Edinburgh City,16500,Scotland,SCO
+1384,UEFA,New Douglas Park,Hamilton,Academical,6018,Scotland,SCO
+1385,UEFA,Paisley 2021 Stadium,Paisley,St. Mirren,8023,Scotland,SCO
+1386,UEFA,Palmerston Park,Dumfries,Queen of the South,6412,Scotland,SCO
+1387,UEFA,Petershill Park,Glasgow,"Petershill, Rossvale",2000,Scotland,SCO
+1388,UEFA,Pittodrie Stadium,Aberdeen,Aberdeen FC,20961,Scotland,SCO
+1389,UEFA,Rugby Park,Kilmarnock,Kilmarnock FC,18128,Scotland,SCO
+1390,UEFA,Stark’s Park,Kirkcaldy,Raith Rovers,8473,Scotland,SCO
+1391,UEFA,Tannadice Park,Dundee,Dundee United,14209,Scotland,SCO
+1392,UEFA,The YOUR Radio 103FM Stadium,Dumbarton,Dumbarton FC,2025,Scotland,SCO
+1393,UEFA,Tony Macaroni Arena,Livingston,Livingston FC,9521,Scotland,SCO
+1394,UEFA,Tynecastle Park,Edinburgh,Hearts,20099,Scotland,SCO
+1395,UEFA,Gradski Stadion Gu?a,Gu?a,Draga?evo,2000,Serbia,SER
+1396,UEFA,Gradski Stadion Kraljevo,Kraljevo,Sloga,5000,Serbia,SER
+1397,UEFA,Gradski Stadion Novi Pazar,Novi Pazar,FK Novi Pazar,10000,Serbia,SER
+1398,UEFA,Gradski Stadion Subotica,Subotica,Spartak,13000,Serbia,SER
+1399,UEFA,Gradski Stadion Surdulica,Surdulica,Radnik,3312,Serbia,SER
+1400,UEFA,Gradski Stadion Užice,Užice,Sloboda,12000,Serbia,SER
+1401,UEFA,Omladinski Stadion,Belgrade,OFK Beograd,20000,Serbia,SER
+1402,UEFA,Stadion ?air,Niš,Radni?ki,18151,Serbia,SER
+1403,UEFA,Stadion ?ika Da?a,Kragujevac,Radni?ki 1923,15100,Serbia,SER
+1404,UEFA,Stadion FK Jagodina,Jagodina,FK Jagodina,10000,Serbia,SER
+1405,UEFA,Stadion FK Partizan,Belgrade,Partizan,32710,Serbia,SER
+1406,UEFA,Stadion FK Smederevo,Smederevo,FK Smederevo,17200,Serbia,SER
+1407,UEFA,Stadion FK Zemun,Belgrade,Zemun,10000,Serbia,SER
+1408,UEFA,Stadion Hajduka na Lionu,Belgrade,Hajduk,2000,Serbia,SER
+1409,UEFA,Stadion Kara?or?e,Novi Sad,"Vojvodina, Proleter",12303,Serbia,SER
+1410,UEFA,Stadion kraj Moravice,Ivanjica,Javor,3000,Serbia,SER
+1411,UEFA,Stadion Kralj Petar Prvi,Belgrade,Rad,6000,Serbia,SER
+1412,UEFA,Stadion Metalac,Gornji Milanovac,FK Metalac,4600,Serbia,SER
+1413,UEFA,Stadion Mladost,Lu?ani,Mladost,8000,Serbia,SER
+1414,UEFA,Stadion Mladost Kruševac,Kruševac,Napredak,10331,Serbia,SER
+1415,UEFA,Stadion Obili?,Belgrade,FK Obili?,4508,Serbia,SER
+1416,UEFA,Stadion Rajko Miti?,Belgrade,Crvena Zvezda,55538,Serbia,SER
+1417,UEFA,Stadion Vašarište,Požarevac,Mladi Radnik,3200,Serbia,SER
+1418,UEFA,Stadion Voždovac,Belgrade,FK Voždovac,5174,Serbia,SER
+1419,AFC,Jalan Besar Stadium,Singapore,Young Lions,6000,Singapore,SIN
+1420,UEFA,Areál AFC Považan,Nové Mesto nad Váhom,AFC Považan,4500,Slovakia,SVK
+1421,UEFA,City Arena - SAM,Trnava,Spartak,19200,Slovakia,SVK
+1422,UEFA,Futbalový štadión Prievidza,Prievidza,HFK Prievidza,6000,Slovakia,SVK
+1423,UEFA,Humenský štadión,Humenné,1.HFC Humenné,10000,Slovakia,SVK
+1424,UEFA,Mestský futbalový štadión,Dubnica nad Váhom,FK ZTS Dubnica,5450,Slovakia,SVK
+1425,UEFA,Mestský štadión Skalica,Skalica,MFK Skalica,2000,Slovakia,SVK
+1426,UEFA,NTC Poprad,Poprad,FK Poprad,5700,Slovakia,SVK
+1427,UEFA,Štadión DAC Dunajská Streda,Dunajská Streda,FC DAC 1904,6100,Slovakia,SVK
+1428,UEFA,Štadión FC ViOn,Zlaté Moravce,FC ViOn,4000,Slovakia,SVK
+1429,UEFA,Štadión FK Púchov,Púchov,FK Púchov,6614,Slovakia,SVK
+1430,UEFA,Štadión FK Senica,Senica,FK Senica,5070,Slovakia,SVK
+1431,UEFA,Štadión Lokomotívy,Košice,VSS Košice,10787,Slovakia,SVK
+1432,UEFA,Štadión MFK Ružomberok,Ružomberok,MFK Ružomberok,5000,Slovakia,SVK
+1433,UEFA,Štadión na Sihoti,Tren?ín,AS Tren?ín,4300,Slovakia,SVK
+1434,UEFA,Štadión NTC,Senec,FC Senec,3264,Slovakia,SVK
+1435,UEFA,Štadión Pasienky,Bratislava,Slovan,13401,Slovakia,SVK
+1436,UEFA,Štadión Petržalka,Bratislava,Artmedia,7500,Slovakia,SVK
+1437,UEFA,Štadión pod Dub?om,Žilina,MŠK Žilina,11313,Slovakia,SVK
+1438,UEFA,Štadión pod Zoborom,Nitra,FC Nitra,11384,Slovakia,SVK
+1439,UEFA,Štadión ŠKP Dúbravka,Bratislava,ŠKP Dúbravka,10500,Slovakia,SVK
+1440,UEFA,Štadión Spartaka Myjava,Myjava,Spartak,2709,Slovakia,SVK
+1441,UEFA,Štadion Štiavni?ky,Banska Bystrica,Dukla,9881,Slovakia,SVK
+1442,UEFA,Štadión Tatran,Prešov,1.FC Tatran,14000,Slovakia,SVK
+1443,UEFA,Štadion v ?iernom Balogu,?ierny Balog,Tatran,480,Slovakia,SVK
+1444,UEFA,Steel Slovakia Aréna,Moldava nad Bodvou,FK Bodva,2500,Slovakia,SVK
+1445,UEFA,Ljudski Vrt,Maribor,NK Maribor,12435,Slovenia,SVN
+1446,UEFA,Mestni Stadion Lendava,Lendava,Nafta,3020,Slovenia,SVN
+1447,UEFA,Športni Park Domžale,Domžale,NK Domžale,2813,Slovenia,SVN
+1448,UEFA,Športni Park Nova Gorica,Nova Gorica,ND Gorica,3066,Slovenia,SVN
+1449,UEFA,Stadion Bežigrad,Ljubljana,NK Bežigrad,8211,Slovenia,SVN
+1450,UEFA,Stadion Fazanerija,Murska Sobota,NK Mura,5400,Slovenia,SVN
+1451,UEFA,Stadion Matija Gubec,Krško,NK Krško,1617,Slovenia,SVN
+1452,UEFA,Stadion Primorje,Ajdovš?ina,NK Primorje,3000,Slovenia,SVN
+1453,UEFA,Stadion Stožice,Ljubljana,NK Olimpija,16038,Slovenia,SVN
+1454,UEFA,Stadion Z’dežele,Celje,CM Celje,13059,Slovenia,SVN
+1455,UEFA,Stadion ŽŠD,Ljubljana,"NK Ljubljana, Interblock",5000,Slovenia,SVN
+1456,AFC,Big Bird Stadium,Suwon,Suwon Bluewings,43288,South Korea,KOR
+1457,AFC,Bucheon Stadium,Bucheon,Bucheon FC,35545,South Korea,KOR
+1458,AFC,Busan Asiad Stadium,Busan,I’Park,53864,South Korea,KOR
+1459,AFC,Changwon Civic Stadium,Changwon,Changwon City,27085,South Korea,KOR
+1460,AFC,Changwon Football Stadium,Changwon,"Changwon City, Gyeongnam FC",15116,South Korea,KOR
+1461,AFC,Daegu Stadium,Daegu,Daegu FC,66422,South Korea,KOR
+1462,AFC,Daejeon World Cup Stadium,Daejeon,Citizen,41296,South Korea,KOR
+1463,AFC,Guus Hiddink Stadium,Gwangju,Sangmu,44118,South Korea,KOR
+1464,AFC,Gwangyang Stadium,Gwangyang,Chunnam Dragons,13496,South Korea,KOR
+1465,AFC,Incheon Football Stadium,Incheon,United,20891,South Korea,KOR
+1466,AFC,Jeju World Cup Stadium,Seogwipo,Jeju United,35657,South Korea,KOR
+1467,AFC,Jeonju World Cup Stadium,Jeonju,Chonbuk,43348,South Korea,KOR
+1468,AFC,Munsu Football Stadium,Ulsan,Hyundai Horang-i,44466,South Korea,KOR
+1469,AFC,Seoul World Cup Stadium,Seoul,FC Seoul,68476,South Korea,KOR
+1470,AFC,Steelyard,Pohang,Steelers,18960,South Korea,KOR
+1471,AFC,Tan Cheon Stadium,Seongnam,Chunma,16146,South Korea,KOR
+1472,AFC,Ulsan Stadium,Ulsan,Mipo Dockyard Dolphins,19665,South Korea,KOR
+1473,UEFA,Abanca Balaídos,Vigo,Celta de Vigo,31800,Spain,ESP
+1474,UEFA,Abanca-Riazor,La Coru?a,Deportivo,32660,Spain,ESP
+1475,UEFA,Camp d'Esports,Lleida,UE Lleida,13031,Spain,ESP
+1476,UEFA,Camp Municipal Narcís Sala,Barcelona,Sant Andreu,6563,Spain,ESP
+1477,UEFA,Camp Nou,Barcelona,Barcelona,99354,Spain,ESP
+1478,UEFA,Campo de Fútbol de Vallecas,Madrid,Rayo Vallecano,14708,Spain,ESP
+1479,UEFA,Coliseum Alfonso Pérez,Getafe,Getafe CF,14478,Spain,ESP
+1480,UEFA,Estadi Ciutat de Valencia,Valencia,Levante,26354,Spain,ESP
+1481,UEFA,Estadi Nova Creu Alta,Sabadell,Sabadell FC,20000,Spain,ESP
+1482,UEFA,Estadi Olimpic,Terrassa,Terrassa FC,11500,Spain,ESP
+1483,UEFA,Estadio  Nuevo las Gaunas,Logro?o,CD Logrones,16000,Spain,ESP
+1484,UEFA,Estadio Alfredo di Stefano,Valdebebas,Real II,7624,Spain,ESP
+1485,UEFA,Estadio Anoeta,San Sebastian,Real Sociedad,32076,Spain,ESP
+1486,UEFA,Estadio Benito Villamarín,Sevilla,Real Betis,60720,Spain,ESP
+1487,UEFA,Estadio Carlos Belmonte,Albacete,Albacete Balompié,17524,Spain,ESP
+1488,UEFA,Estadio Carlos Tartiere,Oviedo,Real Oviedo,30500,Spain,ESP
+1489,UEFA,Estadio Ciudad de Lepe,Lepe,San Roque,3512,Spain,ESP
+1490,UEFA,Estadio Ciudad de Lucena,Lucena,Lucena CF,5046,Spain,ESP
+1491,UEFA,Estadio de Butarque,Leganés,CD Leganés,10958,Spain,ESP
+1492,UEFA,Estadio de la Cerámica,Villarreal,Villareal CF,24890,Spain,ESP
+1493,UEFA,Estadio de La Romareda,Zaragoza,Real Zaragoza,34600,Spain,ESP
+1494,UEFA,Estadio de Lasesarre,Barakaldo,Barakaldo CF,7960,Spain,ESP
+1495,UEFA,Estadio de Mendizorrotza,Vitoria-Gasteiz,Deportivo,19840,Spain,ESP
+1496,UEFA,Estadio de Pasarón,Pontevedra,Pontevedra CF,12000,Spain,ESP
+1497,UEFA,Estadio de Tenerife,Santa Cruz de Tenerife,Tenerife,22948,Spain,ESP
+1498,UEFA,Estadio El Molinón,Gijón,Real Gijón,29538,Spain,ESP
+1499,UEFA,Estadio El Sadar,Pamplona,Osasuna,18375,Spain,ESP
+1500,UEFA,Estadio El Sardinero,Santander,Racing,22346,Spain,ESP
+1501,UEFA,Estadio Francisco Muñoz Pérez,Estepona,Unión Estepona,3800,Spain,ESP
+1502,UEFA,Estadio Gran Canaria,Las Palmas,UD Las Palmas,31250,Spain,ESP
+1503,UEFA,Estadio Helmántico,Salamanca,UD Salamanca,17341,Spain,ESP
+1504,UEFA,Estadio Iberoamericano 2010,San Fernando,CD San Fernando,8000,Spain,ESP
+1505,UEFA,Estadio Ipurúa,Eibar,SD Eibar,6267,Spain,ESP
+1506,UEFA,Estadio José Rico Pérez,Alicante,Hércules CF,29584,Spain,ESP
+1507,UEFA,Estadio José Zorrilla,Valladolid,Real Valladolid,26512,Spain,ESP
+1508,UEFA,Estadio La Condomina,Murcia,UCAM Murcia,13500,Spain,ESP
+1509,UEFA,Estadio La Rosaleda,Málaga,Malaga CF,28963,Spain,ESP
+1510,UEFA,Estadio Manuel Martinez Valero,Elche,Elche,36017,Spain,ESP
+1511,UEFA,Estadio Mediterráneo,Almería,UD Almeria,15200,Spain,ESP
+1512,UEFA,Estadio Mestalla,Valencia,Valencia,55000,Spain,ESP
+1513,UEFA,Estadio Municipal de Anduva,Miranda de Ebro,Mirandés,6900,Spain,ESP
+1514,UEFA,Estadio Municipal de Chapín,Xerez,CD Xerez,20522,Spain,ESP
+1515,UEFA,Estadio Nueva Balastera,Palencia,Palencia CF,8100,Spain,ESP
+1516,UEFA,Estadio Nueva Condomina,Murcia,Real Murcia,33045,Spain,ESP
+1517,UEFA,Estadio Nuevo  Arcángel,Cordoba,Córdoba CF,16600,Spain,ESP
+1518,UEFA,Estadio Nuevo Colombino,Huelva,Recreativo Huelva,20200,Spain,ESP
+1519,UEFA,Estadio Nuevo Los Cármenes,Granada,Granada CF,22524,Spain,ESP
+1520,UEFA,Estadio Nuevo Vivero,Badajoz,CD Badajoz,15598,Spain,ESP
+1521,UEFA,Estadio Ramon de Carranza,Cádiz,Cadiz CF,22087,Spain,ESP
+1522,UEFA,Estadio Santiago Bernabéu,Madrid,Real Madrid,85454,Spain,ESP
+1523,UEFA,Estadio Silvestre Carrillo,Santa Cruz de La Palma,CD Mensajero,6000,Spain,ESP
+1524,UEFA,Estadio Vicente Calderón,Madrid,Atlético Madrid,54907,Spain,ESP
+1525,UEFA,Estadio Zubieta XXI,Zubieta,Real Sociedad II,2500,Spain,ESP
+1526,UEFA,Iberostar Estadi,Palma de Mallorca,Real CD Mallorca,24262,Spain,ESP
+1527,UEFA,Mini Estadi,Barcelona,Barcelona,15276,Spain,ESP
+1528,UEFA,Miniestadio Cerro del Espino,Majadahonda,Atlético B,3376,Spain,ESP
+1529,UEFA,Nou Camp Municipal UE Cornellá,Barcelona,UE Cornellà,1500,Spain,ESP
+1530,UEFA,Nou Estadi,Tarragona,CG Tarragona,12000,Spain,ESP
+1531,UEFA,Nou Estadi Castalia,Castellón de la Plana,UD Castellón de la Plana,16000,Spain,ESP
+1532,UEFA,Nou Sardenya,Barcelona,CE Europa,8000,Spain,ESP
+1533,UEFA,Nuevo Estadio Los Pajaritos,Soria,CD Numancia,9700,Spain,ESP
+1534,UEFA,Ramón Ramón Sánchez Pizjuán,Sevilla,Sevilla,42982,Spain,ESP
+1535,UEFA,RCDE Stadium,Barcelona,Espanyol,40500,Spain,ESP
+1536,UEFA,San Mamés Barria,Bilbao,Athletic,53289,Spain,ESP
+1537,UEFA,Stadium Gal,Irun,RUC Irun,6344,Spain,ESP
+1538,UEFA,Wanda Metropolitano,Madrid,Atlético Madrid,67703,Spain,ESP
+1539,UEFA,Behrn Arena,Örebro,Örebro SK,13000,Sweden,SWE
+1540,UEFA,Borås Arena,Borås,Elfsborg,16284,Sweden,SWE
+1541,UEFA,Bravida Arena,Göteborg,BK Häcken,6500,Sweden,SWE
+1542,UEFA,Friends Arena,Solna,AIK,54329,Sweden,SWE
+1543,UEFA,Gamla Ullevi,Göteborg,"IFK, GAIS",18416,Sweden,SWE
+1544,UEFA,Gavlevallen,Gävle,Gefle IF,6432,Sweden,SWE
+1545,UEFA,Guldfågeln Arena,Kalmar,Kalmar FF,12182,Sweden,SWE
+1546,UEFA,Jämtkraft Arena,Östersund,Östersunds FK,6028,Sweden,SWE
+1547,UEFA,Jernvallen,Sandviken,"Sandvikens IF, Sandvikens AIK",2700,Sweden,SWE
+1548,UEFA,Klostergårdens,Lund,"Lunds BK, Lunds BoiS",8560,Sweden,SWE
+1549,UEFA,Kopparvallen,Åtvidaberg,Åtvidabergs FF,8000,Sweden,SWE
+1550,UEFA,Landskrona IP,Landskrona,Landskrona BoIS,12500,Sweden,SWE
+1551,UEFA,Myresjöhus Arena,Vaxjo,Östers,12200,Sweden,SWE
+1552,UEFA,Norrporten Arena,Sundsvall,GIF Sundsvall,8500,Sweden,SWE
+1553,UEFA,Nya Parken,Norrköping,IFK Norrköping,19414,Sweden,SWE
+1554,UEFA,Olympia Stadion,Helsingborgs,Helsingborgs IF,17200,Sweden,SWE
+1555,UEFA,Örjans Vall,Halmstad,Halmstads BK,15500,Sweden,SWE
+1556,UEFA,Rosvalla Stadion,Nyköping,Nyköpings BIS,6000,Sweden,SWE
+1557,UEFA,Slottskogsvallen,Göteborg,Azalea,5000,Sweden,SWE
+1558,UEFA,Södertälje Fotbollsarena,Södertälje,"Assyriska, Syrianska",6500,Sweden,SWE
+1559,UEFA,Sollentunavallen,Sollentuna,Sollentuna FK,4500,Sweden,SWE
+1560,UEFA,Swedbank Park,Västerås,Västerås SK,7044,Sweden,SWE
+1561,UEFA,Swedbank Stadion,Malmö,Malmö FF,24000,Sweden,SWE
+1562,UEFA,Tele2 Arena,Stockholm,"Hammarby, Djurgårdens",33000,Sweden,SWE
+1563,UEFA,Tunavallen,Eskilstuna,"IFK, City, United",7800,Sweden,SWE
+1564,UEFA,Ullevi Stadion,Göteborg,"IFK, GAIS",43200,Sweden,SWE
+1565,UEFA,AFG Arena,Sankt Gallen,FC St. Gallen,19694,Switzerland,SUI
+1566,UEFA,La Maladière,Neuchâtel,Xamax,12000,Switzerland,SUI
+1567,UEFA,Letzigrund,Zurich,"FC Zürich, Grasshoppers",25000,Switzerland,SUI
+1568,UEFA,St. Jakob-Park,Basel,FC Basel,38512,Switzerland,SUI
+1569,UEFA,Stade de Genéve,Geneve,Servette,30084,Switzerland,SUI
+1570,UEFA,Stade de Suisse,Bern,Young Boys,31783,Switzerland,SUI
+1571,UEFA,Stade Olympique de la Pontaise,Lousanne,Lausanne-Sports,15850,Switzerland,SUI
+1572,UEFA,Stadio Comunale di Bellinzona,Bellinzona,AC Bellinzona,6000,Switzerland,SUI
+1573,UEFA,Stadion Brügglifeld,Aarau,FC Aarau,9249,Switzerland,SUI
+1574,UEFA,Stadion Gurzelen,Biel/Bienne,FC Biel-Bienne,5500,Switzerland,SUI
+1575,UEFA,Stadion Schützenwiese,Winterthur,FC Winterthur,8550,Switzerland,SUI
+1576,UEFA,Stockhorn Arena,Thun,FC Thun,9500,Switzerland,SUI
+1577,UEFA,swissporarena,Lucerne,FC Luzern,17500,Switzerland,SUI
+1578,UEFA,Tissot Arena,Biel/Bienne,FC Biel-Bienne,5200,Switzerland,SUI
+1579,UEFA,Tourbillon,Sion,FC Sion,20187,Switzerland,SUI
+1580,AFC,Abbasiyyin Stadium,Damascus,"Al-Wahda, Al-Jaish, Al Majd",30000,Syria,SYR
+1581,AFC,Al-Hamadaniah Stadium,Aleppo,Hurriya,18000,Syria,SYR
+1582,AFC,Aleppo International Stadium,Aleppo,Al-Ittihad,75000,Syria,SYR
+1583,AFC,Idlib Stadium,Idlib,Omayya,7500,Syria,SYR
+1584,AFC,Chungshan Stadium,Taipei,Tatung,20000,Taiwan,TPE
+1585,AFC,Taipei Municipal Stadium,Taipei,Tatung,22000,Taiwan,TPE
+1586,CAF,Benjamin Mkapa Stadium,Dar Es Salaam,"Simba, Young Africans",60000,Tanzania,TAN
+1587,AFC,Chulalongkorn Stadium,Bangkok,Chamchuri United,20000,Thailand,THA
+1588,AFC,i-mobile Stadium,Buriram,Buriram United,23489,Thailand,THA
+1589,AFC,PAT Stadium,Bangkok,Port FC,12308,Thailand,THA
+1590,AFC,Rajamangala Stadium,Bangkok,Osotspa Saraburi,49749,Thailand,THA
+1591,AFC,Thai-Japanese Stadium,Bangkok,Bangkok United,6600,Thailand,THA
+1592,AFC,TOT Stadium,Bangkok,TOT,5439,Thailand,THA
+1593,CONCACAF,Ato Boldon Stadium,Couva,South Starworld Strikers,10000,Trinidad and Tobago,TRI
+1594,CONCACAF,Hasely Crawford Stadium,Port of Spain,"Defence Force, Police FC, San Juan Jabloteh",23000,Trinidad and Tobago,TRI
+1595,CONCACAF,Mannie Ramjohn Stadium,Marabella,"South End, MSC, Police FC, W Connection",10000,Trinidad and Tobago,TRI
+1596,CONCACAF,Marvin Lee Stadium,Macoya,Joe Public,6000,Trinidad and Tobago,TRI
+1597,CAF,Stade du 15 Octobre,Bizerte,CAB,20000,Tunisia,TUN
+1598,CAF,Stade El Menzah,Tunis,"CA, EST",45000,Tunisia,TUN
+1599,CAF,Stade Moustapha Ben Jannet,Monastir,US Monastirienne,20000,Tunisia,TUN
+1600,CAF,Stade Olympique,Sousse,Étoile Sportive du Sahel,28000,Tunisia,TUN
+1601,UEFA,19 Eylül Stadyumu,Ordu,Orduspor,11024,Turkey,TUR
+1602,UEFA,19 May?s Stadyumu,Ankara,"Gençlerbirli?i, Ankaragücü, Ankarasp",20070,Turkey,TUR
+1603,UEFA,19 May?s Stadyumu,Samsun,Samsunspor,33919,Turkey,TUR
+1604,UEFA,19 May?s Stadyumu,Manisa,"Manisaspor, Akhisar Belediyespor",16597,Turkey,TUR
+1605,UEFA,Adana 5 Ocak Stadyumu,Adana,Adanaspor,16123,Turkey,TUR
+1606,UEFA,Antalya Arena,Antalya,Antalyaspor,32539,Turkey,TUR
+1607,UEFA,Atatürk Stadyumu,Bursa,Bursaspor,25661,Turkey,TUR
+1608,UEFA,Beykoz Stadyumu,Istanbul,Beykozspor 1908,3500,Turkey,TUR
+1609,UEFA,Bornova Stadyumu,Izmir,"Göztepe, Alt?nordu, Bornova Belediyespor",6049,Turkey,TUR
+1610,UEFA,Çaykur Didi Stadyumu,Rize,Çaykur Rizespor,15558,Turkey,TUR
+1611,UEFA,Çetin Emeç Stadyumu,Istanbul,Bayrampa?a,3300,Turkey,TUR
+1612,UEFA,Fatih Terim Stadyumu,Istanbul,IBFK,17319,Turkey,TUR
+1613,UEFA,Gaziantep Stadyumu,Gaziantep,Gaziantepspor,35574,Turkey,TUR
+1614,UEFA,Gümü?hane Stadyumu,Gümü?hane,Gümü?hanespor,4000,Turkey,TUR
+1615,UEFA,Hasan Polat Stadyumu,Istanbul,Maltepespor,5000,Turkey,TUR
+1616,UEFA,?zmir Atatürk Stadyumu,Izmir,Göztepe,51295,Turkey,TUR
+1617,UEFA,Kadir Has Stadyumu,Kayseri,"Kayserispor, Erciyesspor",32864,Turkey,TUR
+1618,UEFA,Kartal Stadyumu,Istanbul,Kartalspor,7195,Turkey,TUR
+1619,UEFA,MedicalPark Stadyumu,Trabzon,Trabzonspor,41461,Turkey,TUR
+1620,UEFA,Mersin Arena,Mersin,?dman Yurdu,25534,Turkey,TUR
+1621,UEFA,Mimar Yahya Ba? Stadyumu,Istanbul,Güngörenspor,7589,Turkey,TUR
+1622,UEFA,Osmanl? Stadyumu,Sincan,Osmanl?spor,18029,Turkey,TUR
+1623,UEFA,Özer Türk Stadyumu,Kusadasi,Ku?adas?spor,8000,Turkey,TUR
+1624,UEFA,Recep Tayyip Erdo?an Stadyumu,Istanbul,Kas?mpa?a Spor,14234,Turkey,TUR
+1625,UEFA,Sivas Arena,Sivas,Sivasspor,27532,Turkey,TUR
+1626,UEFA,Timsah Arena,Bursa,Bursaspor,43877,Turkey,TUR
+1627,UEFA,Torku Arena,Konya,Konyaspor,41981,Turkey,TUR
+1628,UEFA,Türk Telekom Stadium,Istanbul,Galatasaray,52695,Turkey,TUR
+1629,UEFA,Ülker Stadyumu,Istanbul,Fenerbahçe,50509,Turkey,TUR
+1630,UEFA,Vodafone Park,Istanbul,Be?ikta?,41903,Turkey,TUR
+1631,UEFA,Yeni Eski?ehir Stadyumu,Eski?ehir,Eski?ehirspor,34930,Turkey,TUR
+1632,UEFA,Yeni Malatya Stadyumu,Malatya,Yeni Malatyaspor,27044,Turkey,TUR
+1633,UEFA,Yeni Sakarya Stadyumu,Sakarya,Sakaryaspor,28154,Turkey,TUR
+1634,UEFA,Yusuf Ziya Öni? Stadyumu,Istanbul,Sar?yer,5000,Turkey,TUR
+1635,UEFA,Zeytinburnu Stadyumu,Istanbul,Zeytinburnuspor,16000,Turkey,TUR
+1636,AFC,A?gabat Stadiony,Ashgabat,"Ahal, Altyn Asyr, A?gabat FK",20000,Turkmenistan,TKM
+1637,CAF,Mandela National Stadium,Kampala,"Revenue Authority, Police",45202,Uganda,UGA
+1638,UEFA,Arena Lviv,Lviv,FK Lviv,34512,Ukraine,UKR
+1639,UEFA,Dnipro Arena,Dnipropetrovsk,Dnipro,31003,Ukraine,UKR
+1640,UEFA,Donbass Arena,Donieck,Shakhtar,51504,Ukraine,UKR
+1641,UEFA,Lafort Arena,Dobromyl,FK Lviv,3220,Ukraine,UKR
+1642,UEFA,NSK Olimpiyskiy,Kiev,Dynamo,70050,Ukraine,UKR
+1643,UEFA,Obolon Arena,Kiev,Obolon,5103,Ukraine,UKR
+1644,UEFA,RSK Olimpiyskyi,Donieck,Szachtar,25678,Ukraine,UKR
+1645,UEFA,S?awutycz Arena,Zaporizhia,Meta?urh,11883,Ukraine,UKR
+1646,UEFA,Sportiwnyj Kompleks Podilya,Khmelnytskyi,FK Podilya,10000,Ukraine,UKR
+1647,UEFA,Stadion Awangard,Luhansk,Zorja,22320,Ukraine,UKR
+1648,UEFA,Stadion Awangard,Uzhhorod,FK Zakarpattia,12000,Ukraine,UKR
+1649,UEFA,Stadion Bukovyna,Chernivtsi,Bukovyna,12000,Ukraine,UKR
+1650,UEFA,Stadion Centralnyj,Ternopil,Nywa,12750,Ukraine,UKR
+1651,UEFA,Stadion Chernomorets,Odesa,Czornomorec,34164,Ukraine,UKR
+1652,UEFA,Stadion Illichivets,Mariupil,Illichivets,12680,Ukraine,UKR
+1653,UEFA,Stadion im W. ?obanowskiego,Kiev,Dynamo,16873,Ukraine,UKR
+1654,UEFA,Stadion Jubilejnyj,Sumy,FK Sumy,26000,Ukraine,UKR
+1655,UEFA,Stadion Lokomotyv,Simferopol,Tavria,19978,Ukraine,UKR
+1656,UEFA,Stadion Metalist,Kharkiv,Shakhtar,38613,Ukraine,UKR
+1657,UEFA,Stadion Metalurga,Krivyi Rih,Krywbas,29783,Ukraine,UKR
+1658,UEFA,Stadion Meteor,Dnipropetrovsk,Dnipro,24381,Ukraine,UKR
+1659,UEFA,Stadion Ruch,Ivano-Frankivsk,Prykarpattya,15000,Ukraine,UKR
+1660,UEFA,Stadion Stali,Altchevs'k,Stal,12000,Ukraine,UKR
+1661,UEFA,Stadion Szachtara,Donieck,Metalurg,31718,Ukraine,UKR
+1662,UEFA,Stadion Ukraina,Lviv,Karpaty,28051,Ukraine,UKR
+1663,UEFA,Stadion Vorskla,Poltava,Vorskla,24795,Ukraine,UKR
+1664,AFC,Al-Maktoum Stadium,Dubai,Al-Nasr,12000,United Arab Emirates,UAE
+1665,AFC,Al-Nahyan Stadium,Abu Dhabi,Al-Wahda,12000,United Arab Emirates,UAE
+1666,AFC,Al-Rashid Stadium,Dubai,"Dubai, Al-Ahli",18000,United Arab Emirates,UAE
+1667,AFC,Al-Shabab Stadium,Dubai,Al-Shabab,18000,United Arab Emirates,UAE
+1668,AFC,Baniyas Stadium,Abu Dhabi,Baniyas SC,10000,United Arab Emirates,UAE
+1669,AFC,Emirates Club Stadium,Ras Al-Khaimah,Emirates Club,4830,United Arab Emirates,UAE
+1670,AFC,HBZ Stadium,Al-Ain,Al-Ain,25000,United Arab Emirates,UAE
+1671,AFC,Khalid Bin Mohammed Stadium,Sharjah,"Sharjah, Al-Shabab",12000,United Arab Emirates,UAE
+1672,AFC,Mohammed Bin Zayed Stadium,Abu Dhabi,Al-Jazira,42056,United Arab Emirates,UAE
+1673,AFC,Sheikh Khalifa Bin Zayed Stadium,Al-Ain,Al-Ain,16000,United Arab Emirates,UAE
+1674,AFC,Zabeel Stadium,Dubai,Al-Wasl,18000,United Arab Emirates,UAE
+1675,CONCACAF,Al Lang Stadium,Saint Petersburg,Rowdies,7500,United States of America,USA
+1676,CONCACAF,Alamodome,San Antonio,Roadrunners,65000,United States of America,USA
+1677,CONCACAF,Aloha Stadium,Honolulu,Rainbow Warriors,50000,United States of America,USA
+1678,CONCACAF,Arrowhead Stadium,Kansas City,Chiefs,76416,United States of America,USA
+1679,CONCACAF,AT&T Stadium,Arlington,Cowboys,80000,United States of America,USA
+1680,CONCACAF,Audi Field,Washington,DC United,20000,United States of America,USA
+1681,CONCACAF,Autzen Stadium,Eugene,Ducks,54000,United States of America,USA
+1682,CONCACAF,Avaya Stadium,San José,Earthquakes,18000,United States of America,USA
+1683,CONCACAF,Banc of California Stadium,Los Angeles,LAFC,22000,United States of America,USA
+1684,CONCACAF,Bank of America Stadium,Charlotte,Panthers,75412,United States of America,USA
+1685,CONCACAF,BB&T Field,Winston-Salem,Demon Deacons,31500,United States of America,USA
+1686,CONCACAF,BBVA Compass Stadium,Houston,Dynamo,22039,United States of America,USA
+1687,CONCACAF,Beaver Stadium,University Park,Penn State,106572,United States of America,USA
+1688,CONCACAF,Ben Hill Griffin Stadium,Gainsville,Gators,88548,United States of America,USA
+1689,CONCACAF,Bill Snyder Family Stadium,Manhattan,Wildcats,53000,United States of America,USA
+1690,CONCACAF,Boone Pickens Stadium,Stillwater,Cowboys,53000,United States of America,USA
+1691,CONCACAF,Bryant-Denny Stadium,Tuscaloosa,Crimson Tide,101821,United States of America,USA
+1692,CONCACAF,Buck Shaw Stadium,Santa Clara,Santa Clara Broncos,10525,United States of America,USA
+1693,CONCACAF,Byrd Stadium,College Park,Terrapins,51802,United States of America,USA
+1694,CONCACAF,California Memorial Stadium,Berkeley,California Golden Bears,63186,United States of America,USA
+1695,CONCACAF,Camp Randall Stadium,Madison,Badgers,80321,United States of America,USA
+1696,CONCACAF,Camping World Stadium,Orlando,Orlando City,61348,United States of America,USA
+1697,CONCACAF,Candlestick Park,San Francisco,49ers,69732,United States of America,USA
+1698,CONCACAF,Canvas Stadium,Fort Collins,Rams,41200,United States of America,USA
+1699,CONCACAF,Carrier Dome,Syracuse,Orange,49262,United States of America,USA
+1700,CONCACAF,CenturyLink Field,Seattle,Sounders,67000,United States of America,USA
+1701,CONCACAF,Children’s Mercy Park,Kansas City,Sporting,18467,United States of America,USA
+1702,CONCACAF,Clemson Memorial Stadium,Clemson,Tigers,81500,United States of America,USA
+1703,CONCACAF,Doak Campbell Stadium,Tallahassee,Seminoles,82300,United States of America,USA
+1704,CONCACAF,DSG Park,Denver,Rapids,18086,United States of America,USA
+1705,CONCACAF,Edward Jones Dome,St. Louis,Rams,66000,United States of America,USA
+1706,CONCACAF,FAU Stadium,Boca Raton,Owls,29419,United States of America,USA
+1707,CONCACAF,Faurot Field,Columbia,Tigers,71168,United States of America,USA
+1708,CONCACAF,FedEx Field,Landover,Redskins,82000,United States of America,USA
+1709,CONCACAF,FirstEnergy Stadium,Cleveland,Browns,72300,United States of America,USA
+1710,CONCACAF,Ford Field,Detroit,Lions,65000,United States of America,USA
+1711,CONCACAF,Foreman Field,Norfolk,Monarchs,20118,United States of America,USA
+1712,CONCACAF,Georgia Dome,Atlanta,Falcons,74228,United States of America,USA
+1713,CONCACAF,Gillette Stadium,Foxboro,Revolution,68756,United States of America,USA
+1714,CONCACAF,Hard Rock Stadium,Miami,Dolphins,65326,United States of America,USA
+1715,CONCACAF,Harvard Stadium,Boston,Crimson,30323,United States of America,USA
+1716,CONCACAF,Heinz Field,Pittsburgh,Steelers,65050,United States of America,USA
+1717,CONCACAF,High Point Solutions Stadium,Piscataway,Scarlet Knights,52454,United States of America,USA
+1718,CONCACAF,Husky Stadium,Seattle,Huskies,70138,United States of America,USA
+1719,CONCACAF,Joan C. Edwards Stadium,Huntington,Thundering Herd,38227,United States of America,USA
+1720,CONCACAF,Jordan-Hare Stadium,Auburn,Tigers,87451,United States of America,USA
+1721,CONCACAF,Kenan Stadium,Chapel Hill,Tar Heels,63000,United States of America,USA
+1722,CONCACAF,Kidd Brewer Stadium,Boone,Mountaineers,24050,United States of America,USA
+1723,CONCACAF,Kinnick Stadium,Iowa City,Hawkeyes,70585,United States of America,USA
+1724,CONCACAF,KU Memorial Stadium,Lawrence,Kansas Jayhawks,50071,United States of America,USA
+1725,CONCACAF,Kyle Field,College Station,Aggies,102733,United States of America,USA
+1726,CONCACAF,LA Memorial Coliseum,Los Angeles,"Rams, Trojans",93607,United States of America,USA
+1727,CONCACAF,Lambeau Field,Green Bay,Packers,80750,United States of America,USA
+1728,CONCACAF,Lane Stadium,Blacksburg,Hokies,65632,United States of America,USA
+1729,CONCACAF,LaVell Edwards Stadium,Provo,Cougars,63470,United States of America,USA
+1730,CONCACAF,Legion Field,Birmingham,UAB Blazers,71594,United States of America,USA
+1731,CONCACAF,Levi's Stadium,Santa Clara,49ers,68983,United States of America,USA
+1732,CONCACAF,Liberty Bowl,Memphis,Tigers,59308,United States of America,USA
+1733,CONCACAF,Lincoln Financial Field,Philadelphia,Eagles,69176,United States of America,USA
+1734,CONCACAF,Lockhart Stadium,Fort Lauderdale,Strikers,20450,United States of America,USA
+1735,CONCACAF,Lucas Oil Stadium,Indianapolis,Colts,63000,United States of America,USA
+1736,CONCACAF,M&T Bank Stadium,Baltimore,Ravens,70107,United States of America,USA
+1737,CONCACAF,MAPFRE Stadium,Columbus,Crew,19968,United States of America,USA
+1738,CONCACAF,McLane Stadium,Waco,Baylor Bears,45140,United States of America,USA
+1739,CONCACAF,Memorial Stadium,Lincoln,Cornhuskers,86047,United States of America,USA
+1740,CONCACAF,Memorial Stadium,Bloomington,Hoosiers,52929,United States of America,USA
+1741,CONCACAF,Mercedes-Benz Stadium,Atlanta,"Atlanta United, Atlanta Falcons",71000,United States of America,USA
+1742,CONCACAF,Mercedes-Benz Superdome,New Orleans,Saints,73208,United States of America,USA
+1743,CONCACAF,MetLife Stadium,East Rutherford,"Jets, Giants",82566,United States of America,USA
+1744,CONCACAF,Michie Stadium,West Point,Black Knights,38000,United States of America,USA
+1745,CONCACAF,Michigan Stadium,Ann Arbor,Wolverines,107601,United States of America,USA
+1746,CONCACAF,Neyland Stadium,Knoxville,Volunteers,102455,United States of America,USA
+1747,CONCACAF,Nippert Stadium,Cincinnati,"Bearcats, FC Cincinnati",38800,United States of America,USA
+1748,CONCACAF,Nissan Stadium,Nashville,Tennessee Titans,69143,United States of America,USA
+1749,CONCACAF,Notre Dame Stadium,South Bend,Fighting Irish,80795,United States of America,USA
+1750,CONCACAF,NRG Stadium,Houston,Texans,71795,United States of America,USA
+1751,CONCACAF,NSC Stadium,Blaine,Minnesota United,8500,United States of America,USA
+1752,CONCACAF,O.co Coliseum,Oakland,Raiders,56057,United States of America,USA
+1753,CONCACAF,Ohio Stadium,Columbus,Buckeyes,104944,United States of America,USA
+1754,CONCACAF,Oklahoma Memorial Stadium,Norman,Sooners,82112,United States of America,USA
+1755,CONCACAF,Orlando City Stadium,Orlando,Orlando City,25500,United States of America,USA
+1756,CONCACAF,Paul Brown Stadium,Cincinnati,Bengals,65515,United States of America,USA
+1757,CONCACAF,Pier 40,New York,DUSC,500,United States of America,USA
+1758,CONCACAF,Princeton Stadium,Princeton,Tigers,27773,United States of America,USA
+1759,CONCACAF,Providence Park,Portland,Timbers,21144,United States of America,USA
+1760,CONCACAF,Qualcomm Stadium,San Diego,"Chargers, Aztecs",70561,United States of America,USA
+1761,CONCACAF,Ralph Wilson Stadium,Buffalo,Buffalo Bills,75339,United States of America,USA
+1762,CONCACAF,Raymond James Stadium,Tampa Bay,Buccaneers,65857,United States of America,USA
+1763,CONCACAF,Razorback Stadium,Fayetteville,Razorbacks,72000,United States of America,USA
+1764,CONCACAF,Red Bull Arena,Harrison,Red Bulls,25189,United States of America,GER
+1765,CONCACAF,Reser Stadium,Corvallis,Beavers,45674,United States of America,USA
+1766,CONCACAF,Rice-Eccles Stadium,Salt Lake City,Real,45017,United States of America,USA
+1767,CONCACAF,Rio Tinto Stadium,Sandy,Real,20008,United States of America,USA
+1768,CONCACAF,Rose Bowl,Pasadena,Bruins,92542,United States of America,USA
+1769,CONCACAF,Ross-Ade Stadium,West Lafayette,Boilermakers,57236,United States of America,USA
+1770,CONCACAF,Royal Memorial Stadium,Austin,Longhorns,100119,United States of America,USA
+1771,CONCACAF,Ryan Field,Evanston,Wildcats,47130,United States of America,USA
+1772,CONCACAF,Sanford Stadium,Athens,Bulldogs,92746,United States of America,USA
+1773,CONCACAF,Soldier Field,Chicago,Bears,63500,United States of America,USA
+1774,CONCACAF,Spartan Stadium,East Lansing,Spartans,75005,United States of America,USA
+1775,CONCACAF,Sports Authority Field,Denver,Broncos,76125,United States of America,USA
+1776,CONCACAF,StubHub Center,Carson,Galaxy,27000,United States of America,USA
+1777,CONCACAF,Sun Devil Stadium,Tempe,Sun Devils,73379,United States of America,USA
+1778,CONCACAF,Talen Energy Stadium,Chester,Union,18500,United States of America,USA
+1779,CONCACAF,TCF Bank Stadium,Minneapolis,Golden Gophers,50805,United States of America,USA
+1780,CONCACAF,TDECU Stadium,Houston,Cougars,40000,United States of America,USA
+1781,CONCACAF,TIAA Bank Field,Jacksonville,Jaguars,67246,United States of America,USA
+1782,CONCACAF,Tiger Stadium,Baton Rouge,Tigers,102321,United States of America,USA
+1783,CONCACAF,Toyota Field,San Antonio,San Antonio FC,8296,United States of America,USA
+1784,CONCACAF,Toyota Park,Bridgeview,Fire,20000,United States of America,USA
+1785,CONCACAF,Toyota Stadium,Frisco,FC Dallas,21193,United States of America,USA
+1786,CONCACAF,Tropicana Field,Saint Petersburg,Rays,42735,United States of America,USA
+1787,CONCACAF,U.S. Bank Stadium,Minneapolis,Vikings,66665,United States of America,USA
+1788,CONCACAF,UNI-Dome,Cedar Falls,Panthers,16324,United States of America,USA
+1789,CONCACAF,University of Phoenix Stadium,Glendale,Cardinals,63400,United States of America,USA
+1790,CONCACAF,University of Richmond Stadium,Richmond,Kickers,22000,United States of America,USA
+1791,CONCACAF,WakeMed Soccer Park,Cary,North Carolina FC,10000,United States of America,USA
+1792,CONCACAF,Waldo Stadium,Kalamazoo,Broncos,30200,United States of America,USA
+1793,CONCACAF,Williams-Brice Stadium,Columbia,Gamecocks,80250,United States of America,USA
+1794,CONCACAF,Yale Bowl,New Haven,Bulldogs,61446,United States of America,USA
+1795,CONCACAF,Yankee Stadium,New York,"Yankees, New York City",49642,United States of America,USA
+1796,CONMEBOL,El Parque Central,Montevideo,Nacional,26500,Uruguay,URU
+1797,CONMEBOL,Estadio Campeón del Siglo,Bañados de Carrasco,CA Pe?arol,40005,Uruguay,URU
+1798,CONMEBOL,Estadio Olímpico,Montevideo,Rampla Juniors,6000,Uruguay,URU
+1799,AFC,Buxoro Arena,Bukhara,FK Buxoro,25520,Uzbekistan,UZB
+1800,AFC,Milliy Stadioni,Tashkent,Bunyodkor,34000,Uzbekistan,UZB
+1801,AFC,Pakhtakor Markaziy Stadioni,Tashkent,Pakhtakor FK,35000,Uzbekistan,UZB
+1802,CONMEBOL,Cocodrilos Sports Park,Caracas,Caracas FC,3500,Venezuela,VEN
+1803,CONMEBOL,Estadio Agustín Tovar,Barinas,Zamora,30000,Venezuela,VEN
+1804,CONMEBOL,Estadio José “Pachencho” Romero,Maracaibo,UA Maracaibo,42000,Venezuela,VEN
+1805,CONMEBOL,Estadio Metropolitano,Mérida,Estudiantes de Mérida,42200,Venezuela,VEN
+1806,CONMEBOL,Estadio Metropolitano de Fútbol de Lara,Barquisimeto,"CD Lara, Unión Lara",40312,Venezuela,VEN
+1807,CONMEBOL,Estadio Monumental de Maturín,Maturín,Monagas,52000,Venezuela,VEN
+1808,CONMEBOL,Estadio Olimpico,Caracas,"Caracas FC,  Deportivo Italia",30000,Venezuela,VEN
+1809,CONMEBOL,Estadio Olímpico Luis Ramos,Puerto La Cruz,Deportivo Anzoátegui,37485,Venezuela,VEN
+1810,CONMEBOL,Estadio Polideportivo Cachamay,Puerto Ordaz,Mineros,41600,Venezuela,VEN
+1811,CONMEBOL,Estadio Polideportivo de Pueblo Nuevo,San Cristóbal,Deportivo Táchira,42500,Venezuela,VEN
+1812,AFC,Go Dau Stadium,Thu Dau Mot,Binh Duong,18250,Vietnam,VIE
+1813,AFC,Hang Day Stadium,Hanoi,"Th? Công, T&T, Hòa Phát, ACB",22500,Vietnam,VIE
+1814,AFC,Thong Nhat Stadium,Ho Chi Minh City,"Sài Gòn FC, Thành ph?, Navibank Sài Gòn",25000,Vietnam,VIE
+1815,UEFA,Bangor University Stadium,Bangor,Bangor City,3000,Wales,WAL
+1816,UEFA,Cardiff City Stadium,Cardiff,Cardiff City,32898,Wales,WAL
+1817,UEFA,Liberty Stadium,Swansea,Swansea City,21088,Wales,WAL
+1818,UEFA,Parc y Scarlets,Llanelli,"Scarlets, Llanelli RFC",14870,Wales,WAL
+1819,UEFA,Park Avenue,Aberystwyth,Aberystwyth Town,5000,Wales,WAL
+1820,UEFA,Racecourse Ground,Wrexham,Wrexham AFC,15850,Wales,WAL
