@@ -1,0 +1,10 @@
+Age,Gender,Height(cm),Weight(kg),Sugar Level,BP Level,Health Diseases,Exercise,Diet
+35,Male,175,70,90,120/80,None,"Astavakrasana, Baddha Konasana, Bakasana","Vegetarian, Low Carbohydrate, 1800 kcal"
+45,Female,160,55,95,130/85,Diabetes,"Bakasana, Baddha Konasana","Non-Vegetarian, Low Carbohydrate, 1800 kcal"
+28,Male,180,80,85,118/78,None,"Astavakrasana, Bakasana","Vegetarian, Low Carbohydrate, 1800 kcal"
+52,Female,165,65,105,140/90,Hypertension,"Astavakrasana, Baddha Konasana","Vegetarian, Low Carbohydrate, 1800 kcal"
+40,Male,170,75,92,122/82,None,"Baddha Konasana, Bakasana","Non-Vegetarian, Low Carbohydrate, 1800 kcal"
+60,Male,165,72,100,135/85,Diabetes,"Astavakrasana, Bakasana","Vegetarian, Low Carbohydrate, 1800 kcal"
+7,Male,120,25,-,-,None,"Skipping, Playing","Vegetarian, Balanced"
+8,Female,115,22,-,-,None,"Running, Swimming","Vegetarian, Balanced"
+10,Male,130,30,-,-,None,"Cycling, Climbing trees","Non-Vegetarian, Balanced"
