@@ -1,0 +1,589 @@
+﻿Population,mating pair,Number of warm periods to develop,Winter chill to develop (weeks),Warm period to develop (weeks),censor,comment,maternal diet,paternal diet
+UT,46,2,6,24,0,,hi C,hi C
+UT,46,2,6,24,0,,hi C,hi C
+UT,46,2,6,24,0,,hi C,hi C
+UT,46,11,60,132,0,,hi C,hi C
+UT,46,12,66,144,0,middie scr 10,hi C,hi C
+UT,46,14,78,168,0,middie scr 12,hi C,hi C
+UT,46,15,84,180,0,,hi C,hi C
+UT,46,15,84,180,0,,hi C,hi C
+UT,46,15,84,180,0,,hi C,hi C
+UT,46,15,84,180,0,,hi C,hi C
+UT,46,15,84,180,0,,hi C,hi C
+UT,46,21,120,252,0,middie scr 19,hi C,hi C
+UT,46,21,120,252,0,,hi C,hi C
+UT,46,25,144,300,1,discard,hi C,hi C
+UT,46,24,138,288,1,discard,hi C,hi C
+UT,46,14,78,168,1,discard,hi C,hi C
+UT,46,7,36,84,1,middie scr 5,hi C,hi C
+UT,46,3,12,36,1,discard,hi C,hi C
+UT,46,3,12,36,1,discard,hi C,hi C
+UT,46,3,12,36,1,discard,hi C,hi C
+UT,46,3,12,36,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,46,2,6,24,1,discard,hi C,hi C
+UT,47,2,6,24,0,,hi P,hi P
+UT,47,2,6,24,0,,hi P,hi P
+UT,47,2,6,24,0,,hi P,hi P
+UT,47,5,24,60,0,,hi P,hi P
+UT,47,5,24,60,0,,hi P,hi P
+UT,47,6,30,72,0,,hi P,hi P
+UT,47,7,36,84,0,,hi P,hi P
+UT,47,7,36,84,0,,hi P,hi P
+UT,47,8,42,96,0,middie scr 6,hi P,hi P
+UT,47,9,48,108,0,,hi P,hi P
+UT,47,10,54,120,0,middie scr 8,hi P,hi P
+UT,47,10,54,120,0,,hi P,hi P
+UT,47,11,60,132,0,,hi P,hi P
+UT,47,11,60,132,0,,hi P,hi P
+UT,47,12,66,144,0,middie scr 10,hi P,hi P
+UT,47,12,66,144,0,middie scr 10,hi P,hi P
+UT,47,12,66,144,0,,hi P,hi P
+UT,47,12,66,144,0,,hi P,hi P
+UT,47,12,66,144,0,,hi P,hi P
+UT,47,12,66,144,0,,hi P,hi P
+UT,47,12,66,144,0,,hi P,hi P
+UT,47,12,66,144,0,,hi P,hi P
+UT,47,12,66,144,0,,hi P,hi P
+UT,47,13,72,156,0,,hi P,hi P
+UT,47,13,72,156,0,,hi P,hi P
+UT,47,13,72,156,0,,hi P,hi P
+UT,47,13,72,156,0,,hi P,hi P
+UT,47,13,72,156,0,,hi P,hi P
+UT,47,13,72,156,0,,hi P,hi P
+UT,47,13,72,156,0,,hi P,hi P
+UT,47,14,78,168,0,,hi P,hi P
+UT,47,14,78,168,0,,hi P,hi P
+UT,47,15,84,180,0,middie scr 13,hi P,hi P
+UT,47,15,84,180,0,,hi P,hi P
+UT,47,15,84,180,0,,hi P,hi P
+UT,47,15,84,180,0,,hi P,hi P
+UT,47,15,84,180,0,,hi P,hi P
+UT,47,15,84,180,0,,hi P,hi P
+UT,47,16,90,192,0,middie scr 14,hi P,hi P
+UT,47,16,90,192,0,,hi P,hi P
+UT,47,16,90,192,0,,hi P,hi P
+UT,47,16,90,192,0,,hi P,hi P
+UT,47,16,90,192,0,,hi P,hi P
+UT,47,16,90,192,0,,hi P,hi P
+UT,47,16,90,192,0,,hi P,hi P
+UT,47,16,90,192,0,,hi P,hi P
+UT,47,17,96,204,0,"middie scr 15, dev scr 16",hi P,hi P
+UT,47,17,96,204,0,"middie scr 15, dev scr 16",hi P,hi P
+UT,47,17,96,204,0,"middie scr 15, dev scr 16",hi P,hi P
+UT,47,17,96,204,0,,hi P,hi P
+UT,47,17,96,204,0,,hi P,hi P
+UT,47,17,96,204,0,,hi P,hi P
+UT,47,17,96,204,0,,hi P,hi P
+UT,47,18,102,216,0,,hi P,hi P
+UT,47,20,114,240,0,,hi P,hi P
+UT,47,20,114,240,0,,hi P,hi P
+UT,47,21,120,252,0,,hi P,hi P
+UT,47,21,120,252,0,,hi P,hi P
+UT,47,23,132,276,0,,hi P,hi P
+UT,47,23,132,276,0,,hi P,hi P
+UT,47,28,162,336,0,,hi P,hi P
+UT,47,22,126,264,1,discard,hi P,hi P
+UT,47,20,114,240,1,discard,hi P,hi P
+UT,47,16,90,192,1,discard,hi P,hi P
+UT,47,15,84,180,1,discard,hi P,hi P
+UT,47,15,84,180,1,discard,hi P,hi P
+UT,47,14,78,168,1,discard,hi P,hi P
+UT,47,14,78,168,1,discard,hi P,hi P
+UT,47,13,72,156,1,discard,hi P,hi P
+UT,47,11,60,132,1,discard,hi P,hi P
+UT,47,7,36,84,1,discard,hi P,hi P
+UT,47,7,36,84,1,discard,hi P,hi P
+UT,47,7,36,84,1,discard,hi P,hi P
+UT,47,7,36,84,1,discard,hi P,hi P
+UT,47,7,36,84,1,discard,hi P,hi P
+UT,47,6,30,72,1,discard,hi P,hi P
+UT,47,6,30,72,1,discard,hi P,hi P
+UT,47,6,30,72,1,discard,hi P,hi P
+UT,47,5,24,60,1,discard,hi P,hi P
+UT,47,5,24,60,1,discard,hi P,hi P
+UT,47,5,24,60,1,discard,hi P,hi P
+UT,47,5,24,60,1,discard,hi P,hi P
+UT,47,5,24,60,1,discard,hi P,hi P
+UT,47,5,24,60,1,discard,hi P,hi P
+UT,47,5,24,60,1,discard,hi P,hi P
+UT,47,2,6,24,1,discard,hi P,hi P
+UT,47,2,6,24,1,discard,hi P,hi P
+UT,47,2,6,24,1,discard,hi P,hi P
+UT,47,2,6,24,1,discard,hi P,hi P
+UT,47,2,6,24,1,discard,hi P,hi P
+UT,48,3,12,36,0,,PC,PC
+UT,48,6,30,72,0,middie scr 4,PC,PC
+UT,48,8,42,96,1,middie scr 5,PC,PC
+UT,48,7,36,84,0,,PC,PC
+UT,48,8,42,96,1,"middie scr 6, dead scr 7",PC,PC
+UT,48,8,42,96,1,"middie scr 6, dead scr 7",PC,PC
+UT,48,11,60,132,1,"middie scr 8, middie scr 9, dead scr 10",PC,PC
+UT,48,10,54,120,0,,PC,PC
+UT,48,11,60,132,0,,PC,PC
+UT,48,12,66,144,0,,PC,PC
+UT,48,12,66,144,0,,PC,PC
+UT,48,13,72,156,0,,PC,PC
+UT,48,13,72,156,0,,PC,PC
+UT,48,13,72,156,0,,PC,PC
+UT,48,13,72,156,0,,PC,PC
+UT,48,13,72,156,0,,PC,PC
+UT,48,13,72,156,0,,PC,PC
+UT,48,14,78,168,1,"middie scr 12, dead scr 13",PC,PC
+UT,48,14,78,168,1,"middie scr 12, dead scr 13",PC,PC
+UT,48,14,78,168,0,,PC,PC
+UT,48,14,78,168,0,,PC,PC
+UT,48,14,78,168,0,,PC,PC
+UT,48,14,78,168,0,,PC,PC
+UT,48,14,78,168,0,,PC,PC
+UT,48,15,84,180,0,middie scr 13,PC,PC
+UT,48,15,84,180,0,middie scr 13,PC,PC
+UT,48,15,84,180,0,,PC,PC
+UT,48,15,84,180,0,,PC,PC
+UT,48,15,84,180,0,,PC,PC
+UT,48,15,84,180,0,,PC,PC
+UT,48,15,84,180,0,,PC,PC
+UT,48,15,84,180,0,,PC,PC
+UT,48,15,84,180,0,,PC,PC
+UT,48,15,84,180,0,,PC,PC
+UT,48,16,90,192,0,"middie scr 14, dev scr 15",PC,PC
+UT,48,16,90,192,0,"middie scr 14, dev scr 15",PC,PC
+UT,48,17,96,204,0,,PC,PC
+UT,48,17,96,204,0,,PC,PC
+UT,48,17,96,204,0,,PC,PC
+UT,48,18,102,216,0,,PC,PC
+UT,48,18,102,216,0,,PC,PC
+UT,48,18,102,216,0,,PC,PC
+UT,48,18,102,216,0,,PC,PC
+UT,48,20,114,240,0,"middie scr 18, dev scr 19",PC,PC
+UT,48,21,120,252,1,"middie scr 18, middie scr 19,  flat scr 20",PC,PC
+UT,48,20,114,240,1,"middie scr 18, flat and fungus discard scr 19",PC,PC
+UT,48,22,126,264,0,"middie scr 20, dev scr 21",PC,PC
+UT,48,23,132,276,0,,PC,PC
+UT,48,23,132,276,0,,PC,PC
+UT,48,26,150,312,1,discard,PC,PC
+UT,48,28,162,336,1,"middie scr 23, lost eyespots scr 27",PC,PC
+UT,48,23,132,276,1,discard,PC,PC
+UT,48,22,126,264,1,discard,PC,PC
+UT,48,17,96,204,1,broken,PC,PC
+UT,48,16,90,192,1,mia,PC,PC
+UT,48,15,84,180,1,discard,PC,PC
+UT,48,15,84,180,1,discard,PC,PC
+UT,48,14,78,168,1,discard,PC,PC
+UT,48,13,72,156,1,discard,PC,PC
+UT,48,11,60,132,1,mia,PC,PC
+UT,48,11,60,132,1,mia,PC,PC
+UT,48,11,60,132,1,discard,PC,PC
+UT,48,11,60,132,1,discard,PC,PC
+UT,48,7,36,84,1,discard,PC,PC
+UT,48,7,36,84,1,discard,PC,PC
+UT,48,7,36,84,1,discard,PC,PC
+UT,48,6,30,72,1,discard,PC,PC
+UT,48,6,30,72,1,discard,PC,PC
+UT,48,5,24,60,1,discard,PC,PC
+UT,48,5,24,60,1,discard,PC,PC
+UT,48,3,12,36,1,discard,PC,PC
+UT,48,3,12,36,1,discard,PC,PC
+UT,48,3,12,36,1,discard,PC,PC
+UT,48,3,12,36,1,discard,PC,PC
+UT,50,9,48,108,0,,hi C,hi C
+UT,50,11,60,132,0,,hi C,hi C
+UT,50,13,72,156,0,"middie scr 10, middie scr 11",hi C,hi C
+UT,50,13,72,156,0,"middie scr 10, middie scr 11",hi C,hi C
+UT,50,14,78,168,1,"middie scr 10, middie scr 11, middie scr 12, dead scr 13",hi C,hi C
+UT,50,12,66,144,0,,hi C,hi C
+UT,50,13,72,156,0,,hi C,hi C
+UT,50,15,84,180,0,,hi C,hi C
+UT,50,15,84,180,0,,hi C,hi C
+UT,50,16,90,192,0,,hi C,hi C
+UT,50,20,114,240,0,,hi C,hi C
+UT,50,21,120,252,0,,hi C,hi C
+UT,50,21,120,252,0,,hi C,hi C
+UT,50,21,120,252,0,,hi C,hi C
+UT,50,24,138,288,1,discard,hi C,hi C
+UT,50,15,84,180,1,discard,hi C,hi C
+UT,50,15,84,180,1,discard,hi C,hi C
+UT,50,9,48,108,1,discard,hi C,hi C
+UT,50,9,48,108,1,discard,hi C,hi C
+UT,50,8,42,96,1,discard,hi C,hi C
+UT,50,8,42,96,1,discard,hi C,hi C
+UT,50,7,36,84,1,discard,hi C,hi C
+UT,50,7,36,84,1,discard,hi C,hi C
+UT,50,5,24,60,1,discard,hi C,hi C
+UT,50,5,24,60,1,discard,hi C,hi C
+UT,50,5,24,60,1,discard,hi C,hi C
+UT,50,5,24,60,1,discard,hi C,hi C
+UT,50,5,24,60,1,discard,hi C,hi C
+UT,50,5,24,60,1,discard,hi C,hi C
+UT,50,5,24,60,1,discard,hi C,hi C
+UT,50,5,24,60,1,discard,hi C,hi C
+UT,50,5,24,60,1,discard,hi C,hi C
+UT,50,5,24,60,1,discard,hi C,hi C
+UT,50,5,24,60,1,discard,hi C,hi C
+UT,50,3,12,36,1,discard,hi C,hi C
+UT,50,3,12,36,1,discard,hi C,hi C
+UT,50,3,12,36,1,discard,hi C,hi C
+UT,50,3,12,36,1,discard,hi C,hi C
+UT,50,3,12,36,1,discard,hi C,hi C
+UT,50,3,12,36,1,discard,hi C,hi C
+UT,50,3,12,36,1,discard,hi C,hi C
+UT,50,2,6,24,1,discard,hi C,hi C
+UT,50,2,6,24,1,discard,hi C,hi C
+UT,50,2,6,24,1,discard,hi C,hi C
+UT,50,2,6,24,1,discard,hi C,hi C
+UT,50,2,6,24,1,discard,hi C,hi C
+UT,50,2,6,24,1,discard,hi C,hi C
+UT,50,2,6,24,1,discard,hi C,hi C
+UT,50,2,6,24,1,discard,hi C,hi C
+UT,50,2,6,24,1,discard,hi C,hi C
+UT,51,2,6,24,0,,hi P,hi P
+UT,51,2,6,24,0,,hi P,hi P
+UT,51,3,12,36,0,,hi P,hi P
+UT,51,5,24,60,0,,hi P,hi P
+UT,51,5,24,60,0,,hi P,hi P
+UT,51,6,30,72,0,middie scr 4,hi P,hi P
+UT,51,7,36,84,0,middie scr 5,hi P,hi P
+UT,51,7,36,84,0,,hi P,hi P
+UT,51,8,42,96,1,"middie scr 6, dead scr 7",hi P,hi P
+UT,51,8,42,96,0,,hi P,hi P
+UT,51,9,48,108,0,middie scr 7,hi P,hi P
+UT,51,9,48,108,0,,hi P,hi P
+UT,51,9,48,108,0,,hi P,hi P
+UT,51,9,48,108,0,,hi P,hi P
+UT,51,9,48,108,0,,hi P,hi P
+UT,51,10,54,120,0,,hi P,hi P
+UT,51,10,54,120,0,,hi P,hi P
+UT,51,11,60,132,0,middie scr 9,hi P,hi P
+UT,51,11,60,132,0,,hi P,hi P
+UT,51,12,66,144,0,middie scr 10,hi P,hi P
+UT,51,12,66,144,0,middie scr 10,hi P,hi P
+UT,51,12,66,144,0,,hi P,hi P
+UT,51,12,66,144,0,,hi P,hi P
+UT,51,12,66,144,0,,hi P,hi P
+UT,51,12,66,144,0,,hi P,hi P
+UT,51,12,66,144,0,,hi P,hi P
+UT,51,12,66,144,0,,hi P,hi P
+UT,51,13,72,156,0,middie scr 11,hi P,hi P
+UT,51,13,72,156,0,middie scr 11,hi P,hi P
+UT,51,15,84,180,1,"middie scr 11, middie scr 12, middie scr 13, dead middie scr 14",hi P,hi P
+UT,51,13,72,156,0,,hi P,hi P
+UT,51,13,72,156,0,,hi P,hi P
+UT,51,13,72,156,0,,hi P,hi P
+UT,51,14,78,168,0,middie scr 12,hi P,hi P
+UT,51,14,78,168,0,middie scr 12,hi P,hi P
+UT,51,14,78,168,0,middie scr 12,hi P,hi P
+UT,51,14,78,168,0,middie scr 12,hi P,hi P
+UT,51,15,84,180,1,"middie scr 12, middie scr 13, dead middie scr 14",hi P,hi P
+UT,51,14,78,168,0,,hi P,hi P
+UT,51,16,90,192,0,"middie scr 13, middie scr 14, dev scr 15",hi P,hi P
+UT,51,15,84,180,1,"middie scr 13, dead middie scr 14",hi P,hi P
+UT,51,15,84,180,0,,hi P,hi P
+UT,51,16,90,192,0,"middie scr 14, dev scr 15",hi P,hi P
+UT,51,16,90,192,0,"middie scr 14, dev scr 15",hi P,hi P
+UT,51,16,90,192,0,,hi P,hi P
+UT,51,16,90,192,0,,hi P,hi P
+UT,51,17,96,204,0,,hi P,hi P
+UT,51,17,96,204,0,,hi P,hi P
+UT,51,17,96,204,1,mia,hi P,hi P
+UT,51,17,96,204,1,mia,hi P,hi P
+UT,51,17,96,204,1,mia,hi P,hi P
+UT,51,15,84,180,1,discard,hi P,hi P
+UT,51,14,78,168,1,discard,hi P,hi P
+UT,51,14,78,168,1,discard,hi P,hi P
+UT,51,13,72,156,1,discard,hi P,hi P
+UT,51,13,72,156,1,discard,hi P,hi P
+UT,51,12,66,144,1,discard,hi P,hi P
+UT,51,12,66,144,1,discard,hi P,hi P
+UT,51,11,60,132,1,discard,hi P,hi P
+UT,51,11,60,132,1,discard,hi P,hi P
+UT,51,10,54,120,1,discard,hi P,hi P
+UT,51,10,54,120,1,discard,hi P,hi P
+UT,51,10,54,120,1,discard,hi P,hi P
+UT,51,10,54,120,1,discard,hi P,hi P
+UT,51,10,54,120,1,discard,hi P,hi P
+UT,51,10,54,120,1,discard,hi P,hi P
+UT,51,10,54,120,1,discard,hi P,hi P
+UT,51,10,54,120,1,discard,hi P,hi P
+UT,51,10,54,120,1,discard,hi P,hi P
+UT,51,10,54,120,1,discard,hi P,hi P
+UT,51,10,54,120,1,discard,hi P,hi P
+UT,51,10,54,120,1,discard,hi P,hi P
+UT,51,10,54,120,1,discard,hi P,hi P
+UT,51,10,54,120,1,discard,hi P,hi P
+UT,51,8,42,96,1,discard,hi P,hi P
+UT,51,8,42,96,1,discard,hi P,hi P
+UT,51,8,42,96,1,discard,hi P,hi P
+UT,51,8,42,96,1,discard,hi P,hi P
+UT,51,6,30,72,1,discard,hi P,hi P
+UT,51,6,30,72,1,discard,hi P,hi P
+UT,51,5,24,60,1,discard,hi P,hi P
+UT,51,5,24,60,1,discard,hi P,hi P
+UT,51,5,24,60,1,discard,hi P,hi P
+UT,51,5,24,60,1,discard,hi P,hi P
+UT,51,5,24,60,1,discard,hi P,hi P
+UT,51,5,24,60,1,discard,hi P,hi P
+UT,51,5,24,60,1,discard,hi P,hi P
+UT,51,5,24,60,1,discard,hi P,hi P
+UT,51,5,24,60,1,discard,hi P,hi P
+UT,52,6,30,72,0,,hi C,hi C
+UT,52,8,42,96,0,,hi C,hi C
+UT,52,12,66,144,0,,hi C,hi C
+UT,52,12,66,144,0,,hi C,hi C
+UT,52,12,66,144,0,,hi C,hi C
+UT,52,12,66,144,0,,hi C,hi C
+UT,52,12,66,144,0,,hi C,hi C
+UT,52,12,66,144,0,,hi C,hi C
+UT,52,12,66,144,0,,hi C,hi C
+UT,52,12,66,144,0,,hi C,hi C
+UT,52,13,72,156,0,,hi C,hi C
+UT,52,13,72,156,0,,hi C,hi C
+UT,52,13,72,156,0,,hi C,hi C
+UT,52,14,78,168,0,middie scr 12,hi C,hi C
+UT,52,16,90,192,0,"middie scr 12, middie scr 13, middie scr 14, dev scr 15",hi C,hi C
+UT,52,14,78,168,0,,hi C,hi C
+UT,52,14,78,168,0,,hi C,hi C
+UT,52,14,78,168,0,,hi C,hi C
+UT,52,14,78,168,0,,hi C,hi C
+UT,52,14,78,168,0,,hi C,hi C
+UT,52,14,78,168,0,,hi C,hi C
+UT,52,14,78,168,0,,hi C,hi C
+UT,52,14,78,168,0,,hi C,hi C
+UT,52,14,78,168,0,,hi C,hi C
+UT,52,14,78,168,0,,hi C,hi C
+UT,52,14,78,168,0,,hi C,hi C
+UT,52,15,84,180,0,middie scr 13,hi C,hi C
+UT,52,15,84,180,0,middie scr 13,hi C,hi C
+UT,52,15,84,180,0,middie scr 13,hi C,hi C
+UT,52,15,84,180,0,middie scr 13,hi C,hi C
+UT,52,15,84,180,0,middie scr 13,hi C,hi C
+UT,52,15,84,180,0,middie scr 13,hi C,hi C
+UT,52,15,84,180,0,middie scr 13,hi C,hi C
+UT,52,15,84,180,0,,hi C,hi C
+UT,52,15,84,180,0,,hi C,hi C
+UT,52,15,84,180,0,,hi C,hi C
+UT,52,15,84,180,0,,hi C,hi C
+UT,52,15,84,180,0,,hi C,hi C
+UT,52,15,84,180,0,,hi C,hi C
+UT,52,15,84,180,0,,hi C,hi C
+UT,52,15,84,180,0,,hi C,hi C
+UT,52,15,84,180,0,,hi C,hi C
+UT,52,15,84,180,0,,hi C,hi C
+UT,52,15,84,180,0,,hi C,hi C
+UT,52,15,84,180,0,,hi C,hi C
+UT,52,15,84,180,0,,hi C,hi C
+UT,52,15,84,180,0,,hi C,hi C
+UT,52,15,84,180,0,,hi C,hi C
+UT,52,15,84,180,0,,hi C,hi C
+UT,52,15,84,180,0,,hi C,hi C
+UT,52,16,90,192,0,"middie scr 14, dev scr 15",hi C,hi C
+UT,52,16,90,192,0,"middie scr 14, dev scr 15",hi C,hi C
+UT,52,16,90,192,0,,hi C,hi C
+UT,52,16,90,192,0,,hi C,hi C
+UT,52,17,96,204,0,,hi C,hi C
+UT,52,18,102,216,0,"developed and flat scr 18, infer developed scr 17 and died",hi C,hi C
+UT,52,18,102,216,0,"developed and flat scr 18, infer developed scr 17 and died",hi C,hi C
+UT,52,18,102,216,0,"developed and flat scr 18, infer developed scr 17 and died",hi C,hi C
+UT,52,18,102,216,0,"developed and flat scr 18, infer developed scr 17 and died",hi C,hi C
+UT,52,20,114,240,0,middie scr 18,hi C,hi C
+UT,52,20,114,240,0,middie scr 18,hi C,hi C
+UT,52,20,114,240,0,middie scr 18,hi C,hi C
+UT,52,20,114,240,0,middie scr 18,hi C,hi C
+UT,52,21,120,252,0,,hi C,hi C
+UT,52,21,120,252,0,,hi C,hi C
+UT,52,21,120,252,0,,hi C,hi C
+UT,52,21,120,252,0,,hi C,hi C
+UT,52,21,120,252,0,,hi C,hi C
+UT,52,22,126,264,0,middie scr 20,hi C,hi C
+UT,52,22,126,264,0,middie scr 20,hi C,hi C
+UT,52,22,126,264,0,middie scr 20,hi C,hi C
+UT,52,22,126,264,0,middie scr 20,hi C,hi C
+UT,52,22,126,264,0,,hi C,hi C
+UT,52,22,126,264,0,,hi C,hi C
+UT,52,22,126,264,0,,hi C,hi C
+UT,52,22,126,264,0,,hi C,hi C
+UT,52,22,126,264,0,,hi C,hi C
+UT,52,22,126,264,0,,hi C,hi C
+UT,52,22,126,264,0,,hi C,hi C
+UT,52,22,126,264,0,,hi C,hi C
+UT,52,22,126,264,0,,hi C,hi C
+UT,52,22,126,264,0,,hi C,hi C
+UT,52,22,126,264,0,,hi C,hi C
+UT,52,22,126,264,0,,hi C,hi C
+UT,52,22,126,264,0,,hi C,hi C
+UT,52,25,144,300,0,,hi C,hi C
+UT,52,14,78,168,1,discard,hi C,hi C
+UT,52,13,72,156,1,discard,hi C,hi C
+UT,52,12,66,144,1,discard,hi C,hi C
+UT,52,11,60,132,1,discard,hi C,hi C
+UT,52,11,60,132,1,discard,hi C,hi C
+UT,52,11,60,132,1,discard,hi C,hi C
+UT,52,9,48,108,1,discard,hi C,hi C
+UT,52,9,48,108,1,discard,hi C,hi C
+UT,52,8,42,96,1,discard,hi C,hi C
+UT,52,2,6,24,1,mia,hi C,hi C
+UT,52,5,24,60,1,discard,hi C,hi C
+UT,53,10,54,120,0,,hi P,hi P
+UT,53,15,84,180,0,,hi P,hi P
+UT,53,15,84,180,1,discard,hi P,hi P
+UT,53,15,84,180,1,discard,hi P,hi P
+UT,53,9,48,108,1,discard,hi P,hi P
+UT,53,7,36,84,1,discard,hi P,hi P
+UT,53,7,36,84,1,discard,hi P,hi P
+UT,53,7,36,84,1,discard,hi P,hi P
+UT,53,7,36,84,1,discard,hi P,hi P
+UT,53,7,36,84,1,discard,hi P,hi P
+UT,53,7,36,84,1,discard,hi P,hi P
+UT,53,7,36,84,1,discard,hi P,hi P
+UT,53,5,24,60,1,discard,hi P,hi P
+UT,53,5,24,60,1,discard,hi P,hi P
+UT,53,5,24,60,1,discard,hi P,hi P
+UT,53,5,24,60,1,discard,hi P,hi P
+UT,53,5,24,60,1,discard,hi P,hi P
+UT,53,5,24,60,1,discard,hi P,hi P
+UT,53,5,24,60,1,discard,hi P,hi P
+UT,53,5,24,60,1,discard,hi P,hi P
+UT,53,5,24,60,1,discard,hi P,hi P
+UT,53,3,12,36,1,discard,hi P,hi P
+UT,53,3,12,36,1,discard,hi P,hi P
+UT,53,3,12,36,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,53,2,6,24,1,discard,hi P,hi P
+UT,54,9,48,108,1,discard,PC,PC
+UT,54,9,48,108,1,discard,PC,PC
+UT,54,9,48,108,1,discard,PC,PC
+UT,54,9,48,108,1,discard,PC,PC
+UT,54,7,36,84,1,discard,PC,PC
+UT,54,7,36,84,1,discard,PC,PC
+UT,54,5,24,60,1,discard,PC,PC
+UT,54,5,24,60,1,discard,PC,PC
+UT,54,5,24,60,1,discard,PC,PC
+UT,54,5,24,60,1,discard,PC,PC
+UT,54,5,24,60,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
+UT,54,2,6,24,1,discard,PC,PC
