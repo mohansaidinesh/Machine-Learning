@@ -1,0 +1,1001 @@
+Ranking,Company,Market Cap,Stock,Country,Sector,Industry
+1,Apple Inc.,$2.866 T,AAPL,United States,Technology,Consumer Electronics
+2,Microsoft Corporation,$2.755 T,MSFT,United States,Technology,Software—Infrastructure
+3,Nvidia Corporation,$1.186 T,NVDA,United States,Technology,Semiconductors
+4,Broadcom Inc.,$495.95 B,AVGO,United States,Technology,Semiconductors
+5,Taiwan Semiconductor Manufacturing Company Limited,$487.64 B,2330,Taiwan,Technology,Semiconductors
+6,"Samsung Electronics Co., Ltd.",$392.38 B,005930,South Korea,Technology,Consumer Electronics
+7,ASML Holding N.V.,$297.10 B,ASML,Netherlands,Technology,Semiconductor Equipment & Materials
+8,Oracle Corporation,$282.01 B,ORCL,United States,Technology,Software—Infrastructure
+9,Adobe Inc.,$260.23 B,ADBE,United States,Technology,Software—Infrastructure
+10,"salesforce.com, inc.",$243.78 B,CRM,United States,Technology,Software—Application
+11,"Advanced Micro Devices, Inc.",$219.72 B,AMD,United States,Technology,Semiconductors
+12,Accenture plc,$211.87 B,ACN,Ireland,Technology,Information Technology Services
+13,"Cisco Systems, Inc.",$205.21 B,CSCO,United States,Technology,Communication Equipment
+14,Intel Corporation,$198.49 B,INTC,United States,Technology,Semiconductors
+15,SAP SE,$175.44 B,SAP,Germany,Technology,Software—Application
+16,Intuit Inc.,$165.41 B,INTU,United States,Technology,Software—Application
+17,Qualcomm Incorporated,$153.17 B,QCOM,United States,Technology,Semiconductors
+18,Texas Instruments Incorporated,$151.39 B,TXN,United States,Technology,Semiconductors
+19,International Business Machines Corporation,$146.88 B,IBM,United States,Technology,Information Technology Services
+20,"ServiceNow, Inc.",$138.47 B,NOW,United States,Technology,Software—Application
+21,"Applied Materials, Inc.",$125.87 B,AMAT,United States,Technology,Semiconductor Equipment & Materials
+22,"Uber Technologies, Inc.",$119.87 B,UBER,United States,Technology,Software—Application
+23,Sony Group Corporation,$117.80 B,6758,Japan,Technology,Consumer Electronics
+24,SinoCloud Group Ltd,$117.42 B,5EK,Hong Kong,Technology,Information Technology Services
+25,Keyence Corp,$106.65 B,6861,Japan,Technology,Scientific & Technical Instruments
+26,Lam Research Corporation,$97.14 B,LRCX,United States,Technology,Semiconductor Equipment & Materials
+27,"Analog Devices, Inc.",$93.79 B,ADI,United States,Technology,Semiconductors
+28,Shopify Inc.,$92.77 B,SHOP,Canada,Technology,Software—Application
+29,"Micron Technology, Inc.",$91.30 B,MU,United States,Technology,Semiconductors
+30,"Palo Alto Networks, Inc.",$90.41 B,PANW,United States,Technology,Software—Infrastructure
+31,Tokyo Electron Ltd,$83.64 B,8035,Japan,Technology,Semiconductor Equipment & Materials
+32,"Fiserv, Inc.",$79.73 B,FI,United States,Technology,Information Technology Services
+33,"SK hynix, Inc.",$75.21 B,000660,South Korea,Technology,Semiconductors
+34,KLA Corporation,$75.13 B,KLAC,United States,Technology,Semiconductor Equipment & Materials
+35,Infosys Limited,$74.79 B,INFY,India,Technology,Information Technology Services
+36,"Synopsys, Inc.",$74.64 B,SNPS,United States,Technology,Software—Infrastructure
+37,"Arista Networks, Inc.",$71.73 B,ANET,United States,Technology,Computer Hardware
+38,"Workday, Inc.",$70.57 B,WDAY,United States,Technology,Software—Application
+39,"Cadence Design Systems, Inc.",$69.99 B,CDNS,United States,Technology,Software—Application
+40,Dassault Systèmes SE,$65.35 B,DSY,France,Technology,Software—Application
+41,"VMware, Inc.",$61.52 B,VMW,United States,Technology,Software—Infrastructure
+42,Snowflake Inc.,$60.54 B,SNOW,United States,Technology,Software—Application
+43,"CrowdStrike Holdings, Inc.",$58.68 B,CRWD,United States,Technology,Software—Infrastructure
+44,Amphenol Corporation,$56.89 B,APH,United States,Technology,Electronic Components
+45,Atlassian Corporation Plc,$56.79 B,TEAM,Australia,Technology,Software—Application
+46,NXP Semiconductors N.V.,$55.69 B,NXPI,Netherlands,Technology,Semiconductors
+47,Dell Technologies Inc.,$54.51 B,DELL,United States,Technology,Computer Hardware
+48,Constellation Software Inc.,$53.19 B,CSU,Canada,Technology,Software—Application
+49,"Motorola Solutions, Inc.",$51.78 B,MSI,United States,Technology,Communication Equipment
+50,Marvell Technology Group Ltd.,$50.20 B,MRVL,Bermuda,Technology,Semiconductors
+51,Infineon Technologies AG,$49.86 B,IFX,Germany,Technology,Semiconductors
+52,"Marvell Technology, Inc.",$49.61 B,9MW,United States,Technology,Semiconductors
+53,"MediaTek, Inc.",$49.33 B,2454,Taiwan,Technology,Semiconductors
+54,"Autodesk, Inc.",$48.97 B,ADSK,United States,Technology,Software—Application
+55,Xiaomi Corp,$47.53 B,1810,China,Technology,Consumer Electronics
+56,Hon Hai Precision Industry Co. Ltd,$47.43 B,2317,Taiwan,Technology,Electronic Components
+57,Microchip Technology Incorporated,$45.77 B,MCHP,United States,Technology,Semiconductors
+58,"Fortinet, Inc.",$44.84 B,FTNT,United States,Technology,Software—Infrastructure
+59,TE Connectivity Ltd.,$42.62 B,TEL,Switzerland,Technology,Electronic Components
+60,"Block, Inc.",$42.15 B,SQ,United States,Technology,Software—Infrastructure
+61,STMicroelectronics N.V.,$40.87 B,STM,Switzerland,Technology,Semiconductors
+62,Murata Manufacturing Co. Ltd,$40.27 B,6981,Japan,Technology,Electronic Components
+63,Adyen N.V.,$39.97 B,ADYEN,Netherlands,Technology,Software—Infrastructure
+64,Foxconn Industrial Internet Co. Ltd,$38.82 B,601138,China,Technology,Communication Equipment
+65,"Coinbase Global, Inc.",$38.32 B,1QZ,United States,Technology,Software—Application
+66,Cognizant Technology Solutions Corporation,$36.93 B,CTSH,United States,Technology,Information Technology Services
+67,"Datadog, Inc.",$36.93 B,DDOG,United States,Technology,Software—Application
+68,"Fidelity National Information Services, Inc.",$35.89 B,FIS,United States,Technology,Information Technology Services
+69,Palantir Technologies Inc.,$35.01 B,PLTR,United States,Technology,Software—Infrastructure
+70,Capgemini SE,$34.74 B,CAP,France,Technology,Information Technology Services
+71,ON Semiconductor Corporation,$34.18 B,ON,United States,Technology,Semiconductors
+72,"The Trade Desk, Inc.",$34.00 B,TTD,United States,Technology,Software—Application
+73,"Gartner, Inc.",$33.61 B,IT,United States,Technology,Information Technology Services
+74,Hexagon AB,$32.17 B,HXG,Sweden,Technology,Scientific & Technical Instruments
+75,GlobalFoundries Inc.,$31.55 B,GFS,United States,Technology,Semiconductors
+76,"Zscaler, Inc.",$31.20 B,ZS,United States,Technology,Software—Infrastructure
+77,"Amadeus IT Group, SA",$31.18 B,AMS,Spain,Technology,Information Technology Services
+78,Renesas Electronics Corp,$30.53 B,6723,Japan,Technology,Semiconductors
+79,"ANSYS, Inc.",$29.90 B,ANSS,United States,Technology,Software—Application
+80,HP Inc.,$29.63 B,HPQ,United States,Technology,Computer Hardware
+81,Semiconductor Manufacturing International Corp,$29.20 B,688981,China,Technology,Semiconductors
+82,CDW Corporation,$29.10 B,CDW,United States,Technology,Information Technology Services
+83,Wipro Limited,$28.84 B,WIPRO,India,Technology,Information Technology Services
+84,Fair Isaac Corporation,$28.77 B,FICO,United States,Technology,Software—Application
+85,Fujitsu Ltd,$28.61 B,6702,Japan,Technology,Information Technology Services
+86,"Monolithic Power Systems, Inc.",$27.71 B,MPWR,United States,Technology,Semiconductors
+87,"Quanta Computer, Inc.",$27.51 B,2382,Taiwan,Technology,Computer Hardware
+88,"MongoDB, Inc.",$26.92 B,MDB,United States,Technology,Software—Infrastructure
+89,"HubSpot, Inc.",$26.84 B,HUBS,United States,Technology,Software—Application
+90,"Keysight Technologies, Inc.",$26.37 B,KEYS,United States,Technology,Scientific & Technical Instruments
+91,Canon Inc.,$25.94 B,7751,Japan,Technology,Computer Hardware
+92,Corning Incorporated,$25.83 B,GLW,United States,Technology,Electronic Components
+93,"Delta Electronics, Inc.",$25.82 B,2308,Taiwan,Technology,Electronic Components
+94,"Cloudflare, Inc.",$25.65 B,NET,United States,Technology,Software—Infrastructure
+95,Splunk Inc.,$25.65 B,SPLK,United States,Technology,Software—Infrastructure
+96,Advantest Corp,$25.52 B,6857,Japan,Technology,Semiconductor Equipment & Materials
+97,ASM International NV,$25.27 B,ASM,Netherlands,Technology,Semiconductor Equipment & Materials
+98,Fortive Corporation,$25.13 B,FTV,United States,Technology,Scientific & Technical Instruments
+99,CGI Inc.,$24.08 B,GIB.A,Canada,Technology,Information Technology Services
+100,Garmin Ltd.,$23.75 B,GRMN,Switzerland,Technology,Scientific & Technical Instruments
+101,Panasonic Corp,$23.71 B,6752,Japan,Technology,Consumer Electronics
+102,LONGi Green Energy Technology Co. Ltd,$23.58 B,601012,China,Technology,Semiconductor Equipment & Materials
+103,"Broadridge Financial Solutions, Inc.",$23.19 B,BR,United States,Technology,Information Technology Services
+104,Lasertec Corp,$23.10 B,6920,Japan,Technology,Scientific & Technical Instruments
+105,Hewlett Packard Enterprise Company,$22.15 B,HPE,United States,Technology,Communication Equipment
+106,Telefonaktiebolaget LM Ericsson,$20.89 B,ERIC.A,Sweden,Technology,Communication Equipment
+107,Kyocera Corp,$20.75 B,6971,Japan,Technology,Consumer Electronics
+108,United Microelectronics Corporation,$20.74 B,2303,Taiwan,Technology,Semiconductors
+109,Teledyne Technologies Incorporated,$20.73 B,TDY,United States,Technology,Scientific & Technical Instruments
+110,"VeriSign, Inc.",$20.54 B,VRSN,United States,Technology,Software—Infrastructure
+111,"FLEETCOR Technologies, Inc.",$20.28 B,FLT,United States,Technology,Information Technology Services
+112,PTC Inc.,$20.00 B,PTC,United States,Technology,Software—Application
+113,NTT Data Corp,$19.89 B,9613,Japan,Technology,Information Technology Services
+114,Nokia Corporation,$19.42 B,NOKIA.SEK,Finland,Technology,Communication Equipment
+115,Kaspi Bank Joint Stock Company,$18.64 B,KSPI,Kazakhstan,Technology,Software—Infrastructure
+116,TDK Corp,$18.05 B,6762,Japan,Technology,Electronic Components
+117,"First Solar, Inc.",$17.88 B,FSLR,United States,Technology,Solar
+118,Check Point Software Technologies Ltd.,$17.88 B,CHKP,Israel,Technology,Software—Infrastructure
+119,"NetApp, Inc.",$17.78 B,NTAP,United States,Technology,Computer Hardware
+120,"ASE Technology Holding Co., Ltd.",$17.76 B,3711,Taiwan,Technology,Semiconductors
+121,"Akamai Technologies, Inc.",$17.54 B,AKAM,United States,Technology,Software—Infrastructure
+122,"Beijing Kingsoft Office Software, Inc.",$17.47 B,688111,China,Technology,Software—Application
+123,Nomura Research Institute Ltd,$17.21 B,4307,Japan,Technology,Information Technology Services
+124,"Tyler Technologies, Inc.",$17.14 B,TYL,United States,Technology,Software—Application
+125,"Nuance Communications, Inc.",$17.11 B,NUAN,United States,Technology,Software—Application
+126,Will Semiconductor Co. Ltd,$16.91 B,603501,China,Technology,Semiconductors
+127,Seagate Technology plc,$16.90 B,STX,Ireland,Technology,Computer Hardware
+128,"Skyworks Solutions, Inc.",$16.83 B,SWKS,United States,Technology,Semiconductors
+129,WiseTech Global Limited,$16.80 B,WTC,Australia,Technology,Software—Application
+130,"EPAM Systems, Inc.",$16.75 B,EPAM,United States,Technology,Information Technology Services
+131,"Enphase Energy, Inc.",$16.75 B,ENPH,United States,Technology,Solar
+132,"Entegris, Inc.",$16.55 B,ENTG,United States,Technology,Semiconductor Equipment & Materials
+133,Jabil Inc.,$16.38 B,JBL,United States,Technology,Electronic Components
+134,Western Digital Corporation,$16.33 B,WDC,United States,Technology,Computer Hardware
+135,"Super Micro Computer, Inc.",$16.13 B,SMCI,United States,Technology,Computer Hardware
+136,Lenovo Group Ltd,$15.97 B,0992,Hong Kong,Technology,Computer Hardware
+137,NEC Corp,$15.91 B,6701,Japan,Technology,Information Technology Services
+138,"Teradyne, Inc.",$15.57 B,TER,United States,Technology,Semiconductor Equipment & Materials
+139,ZTE Corp,$15.46 B,000063,China,Technology,Communication Equipment
+140,Shenzhen Transsion Holdings Co. Ltd,$15.42 B,688036,China,Technology,Communication Equipment
+141,The Sage Group plc,$15.24 B,SGE,United Kingdom,Technology,Software—Application
+142,"Dynatrace, Inc.",$15.21 B,DT,United States,Technology,Software—Application
+143,"OBIC Co.,Ltd.",$15.07 B,4684,Japan,Technology,Software—Application
+144,"Leidos Holdings, Inc.",$14.83 B,LDOS,United States,Technology,Information Technology Services
+145,"SS&C Technologies Holdings, Inc.",$14.70 B,SSNC,United States,Technology,Software—Application
+146,Logitech International SA,$14.57 B,LOGN,Switzerland,Technology,Computer Hardware
+147,GoDaddy Inc.,$14.46 B,GDDY,United States,Technology,Software—Infrastructure
+148,NortonLifeLock Inc.,$14.42 B,NLOK,United States,Technology,Software—Infrastructure
+149,Unity Software Inc.,$14.08 B,U,United States,Technology,Software—Application
+150,"Bentley Systems, Incorporated",$13.93 B,BSY,United States,Technology,Software—Application
+151,"Okta, Inc.",$13.87 B,OKTA,United States,Technology,Software—Infrastructure
+152,NICE Ltd.,$13.73 B,NICE,Israel,Technology,Software—Application
+153,"Aspen Technology, Inc.",$13.27 B,AZPN,United States,Technology,Software—Application
+154,"Affirm Holdings, Inc.",$13.14 B,AFRM,United States,Technology,Information Technology Services
+155,"Shanghai Baosight Software Co.,Ltd.",$13.07 B,600845,China,Technology,Software—Application
+156,Zebra Technologies Corporation,$12.99 B,ZBRA,United States,Technology,Communication Equipment
+157,"Citrix Systems, Inc.",$12.95 B,CTXS,United States,Technology,Software—Application
+158,AppLovin Corp,$12.83 B,APP,United States,Technology,Software—Application
+159,"LG Electronics, Inc.",$12.80 B,066570,South Korea,Technology,Consumer Electronics
+160,"UiPath, Inc.",$12.78 B,PATH,United States,Technology,Software—Infrastructure
+161,Trimble Inc.,$12.69 B,TRMB,United States,Technology,Scientific & Technical Instruments
+162,"Advanced Micro-Fabrication Equipment, Inc. China",$12.63 B,688012,China,Technology,Semiconductor Equipment & Materials
+163,"Manhattan Associates, Inc.",$12.58 B,MANH,United States,Technology,Software—Application
+164,"Jack Henry & Associates, Inc.",$12.14 B,JKHY,United States,Technology,Information Technology Services
+165,"Pure Storage, Inc.",$11.63 B,PSTG,United States,Technology,Computer Hardware
+166,BE Semiconductor Industries N.V.,$11.58 B,BESI,Netherlands,Technology,Semiconductor Equipment & Materials
+167,Hithink RoyalFlush Information Network Co. Ltd,$11.54 B,300033,China,Technology,Software—Application
+168,"LARGAN Precision Co.,Ltd",$11.41 B,3008,Taiwan,Technology,Electronic Components
+169,"Paycom Software, Inc.",$11.34 B,PAYC,United States,Technology,Software—Application
+170,ZoomInfo Technologies Inc.,$11.33 B,ZI,United States,Technology,Software—Application
+171,"ASUSTeK Computer, Inc.",$11.26 B,2357,Taiwan,Technology,Computer Hardware
+172,"DocuSign, Inc.",$11.22 B,DOCU,United States,Technology,Software—Application
+173,Xero Limited,$11.11 B,XRO,New Zealand,Technology,Software—Application
+174,"Nutanix, Inc.",$10.91 B,NTNX,United States,Technology,Software—Infrastructure
+175,Open Text Corporation,$10.90 B,OTEX,Canada,Technology,Software—Application
+176,Nexi S.p.A.,$10.64 B,NEXI,Italy,Technology,Software—Infrastructure
+177,MicroStrategy Incorporated,$10.56 B,MSTR,United States,Technology,Software—Application
+178,Elastic N.V.,$10.53 B,ESTC,United States,Technology,Software—Application
+179,BYD Electronic International Co Ltd,$10.52 B,4BY,China,Technology,Communication Equipment
+180,"F5 Networks, Inc.",$10.39 B,FFIV,United States,Technology,Software—Infrastructure
+181,Flex Ltd.,$10.31 B,FLEX,Singapore,Technology,Electronic Components
+182,"Qorvo, Inc.",$10.29 B,QRVO,United States,Technology,Semiconductors
+183,Amdocs Limited,$10.26 B,DOX,United States,Technology,Software—Infrastructure
+184,"Proofpoint, Inc.",$10.16 B,PFPT,United States,Technology,Software—Infrastructure
+185,Computershare Limited,$10.14 B,CPU,Australia,Technology,Information Technology Services
+186,Advantech Co. Ltd,$10.07 B,2395,Taiwan,Technology,Computer Hardware
+187,Oracle Corp Japan,$9.98 B,4716,Japan,Technology,Software—Application
+188,Ceridian HCM Holding Inc.,$9.96 B,CDAY,United States,Technology,Software—Application
+189,Wiwynn Corp,$9.95 B,6669,Taiwan,Technology,Computer Hardware
+190,Novatek Microelectronics Corp,$9.81 B,3034,Taiwan,Technology,Semiconductors
+191,"Dropbox, Inc.",$9.79 B,DBX,United States,Technology,Software—Infrastructure
+192,Maxscend Microelectronics Company Ltd,$9.70 B,300782,China,Technology,Semiconductors
+193,"Black Knight, Inc.",$9.60 B,BKI,United States,Technology,Software—Infrastructure
+194,"Anaplan, Inc.",$9.59 B,PLAN,United States,Technology,Software—Infrastructure
+195,"Juniper Networks, Inc.",$9.57 B,JNPR,United States,Technology,Communication Equipment
+196,Sanan Optoelectronics Co. Ltd,$9.55 B,600703,China,Technology,Semiconductors
+197,TD Synnex,$9.49 B,SNX,United States,Technology,Information Technology Services
+198,Globant SA,$9.49 B,GLOB,Luxembourg,Technology,Software—Application
+199,"Zendesk, Inc.",$9.40 B,ZEN,United States,Technology,Software—Application
+200,Nemetschek SE,$9.36 B,NEM,Germany,Technology,Software—Application
+201,"Procore Technologies, Inc.",$9.27 B,PCOR,United States,Technology,Software—Application
+202,OMRON Corp,$9.20 B,6645,Japan,Technology,Electronic Components
+203,"Cree, Inc.",$9.17 B,CREE,United States,Technology,Semiconductors
+204,Montage Technology Co. Ltd,$9.12 B,688008,China,Technology,Semiconductors
+205,Lattice Semiconductor Corporation,$9.08 B,LSCC,United States,Technology,Semiconductors
+206,Sunny Optical Technology Group Co Ltd,$9.06 B,2382,China,Technology,Electronic Components
+207,Paylocity Holding Corporation,$9.00 B,PCTY,United States,Technology,Software—Application
+208,Lens Technology Co. Ltd,$8.99 B,300433,China,Technology,Electronic Components
+209,Accton Technology Corp,$8.98 B,2345,Taiwan,Technology,Communication Equipment
+210,CyberArk Software Ltd.,$8.95 B,CYBR,Israel,Technology,Software—Infrastructure
+211,Wistron Corp,$8.78 B,3231,Taiwan,Technology,Computer Hardware
+212,Avast plc,$8.72 B,AVST,Czechia,Technology,Software—Infrastructure
+213,Lite-On Technology Corp,$8.61 B,2301,Taiwan,Technology,Computer Hardware
+214,"Guidewire Software, Inc.",$8.60 B,GWRE,United States,Technology,Software—Application
+215,Universal Display Corporation,$8.52 B,OLED,United States,Technology,Semiconductor Equipment & Materials
+216,"360 Security Technology, Inc.",$8.46 B,601360,China,Technology,Software—Infrastructure
+217,Trina Solar Co. Ltd,$8.41 B,688599,China,Technology,Solar
+218,WEX Inc.,$8.40 B,WEX,United States,Technology,Software—Infrastructure
+219,"Minebea Mitsumi, Inc.",$8.36 B,6479,Japan,Technology,Electronic Components
+220,Unimicron Technology Corp,$8.34 B,3037,Taiwan,Technology,Electronic Components
+221,Shimadzu Corp,$8.33 B,7701,Japan,Technology,Scientific & Technical Instruments
+222,GlobalWafers Co. Ltd,$8.31 B,6488,Taiwan,Technology,Semiconductors
+223,monday.com Ltd,$8.31 B,MNDY,Israel,Technology,Software—Application
+224,"Switch, Inc.",$8.27 B,SWCH,United States,Technology,Information Technology Services
+225,Alchip Technologies Ltd,$8.25 B,3661,Taiwan,Technology,Semiconductors
+226,Yonyou Network Technology Co. Ltd,$8.16 B,600588,China,Technology,Software—Application
+227,SCREEN Holdings Co. Ltd,$8.14 B,7735,Japan,Technology,Semiconductors
+228,China Resources Microelectronics Ltd,$8.13 B,688396,China,Technology,Semiconductors
+229,"Avalara, Inc.",$8.12 B,AVLR,United States,Technology,Software—Application
+230,"Dolby Laboratories, Inc.",$8.04 B,DLB,United States,Technology,Information Technology Services
+231,GigaDevice Semiconductor,$8.01 B,603986,China,Technology,Semiconductors
+232,"Bill.com Holdings, Inc.",$7.95 B,BILL,United States,Technology,Software—Application
+233,Ubiquiti Inc.,$7.86 B,UI,United States,Technology,Communication Equipment
+234,Dawning Information Industry Co. Ltd,$7.77 B,603019,China,Technology,Computer Hardware
+235,"Ibiden Co.,Ltd.",$7.75 B,4062,Japan,Technology,Electronic Components
+236,Zhejiang Jingsheng Mechanical & Electrical Co. Ltd,$7.73 B,300316,China,Technology,Semiconductor Equipment & Materials
+237,Otsuka Corp,$7.70 B,4768,Japan,Technology,Electronics & Computer Distribution
+238,Chaozhou Three-Circle,$7.68 B,300408,China,Technology,Electronic Components
+239,National Instruments Corporation,$7.58 B,NATI,United States,Technology,Software—Application
+240,Nanya Technology Corp,$7.57 B,2408,Taiwan,Technology,Semiconductors
+241,"Amkor Technology, Inc.",$7.56 B,AMKR,United States,Technology,Semiconductors
+242,Realtek Semiconductor Corp,$7.50 B,2379,Taiwan,Technology,Semiconductors
+243,Pegatron Corp,$7.41 B,4938,Taiwan,Technology,Computer Hardware
+244,Cambricon Technologies Corp Ltd,$7.36 B,688256,China,Technology,Software—Application
+245,Global Unichip Corp,$7.32 B,3443,Taiwan,Technology,Semiconductors
+246,Trend Micro Inc.,$7.30 B,4704,Japan,Technology,Software—Infrastructure
+247,"Hundsun Technologies, Inc.",$7.29 B,600570,China,Technology,Software—Application
+248,ROHM Co. Ltd,$7.18 B,6963,Japan,Technology,Semiconductors
+249,"E Ink Holdings, Inc.",$7.10 B,8069,Taiwan,Technology,Electronic Components
+250,"Wingtech Technology Co.,Ltd",$7.04 B,600745,China,Technology,Communication Equipment
+251,CACI International Inc,$7.03 B,CACI,United States,Technology,Information Technology Services
+252,JCET Group Co. Ltd,$6.99 B,600584,China,Technology,Semiconductors
+253,Descartes Systems Group Inc.,$6.93 B,DSG,Canada,Technology,Software—Application
+254,"The Descartes Systems Group, Inc.",$6.87 B,DC2,Canada,Technology,Software—Application
+255,Rambus Inc.,$6.87 B,RMBS,United States,Technology,Semiconductors
+256,"Qualys, Inc.",$6.82 B,QLYS,United States,Technology,Software—Infrastructure
+257,Onto Innovation Inc.,$6.81 B,ONTO,United States,Technology,Semiconductors
+258,National Silicon Industry Group Co. Ltd,$6.79 B,688126,China,Technology,Semiconductor Equipment & Materials
+259,Cognex Corporation,$6.72 B,CGNX,United States,Technology,Scientific & Technical Instruments
+260,Wix.com Ltd.,$6.71 B,WIX,Israel,Technology,Software—Infrastructure
+261,Fabrinet,$6.70 B,FN,Cayman Islands,Technology,Electronic Components
+262,"SPS Commerce, Inc.",$6.65 B,SPSC,United States,Technology,Software—Infrastructure
+263,Ciena Corporation,$6.60 B,CIEN,United States,Technology,Communication Equipment
+264,"MKS Instruments, Inc.",$6.54 B,MKSI,United States,Technology,Scientific & Technical Instruments
+265,Concentrix Corporation,$6.49 B,CNXC,United States,Technology,Information Technology Services
+266,Temenos AG,$6.43 B,TEMN,Switzerland,Technology,Software—Application
+267,Science Applications International Corporation,$6.42 B,SAIC,United States,Technology,Information Technology Services
+268,"Mohawk Group Holdings, Inc.",$6.40 B,MWK,United States,Technology,Consumer Electronics
+269,"CDK Global, Inc.",$6.39 B,CDK,United States,Technology,Software—Application
+270,"Arrow Electronics, Inc.",$6.39 B,ARW,United States,Technology,Electronics & Computer Distribution
+271,SCSK Corp,$6.36 B,9719,Japan,Technology,Information Technology Services
+272,"Littelfuse, Inc.",$6.36 B,LFUS,United States,Technology,Electronic Components
+273,Hamamatsu Photonics K.K.,$6.29 B,6965,Japan,Technology,Electronic Components
+274,Altair Engineering Inc.,$6.25 B,ALTR,United States,Technology,Software—Infrastructure
+275,"Coherent, Inc.",$6.23 B,COHR,United States,Technology,Scientific & Technical Instruments
+276,"SailPoint Technologies Holdings, Inc.",$6.19 B,SAIL,United States,Technology,Software—Infrastructure
+277,Genpact Limited,$6.18 B,G,Bermuda,Technology,Information Technology Services
+278,"New Relic, Inc.",$6.18 B,NEWR,United States,Technology,Software—Infrastructure
+279,"MACOM Technology Solutions Holdings, Inc.",$6.17 B,MTSI,United States,Technology,Semiconductors
+280,Hangzhou First Applied Material Co. Ltd,$6.13 B,603806,China,Technology,Semiconductor Equipment & Materials
+281,Stamps.com Inc.,$6.12 B,STMP,United States,Technology,Software—Application
+282,Smartsheet Inc.,$6.07 B,SMAR,United States,Technology,Software—Application
+283,Bechtle AG,$6.04 B,BC8,Germany,Technology,Information Technology Services
+284,Coupa Software Incorporated,$6.03 B,COUP,United States,Technology,Software—Application
+285,Inventec Corp,$5.99 B,2356,Taiwan,Technology,Computer Hardware
+286,"AppFolio, Inc.",$5.97 B,APPF,United States,Technology,Software—Application
+287,"DoubleVerify Holdings, Inc.",$5.87 B,DV,United States,Technology,Software—Application
+288,"Topicus.com, Inc.",$5.87 B,TOI,Canada,Technology,Software—Infrastructure
+289,Soitec SA,$5.86 B,SOH1,France,Technology,Semiconductor Equipment & Materials
+290,Qualtrics International Inc.,$5.83 B,XM,United States,Technology,Software—Application
+291,"Shift4 Payments, Inc.",$5.82 B,FOUR,United States,Technology,Software—Infrastructure
+292,"Insight Enterprises, Inc.",$5.80 B,NSIT,United States,Technology,Information Technology Services
+293,"eMemory Technology, Inc.",$5.79 B,3529,Taiwan,Technology,Semiconductors
+294,Datto Holding Corp.,$5.74 B,MSP,United States,Technology,Software—Application
+295,Hua Hong Semiconductor Ltd,$5.71 B,1347,China,Technology,Semiconductors
+296,ITOCHU Techno-Solutions Corp,$5.63 B,4739,Japan,Technology,Information Technology Services
+297,Shengyi Technology Co. Ltd,$5.62 B,600183,China,Technology,Electronic Components
+298,"Allegro MicroSystems, Inc.",$5.58 B,ALGM,United States,Technology,Semiconductors
+299,Novanta Inc.,$5.58 B,NOVT,United States,Technology,Scientific & Technical Instruments
+300,"KnowBe4, Inc.",$5.54 B,KNBE,United States,Technology,Software—Infrastructure
+301,"GT Advanced Technologies, Inc.",$5.50 B,GTAT,United States,Technology,Semiconductors
+302,Silergy Corp,$5.49 B,6415,China,Technology,Semiconductors
+303,Sensata Technologies Holding plc,$5.48 B,ST,United States,Technology,Scientific & Technical Instruments
+304,SG Micro Corp,$5.45 B,300661,China,Technology,Semiconductors
+305,II-VI Incorporated,$5.44 B,IIVI,United States,Technology,Scientific & Technical Instruments
+306,"Five9, Inc.",$5.38 B,FIVN,United States,Technology,Software—Infrastructure
+307,"Medallia, Inc.",$5.38 B,MDLA,United States,Technology,Software—Application
+308,StoneCo Ltd.,$5.36 B,STNE,Cayman Islands,Technology,Software—Application
+309,"BayCurrent Consulting, Inc.",$5.36 B,6532,Japan,Technology,Information Technology Services
+310,"TIS, Inc.",$5.29 B,3626,Japan,Technology,Information Technology Services
+311,Shinko Electric Industries Co. Ltd,$5.28 B,6967,Japan,Technology,Semiconductors
+312,"Compal Electronics, Inc.",$5.25 B,2324,Taiwan,Technology,Computer Hardware
+313,"Lyft, Inc.",$5.20 B,LYFT,United States,Technology,Software—Application
+314,Vontier Corporation,$5.16 B,VNT,United States,Technology,Scientific & Technical Instruments
+315,Hangzhou Silan Microelectronics Co. Ltd,$5.15 B,600460,China,Technology,Semiconductor Equipment & Materials
+316,"GMO Payment Gateway, Inc.",$5.15 B,3769,Japan,Technology,Software—Infrastructure
+317,Alten SA,$5.13 B,ATE,France,Technology,Information Technology Services
+318,Micro-Star International Co. Ltd,$5.12 B,2377,Taiwan,Technology,Computer Hardware
+319,Sumco Corp,$5.12 B,3436,Japan,Technology,Semiconductor Equipment & Materials
+320,Giga-Byte Technology Co. Ltd,$5.11 B,2376,Taiwan,Technology,Computer Hardware
+321,"Dun & Bradstreet Holdings, Inc.",$5.11 B,DNB,United States,Technology,Information Technology Services
+322,Shanghai Friendess Electronic Technology Corp Ltd,$5.10 B,688188,China,Technology,Semiconductors
+323,"Tenable Holdings, Inc.",$5.09 B,TENB,United States,Technology,Software—Infrastructure
+324,Seiko Epson Corp,$5.07 B,6724,Japan,Technology,Computer Hardware
+325,Nan Ya Printed Circuit Board Corp,$5.06 B,8046,Taiwan,Technology,Electronic Components
+326,Workiva Inc.,$5.04 B,WK,United States,Technology,Software—Application
+327,Yealink Network Technology Co. Ltd,$5.03 B,300628,China,Technology,Communication Equipment
+328,"CMC Materials, Inc.",$4.99 B,CCMP,United States,Technology,Semiconductor Equipment & Materials
+329,"ExlService Holdings, Inc.",$4.95 B,EXLS,United States,Technology,Information Technology Services
+330,AU Optronics Corp,$4.92 B,2409,Taiwan,Technology,Electronic Components
+331,"SolarEdge Technologies, Inc.",$4.91 B,SEDG,Israel,Technology,Solar
+332,KPIT Technologies Ltd,$4.91 B,KPITTECH,India,Technology,Information Technology Services
+333,"Thunder Software Technology Co.,Ltd.",$4.90 B,300496,China,Technology,Software—Application
+334,Spectris plc,$4.89 B,SXS,United Kingdom,Technology,Scientific & Technical Instruments
+335,McAfee Corp.,$4.89 B,MCFE,United States,Technology,Software—Application
+336,TravelSky Technology Ltd,$4.86 B,0696,China,Technology,Information Technology Services
+337,IPG Photonics Corporation,$4.85 B,IPGP,United States,Technology,Semiconductor Equipment & Materials
+338,Kingdee International Software Group Co Ltd,$4.85 B,0268,China,Technology,Software—Application
+339,Sharp Corp,$4.83 B,6753,Japan,Technology,Consumer Electronics
+340,Reply S.p.A.,$4.83 B,REY,Italy,Technology,Information Technology Services
+341,Worldline SA,$4.81 B,WLN,France,Technology,Software—Infrastructure
+342,"Brooks Automation, Inc.",$4.78 B,BRKS,United States,Technology,Semiconductor Equipment & Materials
+343,Suzhou Maxwell Technologies Co. Ltd,$4.78 B,300751,China,Technology,Semiconductor Equipment & Materials
+344,Suzhou TFC Optical Communication Co. Ltd,$4.76 B,300394,China,Technology,Communication Equipment
+345,Innolux Corp,$4.74 B,3481,Taiwan,Technology,Electronic Components
+346,"Acer, Inc.",$4.72 B,2353,Taiwan,Technology,Computer Hardware
+347,NEXTDC Limited,$4.70 B,NXT,Australia,Technology,Information Technology Services
+348,Xinyi Solar Holdings Ltd,$4.70 B,0968,China,Technology,Solar
+349,Anker Innovations Ltd,$4.69 B,300866,China,Technology,Consumer Electronics
+350,"Varonis Systems, Inc.",$4.68 B,VRNS,United States,Technology,Software—Infrastructure
+351,Changsha Jingjia Microelectronics Co. Ltd,$4.52 B,300474,China,Technology,Semiconductors
+352,"Eoptolink Technology, Inc. Ltd",$4.50 B,300502,China,Technology,Communication Equipment
+353,"Euronet Worldwide, Inc.",$4.49 B,EEFT,United States,Technology,Software—Infrastructure
+354,Universal Scientific Industrial,$4.48 B,601231,China,Technology,Electronic Components
+355,Powerchip Semiconductor Manufacturing Corp,$4.47 B,6770,Taiwan,Technology,Semiconductors
+356,"Power Integrations, Inc.",$4.46 B,POWI,United States,Technology,Semiconductors
+357,WPG Holdings Ltd,$4.45 B,3702,Taiwan,Technology,Electronics & Computer Distribution
+358,"Blackbaud, Inc.",$4.40 B,BLKB,United States,Technology,Software—Application
+359,DXC Technology Company,$4.36 B,DXC,United States,Technology,Information Technology Services
+360,Sopra Steria Group SA,$4.34 B,OR8,France,Technology,Information Technology Services
+361,Endava plc,$4.31 B,DAVA,United Kingdom,Technology,Software—Infrastructure
+362,"Avnet, Inc.",$4.30 B,AVT,United States,Technology,Electronics & Computer Distribution
+363,AIXTRON SE,$4.28 B,AIXA,Germany,Technology,Semiconductor Equipment & Materials
+364,Chicony Electronics Co. Ltd,$4.26 B,2385,Taiwan,Technology,Computer Hardware
+365,Shanghai Aiko Solar Energy Co. Ltd,$4.24 B,600732,China,Technology,Solar
+366,StarPower Semiconductor Ltd,$4.22 B,603290,China,Technology,Semiconductor Equipment & Materials
+367,Synaptics Incorporated,$4.22 B,SYNA,United States,Technology,Semiconductors
+368,"Ingenic Semiconductor Co.,Ltd.",$4.22 B,300223,China,Technology,Computer Hardware
+369,"SHIFT, Inc.",$4.22 B,3697,Japan,Technology,Software—Application
+370,Vanguard International Semiconductor Corp,$4.20 B,5347,Taiwan,Technology,Semiconductors
+371,"Cirrus Logic, Inc.",$4.19 B,CRUS,United States,Technology,Semiconductors
+372,China National Software & Service Company Ltd,$4.18 B,600536,China,Technology,Software—Application
+373,SimCorp A-S,$4.18 B,SIM,Denmark,Technology,Software—Application
+374,Teradata Corporation,$4.17 B,TDC,United States,Technology,Information Technology Services
+375,Shenzhen Goodix Technology Co. Ltd,$4.17 B,603160,China,Technology,Software—Application
+376,"FireEye, Inc.",$4.13 B,FEYE,United States,Technology,Software—Infrastructure
+377,"ASMedia Technology, Inc.",$4.10 B,5269,Taiwan,Technology,Semiconductors
+378,Asia Vital Components Co. Ltd,$4.10 B,3017,Taiwan,Technology,Electronic Components
+379,Elite Material Co. Ltd,$4.07 B,2383,Taiwan,Technology,Electronic Components
+380,Computacenter plc,$4.06 B,CCC,United Kingdom,Technology,Information Technology Services
+381,Sunrun Inc.,$4.02 B,RUN,United States,Technology,Solar
+382,PagSeguro Digital Ltd.,$4.02 B,PAGS34,Brazil,Technology,Software—Infrastructure
+383,"Sangfor Technologies, Inc.",$4.00 B,300454,China,Technology,Communication Equipment
+384,TOTVS SA,$3.99 B,TOTS3,Brazil,Technology,Software—Application
+385,Hisense Visual Technology Co. Ltd,$3.97 B,600060,China,Technology,Consumer Electronics
+386,"Vertex, Inc.",$3.96 B,VERX,United States,Technology,Software—Application
+387,"Axcelis Technologies, Inc.",$3.96 B,ACLS,United States,Technology,Semiconductor Equipment & Materials
+388,Altium Limited,$3.96 B,ALU,United States,Technology,Software—Application
+389,Hengtong Optic-Electric Co. Ltd,$3.95 B,600487,China,Technology,Communication Equipment
+390,ManTech International Corporation,$3.93 B,MANT,United States,Technology,Software—Application
+391,Winbond Electronics Corp,$3.93 B,2344,Taiwan,Technology,Semiconductors
+392,"Hirose Electric Co.,Ltd.",$3.92 B,6806,Japan,Technology,Electronic Components
+393,Hyundai Autoever Corp,$3.91 B,307950,South Korea,Technology,Information Technology Services
+394,"ASPEED Technology, Inc.",$3.88 B,5274,Taiwan,Technology,Semiconductors
+395,GCL-Poly Energy Holdings Ltd,$3.86 B,3800,Hong Kong,Technology,Solar
+396,Silicon Laboratories Inc.,$3.86 B,SLAB,United States,Technology,Semiconductors
+397,Maxar Technologies Inc.,$3.83 B,MAXR,United States,Technology,Communication Equipment
+398,"Asana, Inc.",$3.79 B,ASAN,United States,Technology,Software—Application
+399,Pegasystems Inc.,$3.79 B,PEGA,United States,Technology,Software—Application
+400,"Cornerstone OnDemand, Inc.",$3.79 B,CSOD,United States,Technology,Software—Application
+401,"nCino, Inc.",$3.77 B,NCNO,United States,Technology,Software—Application
+402,Melexis NV,$3.76 B,MEX,Belgium,Technology,Semiconductors
+403,ASM Pacific Technology Ltd,$3.70 B,0522,Hong Kong,Technology,Semiconductor Equipment & Materials
+404,LG Display Co. Ltd,$3.67 B,034220,South Korea,Technology,Consumer Electronics
+405,"Sino-American Silicon Products, Inc.",$3.66 B,5483,Taiwan,Technology,Semiconductor Equipment & Materials
+406,NCR Corporation,$3.62 B,NCR,United States,Technology,Information Technology Services
+407,ALSO Holding AG,$3.61 B,ALSN,Switzerland,Technology,Information Technology Services
+408,"Box, Inc.",$3.57 B,BOX,United States,Technology,Software—Infrastructure
+409,VisEra Technologies Company Ltd,$3.55 B,6789,Taiwan,Technology,Semiconductors
+410,Lotes Co. Ltd,$3.55 B,3533,Taiwan,Technology,Electronic Components
+411,"Qi An Xin Technology Group, Inc.",$3.55 B,688561,China,Technology,Software—Infrastructure
+412,Zhonghang Electronic Measuring Instruments Co. Ltd,$3.54 B,300114,China,Technology,Scientific & Technical Instruments
+413,WT Microelectronics Co. Ltd,$3.52 B,3036,Taiwan,Technology,Semiconductors
+414,Tower Semiconductor Ltd.,$3.50 B,TSEM,Israel,Technology,Semiconductors
+415,Softcat plc,$3.46 B,SCT,United Kingdom,Technology,Information Technology Services
+416,"Fuzhou Rockchip Electronics Co.,Ltd.",$3.44 B,603893,China,Technology,Semiconductors
+417,EchoStar Corporation,$3.43 B,SATS,United States,Technology,Communication Equipment
+418,"BlackLine, Inc.",$3.41 B,BL,United States,Technology,Software—Infrastructure
+419,"Alteryx, Inc.",$3.41 B,AYX,United States,Technology,Software—Application
+420,Amlogic,$3.40 B,688099,China,Technology,Electronic Components
+421,Zhen Ding Technology Holding Ltd,$3.39 B,4958,Cayman Islands,Technology,Semiconductors
+422,INFICON Holding AG,$3.39 B,IFCN,Switzerland,Technology,Scientific & Technical Instruments
+423,OBIC Business Consultants Co. Ltd,$3.38 B,4733,Japan,Technology,Information Technology Services
+424,Lumentum Holdings Inc.,$3.38 B,LITE,United States,Technology,Communication Equipment
+425,Nuvei Corporation,$3.38 B,NVEI,Canada,Technology,Information Technology Services
+426,Diodes Incorporated,$3.38 B,DIOD,United States,Technology,Semiconductors
+427,"Viasat, Inc.",$3.38 B,VSAT,United States,Technology,Communication Equipment
+428,Mercell Holding ASA,$3.37 B,1HD,Norway,Technology,Software—Application
+429,Celestica Inc.,$3.35 B,CLS,Canada,Technology,Electronic Components
+430,"Caihong Display Devices Co.,Ltd.",$3.35 B,600707,China,Technology,Electronic Components
+431,Beijing Compass Technology Development Co. Ltd,$3.34 B,300803,China,Technology,Software—Application
+432,Rinnai Corp,$3.34 B,5947,Japan,Technology,Consumer Electronics
+433,TianJin 712 Communication & Broadcasting Co. Ltd,$3.32 B,603712,China,Technology,Communication Equipment
+434,Renishaw plc,$3.32 B,RSW,United Kingdom,Technology,Scientific & Technical Instruments
+435,King Yuan Electronics Co. Ltd,$3.30 B,2449,Taiwan,Technology,Semiconductors
+436,JFrog Ltd.,$3.28 B,FROG,United States,Technology,Software—Application
+437,Tsinghua Tongfang Co. Ltd,$3.28 B,600100,China,Technology,Computer Hardware
+438,Technology One Limited,$3.28 B,TNE,Australia,Technology,Software—Application
+439,"Riot Blockchain, Inc.",$3.28 B,RIOT,United States,Technology,Software—Application
+440,Gold Circuit Electronics Ltd,$3.26 B,2368,Taiwan,Technology,Electronic Components
+441,Taiyo Yuden Co. Ltd,$3.26 B,6976,Japan,Technology,Electronic Components
+442,"AAC Technologies Holdings, Inc.",$3.25 B,2018,China,Technology,Communication Equipment
+443,"Sichuan Changhong Electric Co.,Ltd.",$3.25 B,600839,China,Technology,Consumer Electronics
+444,"Sprinklr, Inc.",$3.24 B,CXM,United States,Technology,Software—Application
+445,"Powertech Technology, Inc.",$3.24 B,6239,Taiwan,Technology,Semiconductor Equipment & Materials
+446,"Commvault Systems, Inc.",$3.24 B,CVLT,United States,Technology,Software—Application
+447,Tripod Technology Corp,$3.24 B,3044,Taiwan,Technology,Electronic Components
+448,"Itron, Inc.",$3.22 B,ITRI,United States,Technology,Scientific & Technical Instruments
+449,Jentech Precision Industrial Co. Ltd,$3.21 B,3653,Taiwan,Technology,Electronic Components
+450,Faraday Technology Corp,$3.21 B,3035,Taiwan,Technology,Semiconductor Equipment & Materials
+451,Phison Electronics Corp,$3.20 B,8299,Taiwan,Technology,Computer Hardware
+452,"Hangzhou Changchuan Technology Co.,Ltd",$3.20 B,300604,China,Technology,Semiconductor Equipment & Materials
+453,"Vishay Intertechnology, Inc.",$3.19 B,VSH,United States,Technology,Semiconductors
+454,"C3.ai, Inc.",$3.19 B,AI,United States,Technology,Information Technology Services
+455,"ACI Worldwide, Inc.",$3.19 B,ACIW,United States,Technology,Software—Infrastructure
+456,VeriSilicon Microelectronics,$3.18 B,688521,China,Technology,Semiconductors
+457,"Rapid7, Inc.",$3.16 B,RPD,United States,Technology,Software—Application
+458,Rakus Co. Ltd,$3.13 B,3923,Japan,Technology,Information Technology Services
+459,HORIBA Ltd,$3.13 B,6856,Japan,Technology,Scientific & Technical Instruments
+460,"Sprout Social, Inc.",$3.13 B,SPT,United States,Technology,Software—Application
+461,Nihon Unisys Ltd,$3.10 B,8056,Japan,Technology,Information Technology Services
+462,Chindata Group Holdings Limited,$3.10 B,CD,China,Technology,Information Technology Services
+463,Shanghai Fudan Microelectronics Group Company Ltd,$3.06 B,1385,China,Technology,Semiconductor Equipment & Materials
+464,"Alarm.com Holdings, Inc.",$3.06 B,ALRM,United States,Technology,Software—Application
+465,Camtek Ltd.,$3.05 B,CAMT,Israel,Technology,Semiconductor Equipment & Materials
+466,Venture Corp Ltd,$3.04 B,V03,Singapore,Technology,Electronic Components
+467,"DigitalOcean Holdings, Inc.",$3.04 B,DOCN,United States,Technology,Software—Infrastructure
+468,Qisda Corp,$3.03 B,2352,Taiwan,Technology,Computer Hardware
+469,Wuhan Jingce Electronic Group Co. Ltd,$3.02 B,300567,China,Technology,Scientific & Technical Instruments
+470,"Ziff Davis, Inc.",$3.02 B,JXC1,United States,Technology,Software—Infrastructure
+471,Darktrace plc,$3.02 B,DARK,United Kingdom,Technology,Software—Infrastructure
+472,NS Solutions Corp,$3.02 B,2327,Japan,Technology,Information Technology Services
+473,"J2 Global, Inc.",$3.01 B,JCOM,United States,Technology,Software—Infrastructure
+474,Siltronic AG,$3.01 B,WAF,Germany,Technology,Semiconductors
+475,SoftwareONE Holding AG,$2.98 B,SWON,Switzerland,Technology,Software—Application
+476,"Jiangsu Goodwe Power Supply Technology Co.,Ltd.",$2.98 B,688390,China,Technology,Electronic Components
+477,"EVO Payments, Inc.",$2.98 B,EVOP,United States,Technology,Software—Infrastructure
+478,Beijing E-Hualu Information Technology Co. Ltd,$2.98 B,300212,China,Technology,Software—Application
+479,"Chroma ATE, Inc.",$2.98 B,2360,Taiwan,Technology,Scientific & Technical Instruments
+480,Kinaxis Inc.,$2.94 B,KXS,Canada,Technology,Software—Application
+481,Software AG,$2.93 B,SOW,Germany,Technology,Software—Infrastructure
+482,Shenzhen Sunway Communication Co. Ltd,$2.93 B,300136,China,Technology,Communication Equipment
+483,"FormFactor, Inc.",$2.93 B,FORM,United States,Technology,Semiconductors
+484,"RingCentral, Inc.",$2.91 B,RNG,United States,Technology,Software—Application
+485,Guangdong Hec Technologyholding Co. Ltd,$2.90 B,600673,China,Technology,Electronic Components
+486,Fangda Carbon New Material Technology Co. Ltd,$2.89 B,600516,China,Technology,Electronic Components
+487,"Kulicke and Soffa Industries, Inc.",$2.88 B,KLIC,Singapore,Technology,Semiconductor Equipment & Materials
+488,Plexus Corp.,$2.88 B,PLXS,United States,Technology,Electronic Components
+489,Carel Industries S.p.A.,$2.87 B,CRL,Italy,Technology,Electronic Components
+490,Jiangsu Hoperun Software Co. Ltd,$2.85 B,300339,China,Technology,Software—Application
+491,"Calix, Inc.",$2.85 B,CALX,United States,Technology,Software—Application
+492,Lightspeed POS Inc.,$2.84 B,LSPD,Canada,Technology,Software—Application
+493,Sanmina Corporation,$2.84 B,SANM,United States,Technology,Electronic Components
+494,AP Memory Technology Corp,$2.80 B,6531,Taiwan,Technology,Semiconductors
+495,Dometic Group AB,$2.80 B,DOM,Sweden,Technology,Consumer Electronics
+496,Parade Technologies Ltd,$2.79 B,4966,Cayman Islands,Technology,Semiconductors
+497,Mycronic AB,$2.79 B,MYCR,Sweden,Technology,Electronic Components
+498,"Vocera Communications, Inc.",$2.77 B,VCRA,United States,Technology,Communication Equipment
+499,Lagercrantz Group AB,$2.76 B,LAGR.B,Sweden,Technology,Information Technology Services
+500,TietoEVRY Oyj,$2.76 B,TIETO,Finland,Technology,Information Technology Services
+501,Cielo SA,$2.71 B,CIEL3,Brazil,Technology,Information Technology Services
+502,CECEP Environmental Protection Equipment Co. Ltd,$2.71 B,300140,China,Technology,Electronic Components
+503,"Wangsu Science & Technology Co.,Ltd.",$2.70 B,300017,China,Technology,Software—Infrastructure
+504,"Indra Sistemas, SA",$2.69 B,IDR,Spain,Technology,Information Technology Services
+505,Compeq Manufacturing Co. Ltd,$2.69 B,2313,Taiwan,Technology,Electronic Components
+506,"Fuji Soft, Inc.",$2.69 B,9749,Japan,Technology,Information Technology Services
+507,ESCO Technologies Inc.,$2.68 B,ESE,United States,Technology,Scientific & Technical Instruments
+508,Yangzhou Yangjie Electronic Technology Co. Ltd,$2.67 B,300373,China,Technology,Semiconductors
+509,Xiamen Faratronic Co. Ltd,$2.67 B,600563,China,Technology,Electronic Components
+510,Flywire Corp,$2.65 B,FLYW,United States,Technology,Information Technology Services
+511,Network International Holdings plc,$2.65 B,NETW,United Arab Emirates,Technology,Information Technology Services
+512,Information Services International-Dentsu Ltd,$2.64 B,4812,Japan,Technology,Information Technology Services
+513,"Envestnet, Inc.",$2.64 B,ENV,United States,Technology,Software—Application
+514,Arçelik Anonim Sirketi,$2.64 B,ARCLK,Turkey,Technology,Consumer Electronics
+515,RIB Software SE,$2.63 B,RIBU,Germany,Technology,Software—Application
+516,Aisino Corp,$2.63 B,600271,China,Technology,Software—Application
+517,"Bumble, Inc.",$2.63 B,BMBL,United States,Technology,Software—Application
+518,"Risen Energy Co.,Ltd.",$2.63 B,300118,China,Technology,Semiconductors
+519,SiTime Corporation,$2.62 B,SITM,United States,Technology,Semiconductors
+520,Fiberhome Telecommunication Technologies Co. Ltd,$2.61 B,600498,China,Technology,Communication Equipment
+521,"VIA Technologies, Inc.",$2.60 B,2388,Taiwan,Technology,Semiconductors
+522,TeamViewer AG,$2.59 B,TMV,Germany,Technology,Software—Application
+523,"Bottomline Technologies, Inc.",$2.59 B,EPAY,United States,Technology,Software—Infrastructure
+524,"EVERTEC, Inc.",$2.58 B,EVTC,United States,Technology,Software—Infrastructure
+525,"Raytron Technology Co.,Ltd.",$2.58 B,688002,China,Technology,Electronic Components
+526,"Razer, Inc.",$2.58 B,RAZFF,United States,Technology,Computer Hardware
+527,Tokyo Ohka Kogyo Co. Ltd,$2.57 B,4186,Japan,Technology,Electronic Components
+528,Ningbo Ronbay New Energy Technology Co. Ltd,$2.52 B,688005,China,Technology,Electronic Components
+529,China Marine Information Electronics Company Ltd,$2.50 B,600764,China,Technology,Computer Hardware
+530,Shenzhen Kinwong Electronic Co. Ltd,$2.50 B,603228,China,Technology,Electronic Components
+531,"Shoals Technologies Group, Inc.",$2.50 B,SHLS,United States,Technology,Solar
+532,"Hangzhou Lion Electronics Co.,Ltd",$2.47 B,605358,China,Technology,Semiconductors
+533,"3Peak, Inc.",$2.47 B,688536,China,Technology,Semiconductor Equipment & Materials
+534,Ping Identity Holding Corp.,$2.46 B,PING,United States,Technology,Software—Infrastructure
+535,Appian Corporation,$2.44 B,APPN,United States,Technology,Software—Infrastructure
+536,"Maruwa Co., Ltd.",$2.42 B,5344,Japan,Technology,Electronic Components
+537,NEC Networks & System Integration Corp,$2.42 B,1973,Japan,Technology,Information Technology Services
+538,Beijing Ultrapower Software Co. Ltd,$2.39 B,300002,China,Technology,Software—Application
+539,Foxconn Technology Co. Ltd,$2.39 B,2354,Taiwan,Technology,Computer Hardware
+540,Rogers Corporation,$2.39 B,ROG,United States,Technology,Electronic Components
+541,"Beijing United Information Technology Co.,Ltd.",$2.38 B,603613,China,Technology,Information Technology Services
+542,Beijing Sinnet Technology Co. Ltd,$2.36 B,300383,China,Technology,Software—Infrastructure
+543,"Q2 Holdings, Inc.",$2.36 B,QTWO,United States,Technology,Software—Application
+544,"Sinosoft Co.,Ltd",$2.35 B,603927,China,Technology,Software—Application
+545,Tokyo Seimitsu Co. Ltd,$2.34 B,7729,Japan,Technology,Semiconductors
+546,"Cowell e Holdings, Inc.",$2.32 B,1415,China,Technology,Electronic Components
+547,SES-imagotag SA,$2.32 B,SESL,France,Technology,Electronic Components
+548,Comet Holding AG,$2.31 B,COTN,Switzerland,Technology,Scientific & Technical Instruments
+549,HMS Networks AB,$2.31 B,HMS,Sweden,Technology,Communication Equipment
+550,Voyager Digital Canada Ltd,$2.30 B,VYGR,United States,Technology,Software—Application
+551,TELUS International (Cda) Inc.,$2.29 B,TIXT,Canada,Technology,Software—Infrastructure
+552,Kingboard Laminates Holdings Ltd,$2.29 B,1888,Hong Kong,Technology,Electronic Components
+553,Electric Connector Technology Co. Ltd,$2.28 B,300679,China,Technology,Electronic Components
+554,"Navtech, Inc.",$2.28 B,300456,China,Technology,Scientific & Technical Instruments
+555,Wistron NeWeb Corp,$2.28 B,6285,Taiwan,Technology,Communication Equipment
+556,Progress Software Corporation,$2.27 B,PRGS,United States,Technology,Software—Application
+557,"ULVAC, Inc.",$2.27 B,6728,Japan,Technology,Electronic Components
+558,"LiveRamp Holdings, Inc.",$2.26 B,RAMP,United States,Technology,Information Technology Services
+559,DBG Technology Co. Ltd,$2.25 B,300735,China,Technology,Consumer Electronics
+560,Eutelsat Communications SA,$2.25 B,ETL,France,Technology,Communication Equipment
+561,"Longshine Technology Group Co.,Ltd.",$2.25 B,300682,China,Technology,Software—Application
+562,"Ambarella, Inc.",$2.24 B,AMBA,United States,Technology,Semiconductor Equipment & Materials
+563,"Alkami Technology, Inc.",$2.23 B,ALKT,United States,Technology,Software—Application
+564,SINBON Electronics Co. Ltd,$2.22 B,3023,Taiwan,Technology,Electronic Components
+565,"Extreme Networks, Inc.",$2.22 B,EXTR,United States,Technology,Communication Equipment
+566,InfoVision Optoelectronics,$2.20 B,688055,China,Technology,Electronic Components
+567,Jamf Holding Corp.,$2.19 B,JAMF,United States,Technology,Software—Application
+568,Shanghai Huace Navigation Technology Ltd,$2.19 B,300627,China,Technology,Scientific & Technical Instruments
+569,"Impinj, Inc.",$2.18 B,PI,United States,Technology,Communication Equipment
+570,Silicon Motion Technology Corporation,$2.17 B,SIMO,Hong Kong,Technology,Semiconductors
+571,Talend SA,$2.17 B,TLND,France,Technology,Software—Infrastructure
+572,Viavi Solutions Inc.,$2.17 B,VIAV,United States,Technology,Communication Equipment
+573,Micro Focus International plc,$2.16 B,MCRO,United Kingdom,Technology,Software—Infrastructure
+574,JEOL Ltd,$2.16 B,6951,Japan,Technology,Scientific & Technical Instruments
+575,"Perficient, Inc.",$2.15 B,PRFT,United States,Technology,Information Technology Services
+576,SMA Solar Technology AG,$2.14 B,S92,Germany,Technology,Solar
+577,"Sykes Enterprises, Incorporated",$2.14 B,SYKE,United States,Technology,Information Technology Services
+578,Legend Holdings Corp,$2.12 B,3396,China,Technology,Computer Hardware
+579,"Fastly, Inc.",$2.12 B,FSLY,United States,Technology,Software—Application
+580,Radiant Opto-Electronics Corp,$2.11 B,6176,Taiwan,Technology,Semiconductor Equipment & Materials
+581,ArcSoft Corp Ltd,$2.10 B,688088,China,Technology,Information Technology Services
+582,"ACV Auctions, Inc.",$2.10 B,ACVA,United States,Technology,Software—Application
+583,"OSI Systems, Inc.",$2.10 B,OSIS,United States,Technology,Electronic Components
+584,Chinasoft International Ltd,$2.09 B,0354,China,Technology,Information Technology Services
+585,Nordic Semiconductor ASA,$2.09 B,NOD,Norway,Technology,Semiconductors
+586,"Paymentus Holdings, Inc.",$2.09 B,PAY,United States,Technology,Information Technology Services
+587,"Hunan Goke Microelectronics Co.,Ltd.",$2.08 B,300672,China,Technology,Semiconductors
+588,Formosa Sumco Technology Corp,$2.07 B,3532,Taiwan,Technology,Semiconductor Equipment & Materials
+589,WIN Semiconductors Corp,$2.07 B,3105,Taiwan,Technology,Semiconductors
+590,Getac Technology Corp,$2.05 B,3005,Taiwan,Technology,Computer Hardware
+591,Victory Giant Technology,$2.05 B,300476,China,Technology,Electronic Components
+592,Xerox Holdings Corporation,$2.04 B,XRX,United States,Technology,Information Technology Services
+593,"Shanghai East-China Computer Co.,Ltd.",$2.04 B,600850,China,Technology,Software—Infrastructure
+594,ePlus inc.,$2.03 B,PLUS,United States,Technology,Software—Application
+595,Anji Microelectronics Technology,$2.03 B,688019,China,Technology,Semiconductor Equipment & Materials
+596,Xerox Holdings Corp,$2.02 B,XER2,United States,Technology,Information Technology Services
+597,SeSa S.p.A.,$2.02 B,SES,Italy,Technology,Information Technology Services
+598,Japan Aviation Electronics Industry Ltd,$2.02 B,6807,Japan,Technology,Electronic Components
+599,"Casio Computer Co.,Ltd.",$2.02 B,6952,Japan,Technology,Consumer Electronics
+600,Leyard Optoelectronic Co. Ltd,$2.02 B,300296,China,Technology,Electronic Components
+601,"Sonos, Inc.",$2.01 B,SONO,United States,Technology,Consumer Electronics
+602,Willfar Information Technology Co. Ltd,$2.01 B,688100,China,Technology,Information Technology Services
+603,Beijing Huafeng Test & Control Technology Co. Ltd,$2.01 B,688200,China,Technology,Semiconductors
+604,"Nippon Electric Glass Co., Ltd.",$2.01 B,5214,Japan,Technology,Electronic Components
+605,Shenzhen Everwin Precision Technology Co. Ltd,$2.00 B,300115,China,Technology,Electronic Components
+606,NPG Technology SA,$2.00 B,NPG,Japan,Technology,Electronic Components
+607,Jiangsu Nata Opto-electronic Material Co. Ltd,$2.00 B,300346,China,Technology,Semiconductors
+608,Wuxi Taiji Industry Company Ltd,$1.99 B,600667,China,Technology,Semiconductor Equipment & Materials
+609,"Agilysys, Inc.",$1.97 B,AGYS,United States,Technology,Software—Application
+610,"Jiangxi Lianchuang Opto-Electronic Science&Technology Co.,Ltd",$1.97 B,600363,China,Technology,Electronic Components
+611,Konfoong Materials International Co. Ltd,$1.96 B,300666,China,Technology,Semiconductor Equipment & Materials
+612,"PagerDuty, Inc.",$1.96 B,PD,United States,Technology,Software—Application
+613,"Suzhou HYC Technology Co.,Ltd.",$1.94 B,688001,China,Technology,Electronic Components
+614,BlackBerry Limited,$1.92 B,BB,Canada,Technology,Software—Infrastructure
+615,SolarWinds Corporation,$1.91 B,SWI,United States,Technology,Software—Infrastructure
+616,Solus Advanced Materials Co. Ltd,$1.91 B,336370,South Korea,Technology,Electronic Components
+617,Nuvoton Technology Corp,$1.91 B,4919,Taiwan,Technology,Semiconductors
+618,QT Group Oyj,$1.90 B,QTCOM,Finland,Technology,Software—Application
+619,Yangtze Optical Fibre And Cable Joint Stock Ltd Company,$1.90 B,601869,China,Technology,Communication Equipment
+620,"CleanSpark, Inc.",$1.89 B,CLSK,United States,Technology,Software—Infrastructure
+621,China Wafer Level CSP Co. Ltd,$1.88 B,603005,China,Technology,Semiconductors
+622,"Fibocom Wireless, Inc.",$1.88 B,300638,China,Technology,Communication Equipment
+623,Xinte Energy Co. Ltd,$1.88 B,1799,China,Technology,Solar
+624,Daqo New Energy Corp.,$1.88 B,DQ,China,Technology,Semiconductor Equipment & Materials
+625,Macronix International Co. Ltd,$1.88 B,2337,Taiwan,Technology,Semiconductors
+626,"GreenSky, Inc.",$1.85 B,GSKY,United States,Technology,Software—Infrastructure
+627,Walsin Technology Corp,$1.83 B,2492,Taiwan,Technology,Electronic Components
+628,Alps Alpine Co Ltd,$1.83 B,6770,Japan,Technology,Consumer Electronics
+629,"Allwinnertech Technology Co.,Ltd.",$1.83 B,300458,China,Technology,Semiconductors
+630,"Mitsui High-tec, Inc.",$1.83 B,6966,Japan,Technology,Semiconductors
+631,Beijing Jetsen Technology Co. Ltd,$1.81 B,300182,China,Technology,Information Technology Services
+632,Chipbond Technology Corp,$1.81 B,6147,Taiwan,Technology,Semiconductors
+633,"Photronics, Inc.",$1.80 B,PLAB,United States,Technology,Semiconductor Equipment & Materials
+634,"SEMrush Holdings, Inc.",$1.79 B,SEMR,United States,Technology,Software—Application
+635,Kainos Group plc,$1.79 B,KNOS,United Kingdom,Technology,Software—Application
+636,Com7 Public Company Ltd,$1.79 B,COM7,Thailand,Technology,Electronics & Computer Distribution
+637,Sunnova Energy International Inc.,$1.78 B,NOVA,United States,Technology,Solar
+638,iFAST Corp Ltd,$1.78 B,AIY,Singapore,Technology,Software—Application
+639,Bytes Technology Group plc,$1.78 B,BYIT,United Kingdom,Technology,Software—Application
+640,Quectel Wireless Solutions Co. Ltd,$1.77 B,603236,China,Technology,Communication Equipment
+641,Vicor Corporation,$1.77 B,VICR,United States,Technology,Electronic Components
+642,KCE Electronics Public Company Ltd,$1.77 B,KCE,Thailand,Technology,Electronic Components
+643,"MaxLinear, Inc.",$1.77 B,MXL,United States,Technology,Semiconductors
+644,Rorze Corp,$1.76 B,6323,Japan,Technology,Semiconductor Equipment & Materials
+645,Kingclean Electric Co.Ltd,$1.76 B,603355,China,Technology,Consumer Electronics
+646,"INESA Intelligent Tech, Inc.",$1.76 B,600602,China,Technology,Software—Infrastructure
+647,Dexerials Corp,$1.74 B,4980,Japan,Technology,Electronic Components
+648,Zeta Global Holdings Corp,$1.74 B,ZETA,United States,Technology,Software—Application
+649,Lakala Payment Co. Ltd,$1.74 B,300773,China,Technology,Software—Application
+650,JAPAN MATERIAL Co. Ltd,$1.72 B,6055,Japan,Technology,Semiconductors
+651,QAD Inc.,$1.72 B,QADA,United States,Technology,Software—Application
+652,Sharetronic Data Technology Co. Ltd,$1.72 B,300857,China,Technology,Consumer Electronics
+653,Atoss Software AG,$1.72 B,AOF,Germany,Technology,Software—Application
+654,"Wuhan Raycus Fiber Laser Technologies Co.,Ltd.",$1.72 B,300747,China,Technology,Scientific & Technical Instruments
+655,TKH Group N.V.,$1.71 B,TWEKA,Netherlands,Technology,Communication Equipment
+656,"LifeWorks, Inc.",$1.71 B,LWRK,Canada,Technology,Software—Application
+657,Founder Technology Group Corp,$1.71 B,600601,China,Technology,Computer Hardware
+658,TRS Information Technology Co. Ltd,$1.70 B,300229,China,Technology,Software—Application
+659,Amano Corp,$1.70 B,6436,Japan,Technology,Scientific & Technical Instruments
+660,Oxford Instruments plc,$1.69 B,OXIG,United Kingdom,Technology,Semiconductor Equipment & Materials
+661,Cellebrite DI Ltd,$1.69 B,CLBT,Israel,Technology,Software—Infrastructure
+662,"JinkoSolar Holding Co., Ltd.",$1.69 B,JKS,China,Technology,Solar
+663,Kahoot! AS,$1.67 B,KAHOT,Norway,Technology,Software—Application
+664,"PC Connection, Inc.",$1.67 B,CNXN,United States,Technology,Electronics & Computer Distribution
+665,MiTAC Holdings Corp,$1.67 B,3706,Taiwan,Technology,Computer Hardware
+666,Blue Prism Group plc,$1.66 B,PRSM,United Kingdom,Technology,Software—Infrastructure
+667,"Pci Technology Group Co.,Ltd.",$1.66 B,600728,China,Technology,Information Technology Services
+668,Wonders Information Co. Ltd,$1.65 B,300168,China,Technology,Information Technology Services
+669,Sabre Corporation,$1.65 B,SABR,United States,Technology,Information Technology Services
+670,Jenoptik AG,$1.64 B,JEN,Germany,Technology,Electronic Components
+671,"Jingjin Environmental Protection Co.,Ltd.",$1.64 B,603279,China,Technology,Scientific & Technical Instruments
+672,Wondershare Technology Group Co. Ltd,$1.63 B,300624,China,Technology,Software—Application
+673,GDS Holdings Limited,$1.63 B,GDS,China,Technology,Information Technology Services
+674,Netcompany Group A-S,$1.62 B,NETC,Denmark,Technology,Information Technology Services
+675,Verint Systems Inc.,$1.62 B,VRNT,United States,Technology,Software—Infrastructure
+676,"Zhuzhou Hongda Electronics Corp,Ltd.",$1.61 B,300726,China,Technology,Electronic Components
+677,Veeco Instruments Inc.,$1.61 B,VECO,United States,Technology,Semiconductor Equipment & Materials
+678,Chengdu CORPRO Technology Co. Ltd,$1.60 B,300101,China,Technology,Communication Equipment
+679,"Computer Services, Inc.",$1.59 B,CSVI,United States,Technology,Information Technology Services
+680,BTRS Holdings Inc.,$1.59 B,BTRS,United States,Technology,Software—Application
+681,Fujian Torch Electron Technology Co. Ltd,$1.59 B,603678,China,Technology,Electronic Components
+682,Shanghai Weaver Network Co. Ltd,$1.58 B,603039,China,Technology,Software—Application
+683,Appotronics Corp Ltd,$1.58 B,688007,China,Technology,Consumer Electronics
+684,Barco NV,$1.57 B,BC1P,Belgium,Technology,Electronic Components
+685,"Cohu, Inc.",$1.57 B,COHU,United States,Technology,Semiconductor Equipment & Materials
+686,"Compass, Inc.",$1.57 B,COMP,United States,Technology,Software—Application
+687,Wavestone SA,$1.56 B,2WSA,France,Technology,Information Technology Services
+688,Devoteam SA,$1.56 B,DVT,France,Technology,Information Technology Services
+689,Fujian Boss Software Corp,$1.56 B,300525,China,Technology,Software—Application
+690,"Jiangsu JieJie Microelectronics Co.,Ltd.",$1.56 B,300623,China,Technology,Semiconductor Equipment & Materials
+691,Yusys Technologies Co. Ltd,$1.55 B,300674,China,Technology,Information Technology Services
+692,"Fujimi, Inc.",$1.55 B,5384,Japan,Technology,Semiconductor Equipment & Materials
+693,Canadian Solar Inc.,$1.54 B,CSIQ,Canada,Technology,Solar
+694,"Money Forward, Inc.",$1.54 B,3994,Japan,Technology,Software—Application
+695,"TTM Technologies, Inc.",$1.54 B,TTMI,United States,Technology,Electronic Components
+696,Knowles Corporation,$1.52 B,KN,United States,Technology,Communication Equipment
+697,Vaisala Oyj,$1.52 B,VAIAS,Finland,Technology,Scientific & Technical Instruments
+698,Wuxi NCE Power Co. Ltd,$1.52 B,605111,China,Technology,Semiconductor Equipment & Materials
+699,Beijing Yuanliu Hongyuan Electronic Technology Co. Ltd,$1.52 B,603267,China,Technology,Electronic Components
+700,Eastern Communications Co. Ltd,$1.52 B,600776,China,Technology,Communication Equipment
+701,Beijing Jingyuntong Technology Co. Ltd,$1.52 B,601908,China,Technology,Semiconductor Equipment & Materials
+702,"PROS Holdings, Inc.",$1.52 B,PRO,United States,Technology,Software—Application
+703,Jolywood,$1.52 B,300393,China,Technology,Solar
+704,Neusoft Corp,$1.52 B,600718,China,Technology,Software—Application
+705,"CSG Systems International, Inc.",$1.51 B,CSGS,United States,Technology,Software—Infrastructure
+706,4Sight Holdings Ltd,$1.51 B,4SI,Mauritius,Technology,Information Technology Services
+707,HC SemiTek Corp,$1.50 B,300323,China,Technology,Semiconductor Equipment & Materials
+708,"Duck Creek Technologies, Inc.",$1.50 B,DCT,United States,Technology,Software—Application
+709,"Sumo Logic, Inc.",$1.50 B,SUMO,United States,Technology,Software—Application
+710,Société pour l'Informatique Industrielle SII SA,$1.49 B,XII,France,Technology,Information Technology Services
+711,NSD Co. Ltd,$1.49 B,9759,Japan,Technology,Software—Application
+712,"Beijing eGOVA Co,. Ltd",$1.48 B,300075,China,Technology,Software—Application
+713,"NetScout Systems, Inc.",$1.48 B,NTCT,United States,Technology,Software—Infrastructure
+714,Vtech Holdings Ltd,$1.48 B,0303,Hong Kong,Technology,Communication Equipment
+715,Genius Electronic Optical Co. Ltd,$1.48 B,3406,Taiwan,Technology,Computer Hardware
+716,VIZIO Holding Corp,$1.47 B,VZIO,United States,Technology,Consumer Electronics
+717,Société Industrielle et Financière de l'Artois SA,$1.47 B,ARTO,France,Technology,Computer Hardware
+718,Henan Yicheng New Energy Co. Ltd,$1.46 B,300080,China,Technology,Semiconductor Equipment & Materials
+719,Huber+Suhner AG,$1.46 B,HUBN,Switzerland,Technology,Communication Equipment
+720,Enghouse Systems Limited,$1.46 B,ENGH,Canada,Technology,Software—Application
+721,ELAN Microelectronics Corp,$1.45 B,2458,Taiwan,Technology,Semiconductors
+722,Sensirion Holding AG,$1.45 B,SENS,Switzerland,Technology,Scientific & Technical Instruments
+723,Shenzhen Kingdom Sci-Tech Co. Ltd,$1.45 B,600446,China,Technology,Software—Application
+724,Business-intelligence of Oriental Nations Corp Ltd,$1.45 B,300166,China,Technology,Software—Application
+725,Shanghai Sinyang Semiconductor Materials Co. Ltd,$1.44 B,300236,China,Technology,Semiconductors
+726,Beijing Tongtech Co. Ltd,$1.44 B,300379,China,Technology,Software—Application
+727,Kinsus Interconnect Technology Corp,$1.44 B,3189,Taiwan,Technology,Semiconductors
+728,Advanced Fiber Resources,$1.43 B,300620,China,Technology,Communication Equipment
+729,Dicker Data Limited,$1.42 B,DDR,Australia,Technology,Electronics & Computer Distribution
+730,JustSystems Corp,$1.42 B,4686,Japan,Technology,Software—Infrastructure
+731,TDG Holding Co. Ltd,$1.42 B,600330,China,Technology,Electronic Components
+732,"Cricut, Inc.",$1.42 B,CRCT,United States,Technology,Computer Hardware
+733,Ningbo Yongxin Optics Co. Ltd,$1.42 B,603297,China,Technology,Scientific & Technical Instruments
+734,Grinm Advanced Materials Co. Ltd,$1.41 B,600206,China,Technology,Semiconductor Equipment & Materials
+735,Intelbras S.A. - Indústria de Telecomunicação Eletrônica Brasileira,$1.41 B,INTB3,Brazil,Technology,Communication Equipment
+736,"Ultra Clean Holdings, Inc.",$1.41 B,UCTT,United States,Technology,Semiconductor Equipment & Materials
+737,Harmonic Inc.,$1.40 B,HLIT,United States,Technology,Communication Equipment
+738,"Corsair Gaming, Inc.",$1.40 B,CRSR,United States,Technology,Computer Hardware
+739,Guangdong Aofei Data Technology Co. Ltd,$1.39 B,300738,China,Technology,Information Technology Services
+740,"Sineng Electric Co.,Ltd.",$1.39 B,300827,China,Technology,Electronic Components
+741,Whirlpool SA,$1.38 B,WHRL3,Brazil,Technology,Consumer Electronics
+742,Atea ASA,$1.38 B,ATEA,Norway,Technology,Information Technology Services
+743,Better Collective A/S,$1.37 B,9C8,Denmark,Technology,Software—Application
+744,M31 Technology Corp,$1.37 B,6643,Taiwan,Technology,Semiconductors
+745,TKC Corp,$1.37 B,9746,Japan,Technology,Information Technology Services
+746,"Bizlink Holding, Inc.",$1.36 B,3665,Taiwan,Technology,Computer Hardware
+747,NCAB Group AB,$1.36 B,NCAB,Sweden,Technology,Electronic Components
+748,Xiamen Leading Optics Co. Ltd,$1.36 B,605118,China,Technology,Electronic Components
+749,X-FAB Silicon Foundries SE,$1.36 B,XFAB,Belgium,Technology,Semiconductors
+750,Shenzhen FRD Science & Technology Co. Ltd,$1.35 B,300602,China,Technology,Electronic Components
+751,QuantumCTek Co. Ltd,$1.35 B,688027,China,Technology,Communication Equipment
+752,Shanghai Belling Co. Ltd,$1.35 B,600171,China,Technology,Semiconductor Equipment & Materials
+753,Shenzhen InfoGem Technologies Co. Ltd,$1.35 B,300085,China,Technology,Software—Infrastructure
+754,Docebo Inc.,$1.34 B,DCBO,Canada,Technology,Software—Application
+755,Guangdong Create Century Intelligent Equipment Group Corp Ltd,$1.34 B,300083,China,Technology,Electronic Components
+756,SuperMap Software Co. Ltd,$1.33 B,300036,China,Technology,Scientific & Technical Instruments
+757,CTS Corporation,$1.33 B,CTS,United States,Technology,Electronic Components
+758,Net One Systems Co. Ltd,$1.32 B,7518,Japan,Technology,Information Technology Services
+759,Jiangsu Cnano Technology Co. Ltd,$1.32 B,688116,China,Technology,Electronic Components
+760,Semtech Corporation,$1.32 B,SMTC,United States,Technology,Semiconductors
+761,Lectra SA,$1.31 B,LET,France,Technology,Software—Application
+762,Hana Microelectronics Public Company Ltd,$1.31 B,HANA,Thailand,Technology,Electronic Components
+763,Yantai Zhenghai Magnetic Material Co. Ltd,$1.31 B,300224,China,Technology,Electronic Components
+764,"Sansan, Inc.",$1.31 B,4443,Japan,Technology,Software—Application
+765,"Plantronics, Inc.",$1.31 B,PLT,United States,Technology,Communication Equipment
+766,Kanematsu Corp,$1.30 B,8020,Japan,Technology,Electronics & Computer Distribution
+767,Olympic Circuit Technology Co. Ltd,$1.30 B,603920,China,Technology,Electronic Components
+768,Elmos Semiconductor SE,$1.29 B,ELG,Germany,Technology,Semiconductor Equipment & Materials
+769,"Tuya, Inc.",$1.29 B,TUYA,China,Technology,Software—Infrastructure
+770,Paya Holdings Inc.,$1.28 B,PAYA,United States,Technology,Software—Application
+771,Nagarro SE,$1.28 B,NA9,Germany,Technology,Information Technology Services
+772,Ideagen plc,$1.27 B,IDEA,United Kingdom,Technology,Software—Application
+773,EmbedWay Technologies,$1.27 B,603496,China,Technology,Communication Equipment
+774,Asseco Poland SA,$1.27 B,SFB1,Poland,Technology,Software—Application
+775,CIG ShangHai Co. Ltd,$1.26 B,603083,China,Technology,Communication Equipment
+776,Arctech Solar Holding Co. Ltd,$1.26 B,688408,China,Technology,Solar
+777,"Hangzhou DPtech Technologies Co.,Ltd.",$1.25 B,300768,China,Technology,Software—Infrastructure
+778,Anritsu Corp,$1.24 B,6754,Japan,Technology,Electronic Components
+779,"XiaMen HongXin Electron-tech Group Co.,Ltd",$1.24 B,300657,China,Technology,Electronic Components
+780,Zhejiang Lante Optics Co. Ltd,$1.24 B,688127,China,Technology,Semiconductor Equipment & Materials
+781,Unilumin Group Co. Ltd,$1.23 B,300232,China,Technology,Electronic Components
+782,Kanematsu Electronics Ltd,$1.23 B,8096,Japan,Technology,Information Technology Services
+783,"E2open Parent Holdings, Inc.",$1.23 B,ETWO,United States,Technology,Software—Infrastructure
+784,Shanghai AtHub Co. Ltd,$1.22 B,603881,China,Technology,Information Technology Services
+785,Matrix IT Ltd,$1.21 B,MTRX,Israel,Technology,Software—Application
+786,Richinfo Technology Co. Ltd,$1.21 B,300634,China,Technology,Software—Application
+787,Arcadyan Technology Corp,$1.21 B,3596,Taiwan,Technology,Communication Equipment
+788,Northern Data AG,$1.20 B,NB2,Germany,Technology,Software—Application
+789,Sichuan Furong Technology Co. Ltd,$1.20 B,603327,China,Technology,Consumer Electronics
+790,"Luminar Technologies, Inc.",$1.20 B,LAZR,United States,Technology,Software—Application
+791,CANCOM SE,$1.20 B,COK,Germany,Technology,Information Technology Services
+792,Maytronics Ltd,$1.20 B,MTRN,Israel,Technology,Consumer Electronics
+793,"Sierra Wireless, Inc.",$1.19 B,SW,Canada,Technology,Communication Equipment
+794,AKKA Technologies SE,$1.19 B,AF5,Belgium,Technology,Information Technology Services
+795,"Suzhou Sushi Testing Group Co.,Ltd.",$1.19 B,300416,China,Technology,Scientific & Technical Instruments
+796,Sanken Electric Co. Ltd,$1.19 B,6707,Japan,Technology,Semiconductors
+797,"Zuora, Inc.",$1.19 B,ZUO,United States,Technology,Software—Infrastructure
+798,Guangzhou Sie Consulting Co. Ltd,$1.19 B,300687,China,Technology,Information Technology Services
+799,IReader Technology Co. Ltd,$1.18 B,603533,China,Technology,Software—Application
+800,Topcon Corp,$1.17 B,7732,Japan,Technology,Scientific & Technical Instruments
+801,freee K.K.,$1.17 B,4478,Japan,Technology,Software—Application
+802,Datang Telecom Technology Co. Ltd,$1.16 B,600198,China,Technology,Communication Equipment
+803,"Kaga Electronics Co.,Ltd.",$1.16 B,8154,Japan,Technology,Electronics & Computer Distribution
+804,Chengdu Information Technology of The Chinese Academy of Sciences Co. Ltd,$1.16 B,300678,China,Technology,Software—Application
+805,Neurones,$1.16 B,NRO,France,Technology,Information Technology Services
+806,S&T AG,$1.16 B,SANT,Austria,Technology,Computer Hardware
+807,"T&S Communications Co.,Ltd.",$1.16 B,300570,China,Technology,Communication Equipment
+808,Piesat Information Technology Co. Ltd,$1.16 B,688066,China,Technology,Software—Application
+809,Hunan Aihua Group Co. Ltd,$1.16 B,603989,China,Technology,Electronic Components
+810,Ennoconn Corp,$1.16 B,6414,Taiwan,Technology,Computer Hardware
+811,"Jushri Technologies, Inc.",$1.15 B,300762,China,Technology,Communication Equipment
+812,TOWA Corp,$1.15 B,6315,Japan,Technology,Semiconductors
+813,ADVA Optical Networking SE,$1.15 B,ADV,Germany,Technology,Communication Equipment
+814,Beijing Ctrowell Technology Corp Ltd,$1.15 B,300455,China,Technology,Scientific & Technical Instruments
+815,HannStar Display Corp,$1.14 B,6116,Taiwan,Technology,Computer Hardware
+816,"ENNOSTAR, Inc.",$1.14 B,3714,Taiwan,Technology,Electronic Components
+817,Sercomm Corp,$1.14 B,5388,Taiwan,Technology,Communication Equipment
+818,"PDF Solutions, Inc.",$1.13 B,PDFS,United States,Technology,Software—Application
+819,"Digital Garage, Inc.",$1.13 B,4819,Japan,Technology,Information Technology Services
+820,"Topco Scientific Co.,Ltd.",$1.13 B,5434,Taiwan,Technology,Semiconductor Equipment & Materials
+821,PAR Technology Corporation,$1.13 B,PAR,United States,Technology,Software—Application
+822,WANdisco plc,$1.12 B,WAND,United Kingdom,Technology,Software—Application
+823,AddNode Group AB,$1.12 B,ANOD.B,Sweden,Technology,Information Technology Services
+824,Ardentec Corp,$1.11 B,3264,Taiwan,Technology,Semiconductor Equipment & Materials
+825,Future Corp,$1.11 B,4722,Japan,Technology,Information Technology Services
+826,Espressif Systems,$1.11 B,688018,China,Technology,Semiconductors
+827,Shenzhen Microgate Technology Co. Ltd,$1.11 B,300319,China,Technology,Electronic Components
+828,Silicon Integrated Systems Corp,$1.11 B,2363,Taiwan,Technology,Semiconductors
+829,"DAEDUCK ELECTRONICS Co.,Ltd.",$1.10 B,353200,South Korea,Technology,Electronic Components
+830,HAND Enterprise Solutions Co. Ltd,$1.10 B,300170,China,Technology,Information Technology Services
+831,"Transcend Information, Inc.",$1.10 B,2451,Taiwan,Technology,Computer Hardware
+832,"Greatek Electronics, Inc.",$1.10 B,2441,Taiwan,Technology,Semiconductor Equipment & Materials
+833,DeNA Co. Ltd,$1.09 B,2432,Japan,Technology,Software—Application
+834,DTS Corp,$1.09 B,9682,Japan,Technology,Information Technology Services
+835,Guangdong Ellington Electronics Technology Co. Ltd,$1.09 B,603328,China,Technology,Electronic Components
+836,Sitronix Technology Corp,$1.09 B,8016,Taiwan,Technology,Semiconductors
+837,DBAPPSecurity Co. Ltd,$1.09 B,688023,China,Technology,Software—Infrastructure
+838,Taiwan Union Technology Corp,$1.09 B,6274,Taiwan,Technology,Electronic Components
+839,"Xintec, Inc.",$1.09 B,3374,Taiwan,Technology,Semiconductors
+840,Alphawave IP Group plc,$1.08 B,AWE,United Kingdom,Technology,Semiconductors
+841,Fujian Apex Software Co. Ltd,$1.08 B,603383,China,Technology,Software—Application
+842,"Sumavision Technologies Co.,Ltd.",$1.08 B,300079,China,Technology,Communication Equipment
+843,FIT Hon Teng Ltd,$1.07 B,FITGF,Taiwan,Technology,Electronic Components
+844,"TaskUs, Inc.",$1.07 B,TASK,United States,Technology,Information Technology Services
+845,AT & S Austria Technologie & Systemtechnik Aktiengesellschaft,$1.07 B,AUS,Austria,Technology,Electronic Components
+846,Tokyo Electron Device Ltd,$1.07 B,2760,Japan,Technology,Electronic Components
+847,Opera Limited,$1.07 B,OPRA,Norway,Technology,Software—Infrastructure
+848,Toshiba Tec Corp,$1.06 B,6588,Japan,Technology,Computer Hardware
+849,Fujian Start Group Co.Ltd,$1.06 B,600734,China,Technology,Computer Hardware
+850,"Jiangsu Lettall Electronic Co.,Ltd",$1.06 B,603629,China,Technology,Electronic Components
+851,Jiangsu Etern Company Ltd,$1.06 B,600105,China,Technology,Communication Equipment
+852,"Himax Technologies, Inc.",$1.06 B,HIMX,Taiwan,Technology,Semiconductors
+853,Troy Information Technology Co. Ltd,$1.05 B,300366,China,Technology,Software—Application
+854,ITEQ Corp,$1.05 B,6213,Taiwan,Technology,Electronic Components
+855,iRobot Corporation,$1.05 B,IRBT,United States,Technology,Consumer Electronics
+856,Shenzhen Jufei Optoelectronics Co. Ltd,$1.04 B,300303,China,Technology,Electronic Components
+857,"Momentive Global, Inc.",$1.04 B,MNTV,United States,Technology,Software—Application
+858,Tong Hsing Electronic Industries Ltd,$1.04 B,6271,Taiwan,Technology,Semiconductor Equipment & Materials
+859,"Anhui Tatfook Technology Co.,Ltd",$1.03 B,300134,China,Technology,Communication Equipment
+860,Nsfocus Information Technology Co. Ltd,$1.03 B,300369,China,Technology,Software—Infrastructure
+861,Gudeng Precision Industrial Co. Ltd,$1.03 B,3680,Taiwan,Technology,Semiconductors
+862,Sino Wealth Electronic Ltd,$1.03 B,300327,China,Technology,Semiconductors
+863,"Synacor, Inc.",$1.03 B,SYNC,United States,Technology,Software—Infrastructure
+864,"ACM Research, Inc.",$1.03 B,ACMR,United States,Technology,Semiconductor Equipment & Materials
+865,Asiainfo Technologies Ltd,$1.03 B,1675,China,Technology,Software—Application
+866,"Client Service International, Inc.",$1.02 B,300663,China,Technology,Software—Application
+867,Chang Wah Technology Co. Ltd,$1.02 B,6548,Taiwan,Technology,Semiconductors
+868,Nanjing Panda Electronics Company Ltd,$1.02 B,600775,China,Technology,Communication Equipment
+869,Sunrise Technology Co. Ltd,$1.02 B,300360,China,Technology,Electronic Components
+870,Shenzhen Sunline Tech Co. Ltd,$1.01 B,300348,China,Technology,Information Technology Services
+871,Iress Limited,$1.01 B,IRE,Australia,Technology,Software—Application
+872,Pushpay Holdings Limited,$1.01 B,PPH,New Zealand,Technology,Software—Application
+873,Codan Limited,$1.01 B,CDA,Australia,Technology,Scientific & Technical Instruments
+874,Linewell Software Co. Ltd,$1.01 B,603636,China,Technology,Software—Application
+875,Primax Electronics Ltd,$1.00 B,4915,Taiwan,Technology,Computer Hardware
+876,Elecom Co. Ltd,$997.2 M,6750,Japan,Technology,Computer Hardware
+877,Formula Systems (1985) Ltd.,$995.0 M,FORTY,Israel,Technology,Information Technology Services
+878,"Beijing Teamsun Technology Co.,Ltd.",$994.9 M,600410,China,Technology,Software—Application
+879,Infinera Corporation,$993.9 M,INFN,United States,Technology,Communication Equipment
+880,Global Brands Manufacture Ltd,$989.1 M,6191,Taiwan,Technology,Electronic Components
+881,Secunet Security Networks AG,$988.9 M,YSN,Germany,Technology,Information Technology Services
+882,ArcherMind Technology,$986.7 M,300598,China,Technology,Information Technology Services
+883,Supreme Electronics Co. Ltd,$985.3 M,8112,Taiwan,Technology,Semiconductors
+884,"Model N, Inc.",$982.7 M,MODN,United States,Technology,Software—Application
+885,ChipMOS TECHNOLOGIES INC.,$981.2 M,8150,Taiwan,Technology,Semiconductors
+886,Orient Semiconductor Electronics Ltd,$980.9 M,2329,Taiwan,Technology,Semiconductors
+887,TXC Corp,$976.2 M,3042,Taiwan,Technology,Electronic Components
+888,Clenergy,$975.2 M,603628,China,Technology,Solar
+889,ESI Group,$974.5 M,ESI,France,Technology,Software—Application
+890,Esker SA,$974.1 M,ALESK,France,Technology,Software—Application
+891,Systex Corp,$973.7 M,6214,Taiwan,Technology,Information Technology Services
+892,"Fitipower Integrated Technology, Inc.",$970.6 M,4961,Taiwan,Technology,Semiconductors
+893,Beijing Highlander Digital Technology Co. Ltd,$968.7 M,300065,China,Technology,Scientific & Technical Instruments
+894,ChemoMetec A/S,$968.3 M,CHEMM,Denmark,Technology,Scientific & Technical Instruments
+895,UCloud Technology Co. Ltd,$968.2 M,688158,China,Technology,Software—Infrastructure
+896,Chenbro Micom Co. Ltd,$966.8 M,8210,Taiwan,Technology,Computer Hardware
+897,Sigurd Microelectronics Corp,$966.1 M,6257,Taiwan,Technology,Semiconductor Equipment & Materials
+898,Stratasys Ltd.,$964.2 M,SSYS,United States,Technology,Computer Hardware
+899,HNA Technology Co. Ltd,$960.5 M,600751,China,Technology,Information Technology Services
+900,"Life360, Inc.",$960.2 M,360,United States,Technology,Software—Application
+901,Raydium Semiconductor Corp,$959.2 M,3592,Taiwan,Technology,Semiconductors
+902,"A10 Networks, Inc.",$957.9 M,ATEN,United States,Technology,Software—Infrastructure
+903,"TTEC Holdings, Inc.",$956.5 M,TTEC,United States,Technology,Information Technology Services
+904,discoverIE Group plc,$956.2 M,DSCV,United Kingdom,Technology,Electronic Components
+905,Mensch und Maschine Software SE,$956.2 M,MUM,Germany,Technology,Software—Application
+906,Gosuncn Technology Group Co. Ltd,$955.8 M,300098,China,Technology,Communication Equipment
+907,"Grid Dynamics Holdings, Inc.",$955.5 M,GDYN,United States,Technology,Information Technology Services
+908,Tinexta S.p.A.,$954.3 M,TNXT,Italy,Technology,Information Technology Services
+909,HannStar Board Corp,$952.4 M,5469,Taiwan,Technology,Electronic Components
+910,"Benchmark Electronics, Inc.",$951.6 M,BHE,United States,Technology,Electronic Components
+911,Micronics Japan Co. Ltd,$951.0 M,6871,Japan,Technology,Semiconductor Equipment & Materials
+912,"ScanSource, Inc.",$948.7 M,SCSC,United States,Technology,Electronics & Computer Distribution
+913,"Ichor Holdings, Ltd.",$948.7 M,ICHR,United States,Technology,Semiconductor Equipment & Materials
+914,Focused Photonics,$948.1 M,300203,China,Technology,Scientific & Technical Instruments
+915,Coretronic Corp,$946.9 M,5371,Taiwan,Technology,Consumer Electronics
+916,Megaport Limited,$945.0 M,MP1,Australia,Technology,Software—Infrastructure
+917,Infocom Corp,$944.6 M,4348,Japan,Technology,Information Technology Services
+918,Jilin Sino-Microelectronics Co. Ltd,$942.9 M,600360,China,Technology,Semiconductor Equipment & Materials
+919,Beijing Certificate Authority Co. Ltd,$938.9 M,300579,China,Technology,Software—Infrastructure
+920,Beijing VRV Software Corp Ltd,$938.2 M,300352,China,Technology,Software—Infrastructure
+921,ADATA Technology Co. Ltd,$936.1 M,3260,Taiwan,Technology,Semiconductors
+922,"Qingdao Eastsoft Communication Technology Co.,Ltd",$931.9 M,300183,China,Technology,Scientific & Technical Instruments
+923,Shenzhen Gongjin Electronics Co. Ltd,$931.9 M,603118,China,Technology,Communication Equipment
+924,O.Y. Nofar Energy Ltd,$931.4 M,NOFR,Israel,Technology,Solar
+925,"Weimob, Inc.",$926.9 M,2013,China,Technology,Software—Application
+926,Global Blue Group Holding AG,$926.0 M,GB,Switzerland,Technology,Information Technology Services
+927,"Sonaecom, SGPS, SA",$925.3 M,SNC,Portugal,Technology,Information Technology Services
+928,WalkMe Ltd,$924.8 M,WKME,Israel,Technology,Software—Application
+929,"SMART Global Holdings, Inc.",$922.2 M,SGH,United States,Technology,Semiconductors
+930,Marketech International Corp,$921.2 M,6196,Taiwan,Technology,Electronic Components
+931,Jiangsu DongHua Testing Technology Co. Ltd,$921.1 M,300354,China,Technology,Scientific & Technical Instruments
+932,Audinate Group Limited,$921.0 M,AD8,Australia,Technology,Electronic Components
+933,"Shenzhen Yitoa Intelligent Control Co.,Ltd.",$920.2 M,300131,China,Technology,Electronic Components
+934,Skyworth Group Ltd,$920.1 M,0751,Hong Kong,Technology,Consumer Electronics
+935,"SVG Group Co.,Ltd",$916.8 M,300331,China,Technology,Electronic Components
+936,ASROCK InCorp,$915.8 M,3515,Taiwan,Technology,Computer Hardware
+937,Yalla Group Limited,$915.6 M,YALA,United Arab Emirates,Technology,Software—Application
+938,Wirtualna Polska Holding SA,$912.0 M,9DE,Poland,Technology,Software—Infrastructure
+939,Shenzhen Fine Made Electronics Group Co. Ltd,$911.2 M,300671,China,Technology,Semiconductors
+940,Insigma Technology Co. Ltd,$909.2 M,600797,China,Technology,Information Technology Services
+941,Wuhan P&S Information Technology Co. Ltd,$909.1 M,300184,China,Technology,Electronics & Computer Distribution
+942,Spirent Communications plc,$908.3 M,SPT,United Kingdom,Technology,Software—Infrastructure
+943,"Flexium Interconnect, Inc.",$908.1 M,6269,Taiwan,Technology,Electronic Components
+944,Hongli Zhihui Group Co. Ltd,$908.1 M,300219,China,Technology,Electronic Components
+945,Auras Technology Co. Ltd,$906.3 M,3324,Taiwan,Technology,Computer Hardware
+946,Zhejiang Firstar Panel Technology Co. Ltd,$906.2 M,300256,China,Technology,Electronic Components
+947,Capitalonline Data Service Co. Ltd,$903.0 M,300846,China,Technology,Information Technology Services
+948,"Enjoyor Co.,Ltd",$899.9 M,300020,China,Technology,Software—Application
+949,Chilisin Electronics Corp,$899.6 M,2456,Taiwan,Technology,Electronic Components
+950,Netac Technology Co. Ltd,$899.0 M,300042,China,Technology,Computer Hardware
+951,WinWay Technology Co. Ltd,$898.9 M,6515,Taiwan,Technology,Semiconductors
+952,SUNeVision Holdings Ltd,$898.6 M,1686,Hong Kong,Technology,Information Technology Services
+953,Equiniti Group plc,$896.8 M,EQN,United Kingdom,Technology,Software—Infrastructure
+954,"EGing Photovoltaic Technology Co.,Ltd.",$894.5 M,600537,China,Technology,Solar
+955,Taiwan Surface Mounting Technology Corp,$893.9 M,6278,Taiwan,Technology,Semiconductor Equipment & Materials
+956,"AAEON Technology, Inc.",$892.0 M,6579,Taiwan,Technology,Computer Hardware
+957,Xiamen Changelight Co. Ltd,$891.5 M,300102,China,Technology,Semiconductors
+958,Vestel Beyaz Esya Sanayi ve Ticaret A.S.,$891.1 M,VESBE,Turkey,Technology,Consumer Electronics
+959,Digi International Inc.,$888.7 M,DGII,United States,Technology,Communication Equipment
+960,Bomin Electronics Co. Ltd,$888.5 M,603936,China,Technology,Semiconductors
+961,Data#3 Limited,$887.2 M,DTL,Australia,Technology,Information Technology Services
+962,Invisio AB,$885.8 M,IVSO,Sweden,Technology,Communication Equipment
+963,"Everbridge, Inc.",$885.0 M,EVBG,United States,Technology,Software—Application
+964,GB Group plc,$881.1 M,GBG,United Kingdom,Technology,Software—Application
+965,Beijing Thunisoft Co. Ltd,$878.5 M,300271,China,Technology,Information Technology Services
+966,Shanghai Golden Bridge Info Tech Co. Ltd,$876.3 M,603918,China,Technology,Information Technology Services
+967,Ferrotec Holdings Corp,$873.6 M,6890,Japan,Technology,Semiconductors
+968,Muehlbauer Holding AG,$869.9 M,MUB,Germany,Technology,Computer Hardware
+969,TomTom N.V.,$869.8 M,TOM2,Netherlands,Technology,Software—Application
+970,DuoLun Technology Corp Ltd,$866.9 M,603528,China,Technology,Software—Application
+971,Hanwei Electronics Group Corp,$861.4 M,300007,China,Technology,Scientific & Technical Instruments
+972,NeoPhotonics Corporation,$859.6 M,NPTN,United States,Technology,Semiconductors
+973,GFT Technologies SE,$858.3 M,GFT,Germany,Technology,Information Technology Services
+974,"Shenzhen Absen Optoelectronic Co.,Ltd.",$857.8 M,300389,China,Technology,Consumer Electronics
+975,"WuHan Yangtze Communication Industry Group Co.,Ltd",$856.9 M,600345,China,Technology,Communication Equipment
+976,"Jiangsu Zongyi Co.,LTD",$855.9 M,600770,China,Technology,Semiconductors
+977,"TKD Science and Technology Co.,Ltd.",$855.5 M,603738,China,Technology,Semiconductors
+978,Toyou Feiji Electronics Co. Ltd,$851.1 M,300302,China,Technology,Computer Hardware
+979,Systena Corp,$850.0 M,2317,Japan,Technology,Information Technology Services
+980,"Hengxin Shambala Culture Co.,Ltd.",$849.9 M,300081,China,Technology,Communication Equipment
+981,"Tri Chemical Laboratories, Inc.",$848.0 M,4369,Japan,Technology,Semiconductors
+982,Clevo Co.,$847.8 M,2362,Taiwan,Technology,Computer Hardware
+983,"Sunyard Technology Co.,Ltd",$846.4 M,600571,China,Technology,Software—Infrastructure
+984,Chipsea Technologies,$843.5 M,688595,China,Technology,Semiconductor Equipment & Materials
+985,Shanghai Bright Power Semiconductor Co. Ltd,$843.3 M,688368,China,Technology,Semiconductors
+986,"GuoChuang Software Co.,Ltd.",$842.1 M,300520,China,Technology,Software—Application
+987,Innodisk Corp,$839.8 M,5289,Taiwan,Technology,Computer Hardware
+988,"Elite Semiconductor Microelectronics Tech, Inc.",$838.2 M,3006,Taiwan,Technology,Semiconductors
+989,JVCKENWOOD Corp,$831.7 M,6632,Japan,Technology,Consumer Electronics
+990,"Olo, Inc.",$830.7 M,OLO,United States,Technology,Software—Application
+991,Guodian Nanjing Automation Co. Ltd,$830.4 M,600268,China,Technology,Consumer Electronics
+992,Jiangyin Jianghua Microelectronics Materials Co. Ltd,$830.0 M,603078,China,Technology,Semiconductor Equipment & Materials
+993,"Union Optech Co.,Ltd.",$829.8 M,300691,China,Technology,Electronic Components
+994,Wuxi Chipown Micro-electronics Ltd,$829.8 M,688508,China,Technology,Semiconductors
+995,"Qingdao Topscomm Communication, Inc.",$829.4 M,603421,China,Technology,Scientific & Technical Instruments
+996,"Henan Thinker Automatic Equipment Co.,Ltd.",$825.4 M,603508,China,Technology,Scientific & Technical Instruments
+997,"transcosmos, Inc.",$819.5 M,9715,Japan,Technology,Information Technology Services
+998,Yeahka Ltd,$819.3 M,9923,China,Technology,Software—Infrastructure
+999,Beijing Wanji Technology Co. Ltd,$816.1 M,300552,China,Technology,Scientific & Technical Instruments
+1000,"Fujian Foxit Software Development Joint Stock Co.,Ltd",$811.5 M,688095,China,Technology,Software—Application
