@@ -1,0 +1,322 @@
+date;platform;country;review;star;user_id;issue_flag;likes_count;dislike_count;label
+7.07.2023;iOS;Australia;Love the itinerary sharing feature. It makes planning group trips so much easier!;5;13c95471-be12-42f6-95d1-fa3dd104909b;No;1;1;Premium Features
+12.08.2023;Android;India;The premium price is a bit high, but the features are okay.;4;945725ef-7277-4884-b717-9259af1df8d2;No;2;2;Premium Features
+12.09.2023;iOS;UK;I can't share my trip details via WhatsApp directly, which would be a great feature.;5;e3d956b8-6e00-4099-84ca-f51406e6b3f7;No;5;3;User Feedbacks & Recommendations
+12.07.2023;Android;Brazil;The price of premium is too high, could be better.;3;1fa559f7-a707-4f23-97f9-1cb92a0ba85b;No;0;0;Premium Features
+24.09.2023;iOS;India;Smooth booking experience.;3;67934645-a9bf-4283-b809-1baa3f067b19;No;2;5;General Topics
+20.09.2023;Android;USA;Premium access is affordable and totally enhances the app experience.;2;ea1c9752-8de7-4083-bf38-37ba333897d0;No;4;1;Premium Features
+14.07.2023;Android;USA;Minimal ads, they don't really bother me.;3;75ed9c45-7e02-4913-bfd4-5e33922eb70e;Yes;5;3;Ads
+29.07.2023;iOS;USA;Not too many ads compared to other apps.;2;125683fa-7e4a-4e24-a5b1-e17a67d5ed00;Yes;1;3;Ads
+3.09.2023;Android;Australia;The app crashes sometimes when I'm adding new expenses. Please fix this issue soon!;1;84cc1423-ffb1-4a72-92c5-df14a74696da;Yes;1;2;Crashes and Bugs
+6.07.2023;iOS;USA;Search button is not working, can't find any destinations.;1;156be741-5106-4c51-ae58-fae44cc740d2;No;1;4;Crashes and Bugs
+24.07.2023;Android;USA;Ads are skippable, so it's not a big deal.;4;73f5ba66-3586-4efd-80e1-0e37c3f04dfc;No;5;0;Ads
+27.07.2023;Android;UK;The app is amazing, I planned my entire trip using it!;5;c469fb50-8c9c-476e-a9e5-17da1e81b8db;No;3;1;General Topics
+26.08.2023;Android;USA;Best for travel planning.;2;611e7afc-cd2a-4286-8823-40464ed06eb7;No;3;5;General Topics
+15.08.2023;Android;UK;Overall, a decent app for organizing trips, but too many pop-ups can ruin the experience.;2;4ca6d6d0-bb98-4eb0-b994-cbfe6a31f5cb;No;3;1;Ads
+23.07.2023;Android;UK;I hate the unskippable ads, but the app itself is really helpful for managing travel plans.;2;560dcb25-8bcb-4c9b-aa81-bb7757fc76b0;No;4;4;Ads
+29.08.2023;iOS;USA;Not happy with the update, app feels slower and glitchy.;4;6217eac6-4214-4fbb-baa5-7a23a23425d0;No;3;0;Updates
+24.09.2023;iOS;India;Hate the update, it's full of bugs that need fixing ASAP.;3;75a2d434-9091-4392-affa-1719fb3923c2;No;0;2;Crashes and Bugs
+17.07.2023;Android;India;Since the update, app has been slow and unreliable, please fix it.;4;b162b887-650e-4462-acb0-909c6d56528b;No;3;2;Updates
+24.09.2023;iOS;USA;The premium features are really helpful and the price is fair.;3;4b63013c-c5ea-4876-9f60-4ad2bd71a8bf;No;4;1;Premium Features
+12.07.2023;Android;Brazil;Update removed some useful features, app is less functional now.;3;e18c191d-0d5e-46b9-a771-9d0fcfd76db9;No;3;2;Updates
+15.08.2023;iOS;USA;Perfect for group trips.;3;d4769d0f-7cbd-4bef-a6c8-b17520d2d2d9;No;2;4;General Topics
+17.08.2023;iOS;UK;Notifications can be too much.;3;e0a939a0-2e66-4f57-93a7-afb2c970b668;No;4;4;User Feedbacks & Recommendations
+29.07.2023;iOS;Australia;Premium is reasonably priced, makes the app much more functional.;2;93ed7896-b4bf-44d6-80be-14e8a3609e3b;No;3;3;Premium Features
+2.07.2023;iOS;UK;Great value for money, the premium features are really useful.;3;6af174b2-3b96-49e4-9c40-60150caa8739;No;2;0;Premium Features
+16.07.2023;iOS;UK;The app sometimes lags, but overall it's the best for keeping my travels organized.;4;3b1318c2-6a8f-45b1-920e-39ed54b3e5a5;No;2;0;Crashes and Bugs
+22.08.2023;Android;Australia;Update broke the app, can't even open it without it crashing.;1;45dd360b-9ba9-4b4a-90e1-57fc65a24c58;Yes;2;1;Crashes and Bugs
+16.07.2023;Android;UK;Simple, yet effective app.;2;1d8ea6ab-022b-48a7-ac32-ea6e1d648b28;No;5;0;General Topics
+22.07.2023;Android;India;Notifications about my flight delays saved me a lot of time at the airport. Super useful!;3;65d3d012-ce2c-4d89-b1ff-0a9b92b2da91;No;3;3;General Topics
+26.09.2023;Android;UK;Good deals on hotels.;2;bff763c8-ad8f-473e-9f03-297829f6cde6;No;4;3;General Topics
+10.08.2023;Android;USA;Frequent freezing issues.;2;57948c0d-3684-4624-94ca-4854fe8cb570;No;4;1;Crashes and Bugs
+19.07.2023;iOS;USA;Perfect for planning solo trips, but I wish it had better group planning features.;4;2c6d3e8f-2dbc-454a-8d7d-6b73432cb314;No;1;1;User Feedbacks & Recommendations
+5.09.2023;Android;UK;Useful for managing trips.;3;c2f80ac4-6b18-4617-b816-29c102ef46e5;No;5;1;General Topics
+6.08.2023;iOS;India;No more lags after the update, app feels so much faster now.;3;80b9e9af-453b-4c79-96a6-28adb04325a6;No;5;3;Updates
+23.07.2023;iOS;India;I'm having a hard time syncing the app with my Google Calendar.;4;2fa4be7b-3f81-458f-9269-74c81a268ce1;No;5;1;Crashes and Bugs
+30.08.2023;Android;USA;Keeps my plans neat.;4;acecaa6d-954a-464e-9ad3-2ad720ec10bc;No;5;2;General Topics
+13.07.2023;Android;UK;Good but needs offline mode.;4;26034520-d086-492a-96c3-d27817133270;No;2;1;User Feedbacks & Recommendations
+18.08.2023;Android;India;I enjoy the new layout after the update. It 's cleaner, but still needs some performance improvements.;2;e32dbc7f-dd11-429b-866e-b8b3f2c552d5;No;5;2;Updates
+20.07.2023;iOS;UK;Update added some cool features that make the app more user-friendly.;4;843e90a0-c7ce-46e1-b5d8-21c0b1b50991;No;3;0;Updates
+10.08.2023;iOS;USA;This app makes planning my travels so much easier! I can keep track of everything in one place.;3;997216e4-a949-4b89-bdcc-3f88db68f651;No;1;2;General Topics
+24.08.2023;Android;Brazil;TravelTracker's recommendations for nearby attractions are pretty accurate!;2;7441d978-4a95-4328-b0ba-bbfb02e58c47;No;5;2;User Feedbacks & Recommendations
+24.07.2023;Android;Australia;Ads are bearable considering the app is free.;5;c4cd1ff5-7780-4eee-88fb-2fec068a25f8;No;4;1;Ads
+1.08.2023;iOS;UK;Can't even use the app without being bombarded with ads.;4;5f68b7e3-7728-4a58-851d-c1ecc1d297d1;Yes;2;4;Ads
+14.09.2023;Android;Brazil;Great interface, but slow.;5;87e15afa-cd7f-4de0-8481-a174b9fdc18c;No;1;1;General Topics
+23.07.2023;iOS;Australia;The ads aren 't too bad, but sometimes they pop up at the most inconvenient times.;4;056e089c-f821-44f2-a668-af5099f6364b;No;3;2;Ads
+4.07.2023;iOS;UK;Ads pop up constantly, ruins the experience.;4;efcc6a14-e4d9-44a4-bb07-78d8b40818b7;No;3;5;Ads
+5.07.2023;iOS;Brazil;The ads are relevant and not too distracting.;5;883d7921-196a-4f6d-9eca-add9eb0502a2;Yes;1;3;Ads
+11.08.2023;iOS;USA;App runs smoothly after the update, no more crashes like before.;1;25629e42-22ae-4c13-a930-a092294f45a4;Yes;2;4;Updates
+3.09.2023;Android;India;Very buggy, needs updates.;2;6dad9386-677a-4753-82f0-0a677fb4d417;No;4;3;Crashes and Bugs
+19.07.2023;Android;Australia;Notifications saved my trip!;3;49c56598-c235-4e26-8dfd-3edee7f523e6;No;4;4;General Topics
+4.07.2023;Android;UK;Helpful but crashes often.;1;e6b6c2ab-d9f0-429a-b531-2be79f80a0cc;Yes;0;3;Crashes and Bugs
+29.07.2023;iOS;Australia;TravelTracker makes managing my travel plans stress-free. A few bugs, but nothing major.;2;4341987e-44b1-47c4-a564-af397239254b;No;2;2;Crashes and Bugs
+8.07.2023;iOS;UK;Thanks to the update, the app is faster and more responsive.;3;64ae3c92-e86e-46f2-a358-814df7e0e51e;No;1;4;Updates
+30.09.2023;Android;India;Smooth navigation features.;3;3ae07531-9432-4c21-bc7d-15ab98561457;No;2;3;General Topics
+13.07.2023;Android;Brazil;Flight details incorrect.;3;92af5535-cc50-43a6-a041-f96515e1288a;No;4;0;Crashes and Bugs
+22.07.2023;Android;Australia;Managing my travel expenses has never been this simple. Great app for keeping everything organized.;3;e1840491-b364-42bc-97aa-03bd6a6828a5;No;3;0;General Topics
+24.09.2023;iOS;UK;Great value for money with premium, but some features are still underdeveloped.;4;c5c344a0-ed02-4dd1-ac17-f46cac87d2ff;No;1;1;Premium Features
+5.08.2023;Android;USA;I love how I can track my expenses easily with this app.;4;5d45cdfd-ba3d-4faa-8b2f-57bec5403aca;No;1;1;General Topics
+11.09.2023;Android;India;I can see where my friends are, and their holiday photos inspire me to travel more!;4;8cbe98b2-b695-4ca1-b937-ea3f0b328e6c;No;5;5;General Topics
+12.08.2023;iOS;Australia;Troubles with booking flights.;3;a7dc5376-6328-4ab5-88c3-be480a7cd135;No;5;0;Crashes and Bugs
+2.08.2023;Android;USA;I hate the ads, they interrupt everything I do.;2;53a8db23-a966-4177-a1e0-97ce58b1de97;Yes;0;3;Ads
+1.09.2023;iOS;USA;Sharing travel photos with friends is so fun and easy.;5;79a57755-1a39-4165-b354-793190817aaa;No;5;4;General Topics
+4.08.2023;Android;Brazil;I love how I can track my expenses easily with this app.;4;efa1902b-08b2-4542-be14-4fa3696d4db1;No;2;1;General Topics
+31.08.2023;Android;India;Ads everywhere, makes navigation impossible.;4;95506870-b889-4316-bfe4-cb224f22828c;No;3;1;Ads
+29.07.2023;iOS;India;The latest update fixed all the bugs, app works perfectly now!;2;90add34f-6db1-4b5f-980a-a8a03e9ed7a9;No;3;4;Updates
+15.07.2023;Android;Australia;The user interface is confusing, I can't figure out basic tasks.;1;fb62af43-fb34-4cbf-82d0-6c945f839abe;No;5;5;General Topics
+11.09.2023;Android;Brazil;It 's nice that the app recommends nearby attractions based on my location, very handy.;2;c4962a02-f030-4033-82ad-a8cc4858ecf1;No;2;1;General Topics
+10.08.2023;Android;USA;Sharing travel photos with friends is so fun and easy.;5;27d240f4-068e-4148-a33c-d565bee8f1ff;No;2;3;General Topics
+30.08.2023;Android;USA;Totally worth the cost, premium features make the app much better.;5;005ea7ad-0bd1-4dd9-8873-d0f0358e78df;No;2;1;Premium Features
+15.07.2023;Android;UK;I wish there were more customization options for trip planning. It feels a bit limited sometimes.;2;f1143339-ee1b-4143-a694-916c8fc53d2a;No;5;4;User Feedbacks & Recommendations
+11.09.2023;iOS;Brazil;Customer support is too slow. I had to wait days to get a response about a booking issue.;4;7cbebc1e-d0cb-482f-8f90-66d424014d1c;No;1;3;Customer Support
+13.08.2023;iOS;USA;The premium features are fantastic, especially for frequent travelers. Totally worth the extra cost.;5;40a15b37-62a9-48b9-ad83-87999672f8a1;No;4;5;Premium Features
+14.09.2023;Android;India;The app constantly needs updates, and it gets frustrating when I'm in the middle of planning.;4;001f4a56-3684-4e33-b727-7654e9e17751;No;0;1;Updates
+23.09.2023;Android;India;Love the new features from the update, much smoother experience.;5;0b1019dd-93e3-4c10-b2fb-b58540a7e202;No;5;3;Updates
+8.07.2023;iOS;UK;The app is amazing, I planned my entire trip using it!;5;fab9b47a-9f2b-42f0-bd38-85449def2399;No;4;2;General Topics
+31.07.2023;iOS;USA;Premium subscription is worth every penny, love the extra features.;5;4c1d4221-6383-4d82-96a1-0a0b5537616e;No;2;5;Premium Features
+1.08.2023;Android;UK;Interface feels fresh and clean after the update, nice improvements.;3;924648d2-8a70-4bdb-a6bd-c244f2539a5b;No;4;5;Updates
+5.09.2023;Android;Brazil;Saves time and effort.;4;be13a9bf-e4e8-4bf9-a68c-7e948d002011;No;1;0;General Topics
+22.07.2023;iOS;USA;This app helped me find the best deals on hotels.;4;b9c9f054-463d-4ce7-b0a7-3b3572fc1879;No;1;1;General Topics
+1.09.2023;iOS;India;I love the app, but it doesn't recognize some of the smaller airports when searching for flights.;5;625d6a70-7b11-4b5e-8956-b7f892a9a6b0;No;2;1;User Feedbacks & Recommendations
+17.08.2023;Android;USA;Update made the app laggy and unresponsive, very frustrating.;2;593e9b0b-bcd3-4535-a27b-7383f7318136;No;5;2;Updates
+3.09.2023;Android;Australia;The itinerary feature is good, but I'd like to see an integration with my calendar app.;3;d7c1f220-a2f7-4fa7-9acc-4fcb4513edbb;No;3;2;User Feedbacks & Recommendations
+26.07.2023;iOS;USA;All my travel plans in one app, finally! No more juggling multiple websites to keep track of my itinerary.;4;385da134-bc8e-40cc-b40b-0ce3d32a19ad;No;5;3;General Topics
+29.09.2023;Android;Brazil;The app is slow and unresponsive when adding expenses.;1;be412fa6-3823-46d3-9470-56d819fcd372;No;1;3;Crashes and Bugs
+27.08.2023;Android;USA;Love that the app keeps track of my expenses automatically. Great for budgeting my trips!;5;6e66d8e3-2cb4-4b30-be3d-14148f352f71;No;0;3;General Topics
+6.09.2023;iOS;India;Very buggy, keeps freezing on my phone.;2;d6531ae9-4f30-4798-ba4f-3c1b0854c64b;No;2;5;Crashes and Bugs
+23.09.2023;iOS;Brazil;Unskippable ads make the app unbearable to use.;5;69387c91-fb21-48c1-bc71-ed41f3951d91;Yes;1;3;Ads
+2.07.2023;Android;UK;This app is perfect for group trips. Everyone can see the plan and add their own notes.;2;a8e5ba28-42ee-4510-929e-aacd86cdad33;No;2;4;General Topics
+8.07.2023;Android;Brazil;Some premium features are not as useful as advertised.;2;a63e694d-9ede-4da8-80c6-5274bec4bca7;No;2;1;Premium Features
+5.07.2023;iOS;India;Couldn't add my friends to the trip, super annoying.;1;07de0333-a05f-4cdf-93e3-06689dbaa1f7;No;0;1;Crashes and Bugs
+8.07.2023;Android;India;The interface is sleek, but it can get laggy, especially when switching between tabs.;2;512bfcc3-ed58-439b-be6b-f7f111571685;No;4;0;Crashes and Bugs
+19.07.2023;Android;Brazil;Love the reminders.;5;53e93093-2d5d-4d35-a8c4-a7f0369a2a55;No;3;0;User Feedbacks & Recommendations
+8.08.2023;Android;India;Trouble with map loading.;3;77066b48-c92f-4b6a-a316-578c730e28ec;No;0;3;Crashes and Bugs
+27.08.2023;iOS;USA;I wish the app was more responsive. It tends to lag when switching between tabs.;2;3c11615e-7535-4e7b-a818-a4cc42001ebe;No;5;3;Crashes and Bugs
+2.09.2023;iOS;USA;I keep getting logged out at random, and it's annoying to keep signing back in.;4;1649d446-3141-44d5-aca7-f56772c104ce;No;2;5;Crashes and Bugs
+28.09.2023;Android;Australia;I'm happy with the premium features, they are definitely worth it.;5;90d2695f-d84d-4329-af8e-b4f969baca38;No;5;4;Premium Features
+26.09.2023;iOS;UK;Flight alerts are helpful.;3;1abbc6ac-5fd6-4dd7-8eb6-47bae1a227e2;No;5;5;General Topics
+17.07.2023;iOS;USA;I can't get past the payment step, please fix this!;1;de9520b5-fb4a-4825-8189-a56231e330f9;Yes;1;0;Crashes and Bugs
+23.08.2023;Android;Australia;Can't add friends easily.;2;b216b6da-94b7-45e8-ae40-cf704de949d2;No;3;3;User Feedbacks & Recommendations
+9.09.2023;iOS;Australia;Premium is too expensive for what it offers, not worth it.;5;8bda090d-6826-486f-bdab-275d1109d991;Yes;5;3;Premium Features
+9.09.2023;iOS;USA;Keeps me organized, but I wish it had more features for business travel.;2;7cce5328-7e15-422b-941c-74a4ad8ed9c9;No;1;2;User Feedbacks & Recommendations
+15.07.2023;iOS;Brazil;The app is slow and unresponsive when adding expenses.;1;e5541c8e-8931-495f-97b7-5e47a4f97918;No;1;2;Crashes and Bugs
+26.08.2023;Android;India;Too many app crashes.;1;82217467-ac35-4acd-b399-d077fd43ed71;Yes;1;3;Crashes and Bugs
+13.07.2023;Android;USA;It 's great for organizing travel, but the user interface could be more intuitive.;2;113504be-7c9e-46be-93bd-94fa930176d3;No;5;1;User Feedbacks & Recommendations
+3.07.2023;Android;Australia;Premium features are good, but the price could be lower.;3;5788c2c4-b8ea-49a8-9dae-4d3240834b4b;No;1;3;Premium Features
+15.07.2023;iOS;USA;Good, but slow sometimes.;4;4fd1ea4c-f574-44ff-81bd-9e74b7fe9157;No;3;5;General Topics
+4.09.2023;iOS;India;Ad placement is good, doesn't interfere with the user experience.;4;aac0a914-200e-4153-9837-ec71a04256bb;No;4;3;Ads
+1.09.2023;Android;UK;I can't access some of my past trips in the history tab. Please fix this!;4;b652f957-32a3-4d81-bd1b-37e0cf4f1778;No;3;1;Crashes and Bugs
+3.08.2023;Android;UK;The update has made a huge difference, very satisfied with the changes.;4;f27d1561-ffbd-49e1-b0c7-f5b2d08deb80;No;4;2;Updates
+8.08.2023;Android;USA;I like the new look of the app after the update, much better.;4;7c569b5d-55a9-431f-8b51-dad26e5790bf;No;4;0;Updates
+6.08.2023;iOS;Brazil;Map pins are off.;2;87306ed2-3b23-4f80-841e-c93e652dbcef;No;0;3;Crashes and Bugs
+19.07.2023;Android;India;Premium doesn't add enough value for the cost.;3;d1c76a90-fc69-4af6-a51b-e9fa282b11cf;No;4;1;Premium Features
+20.08.2023;Android;UK;The ads are way too intrusive, can't enjoy the app.;3;9ec447b7-f4fc-46e8-ad20-d04dfeeceb8b;Yes;0;5;Ads
+26.08.2023;iOS;USA;I can see where my friends are, and their holiday photos inspire me to travel more!;5;f28f3932-703a-4aaf-a291-1573ec5eed58;No;2;2;General Topics
+21.08.2023;Android;India;Slow customer support.;2;46a952e2-661b-431e-a665-062250d31200;No;1;0;Customer Support
+16.08.2023;Android;India;Annoying pop-ups.;2;01179513-7ab7-4c62-8f9f-a6a7a3919d10;No;3;0;Ads
+8.08.2023;Android;USA;I can see where my friends are, and their holiday photos inspire me to travel more!;4;086259f8-e445-48e0-8076-f099588272d9;No;4;0;General Topics
+6.09.2023;Android;Brazil;The app is good, but the ads are unbearable.;5;43c4d099-0cce-4cdd-a5b3-590624f8e248;Yes;3;2;Ads
+19.07.2023;Android;UK;The user interface is confusing, I can't figure out basic tasks.;1;ef474226-0671-4f33-94af-7d8760787d15;No;1;2;User Feedbacks & Recommendations
+3.09.2023;iOS;Australia;Update made the app way better, great job fixing those bugs!;2;b271a3cf-a3d2-478d-8eac-2e6ce682a66e;No;5;4;Updates
+21.07.2023;Android;UK;I absolutely love how I can see my friends' travel photos and get inspired for my next trip.;5;8c2f16fa-0c02-43db-9822-033b08aa0aaa;No;4;3;General Topics
+26.07.2023;Android;India;The booking confirmation took too long to appear, and I had to restart the app twice.;4;f25123e8-c21d-400d-8404-2c045782aa49;No;2;4;Crashes and Bugs
+2.09.2023;Android;USA;Tried to share my itinerary but it keeps failing.;2;d08bcbaf-0a1f-41d5-9961-6afaa12b516e;No;4;2;Crashes and Bugs
+22.07.2023;iOS;Australia;Booking hotels through the app was smooth and effortless. Found great deals I couldn't find elsewhere.;5;49d56876-30b1-4628-85cd-e92b16a4cd1b;No;3;4;General Topics
+9.07.2023;iOS;Australia;The search button often doesn 't work, and I have to restart the app to find what I need.;4;90aad89a-3613-4e80-8639-e2e224e69dc6;No;3;5;Crashes and Bugs
+15.09.2023;iOS;Brazil;Helpful but glitchy.;4;9ae9dcd3-089f-49a8-a51c-635ccc589225;No;1;1;Crashes and Bugs
+19.08.2023;Android;USA;Premium unlocks great features, definitely worth the upgrade.;5;d7e7caa3-326b-4b12-9fa4-80e4045df80e;No;4;2;Premium Features
+15.08.2023;Android;UK;The new update fixed a lot of issues, but now the app is slower. Still better than before.;4;13387dc4-1ba0-412b-a2f5-84f2b500b216;No;4;5;Updates
+17.09.2023;Android;UK;Limited destination options.;4;d3abbdec-b64c-4585-9e47-356c69adc362;No;4;4;General Topics
+6.09.2023;iOS;Australia;Premium tools are a game changer, worth the price.;5;c58b5e45-35da-42eb-bf97-a092b3d04074;No;2;1;Premium Features
+9.07.2023;iOS;Brazil;Organizing my trip and splitting costs with friends is so easy with this app. Highly recommend it!;2;687f9a64-9cc6-42fb-8cb9-98f6f5405067;No;2;5;User Feedbacks & Recommendations
+25.08.2023;Android;UK;I enjoy the premium features, it's a good investment for travelers.;4;33e3e63a-184a-4084-b4eb-3d1c9fdfc02d;No;3;4;Premium Features
+29.09.2023;Android;India;The app keeps logging me out, which is really annoying, especially when I need to check my bookings.;1;58049d66-8a2f-47ba-89f2-eedeea248f0a;No;3;1;Crashes and Bugs
+11.07.2023;Android;USA;App feels new and improved thanks to the recent update, well done!;4;b9220c77-ea80-4b2d-8b77-eaf87bfaaa83;No;4;4;Updates
+13.08.2023;Android;USA;Tried to share my itinerary but it keeps failing.;2;9a5a79f5-e1ba-4a4b-9a50-8ceb7107c034;No;4;1;Crashes and Bugs
+29.08.2023;iOS;Brazil;Great app for planning!;5;d43ac6c7-2298-4495-930a-766de3a91418;No;0;3;General Topics
+30.09.2023;Android;Brazil;Flight bookings take time.;2;fa161c5c-2749-41c5-bfcf-1abc4db224c2;No;3;5;General Topics
+3.08.2023;iOS;UK;TravelTracker saved me during my last trip when I lost my printed itinerary. Everything was in the app.;3;0ebd89b6-1cdf-451a-9943-d21053480c6e;No;5;4;General Topics
+22.08.2023;Android;USA;Love tracking my expenses.;5;f3b8a383-14f0-4068-8752-70c1a8b62a4e;No;1;1;General Topics
+18.07.2023;iOS;USA;Too many ads, it's annoying to use the app.;1;0137c348-4d62-45ba-9e69-b4f34fbcd368;Yes;3;2;Ads
+2.08.2023;Android;USA;The premium features are helpful, but some are a bit buggy. Needs more polishing.;4;31eae075-43f1-4ee9-97b6-5ceb020d053c;No;0;0;Premium Features
+24.07.2023;iOS;Brazil;Finally, the update addressed the loading issues, very happy with this!;3;0a085e2b-b4d2-484d-989b-7069b11fd7db;Yes;1;1;Updates
+12.08.2023;Android;Australia;Update is a step backward, app worked better before these changes.;3;24a52eab-b56d-43b1-8d04-08f0e1356463;No;3;2;Updates
+19.07.2023;Android;Australia;Good app overall, but the frequent ads can be a turn-off.;3;cdc01180-eb40-40eb-a9a1-99bb773e54eb;No;2;0;Ads
+27.08.2023;Android;Australia;Too many pop-ups, can't use the app properly.;1;25c5546d-bc6b-471b-91a0-47f522c1e637;No;3;1;Ads
+19.08.2023;Android;Australia;The price for premium is quite reasonable given all the extras.;2;eec38844-ca50-4c4c-9d83-b01970955776;No;2;1;Premium Features
+29.09.2023;iOS;Australia;Great for trip budgeting.;5;55df08ab-9804-44ee-87be-326f61830f1c;No;0;3;General Topics
+14.09.2023;iOS;USA;It's like having a personal travel assistant in my pocket.;5;8f1cb3d8-30d7-4c25-a7b4-00673b5052f6;No;0;4;General Topics
+5.09.2023;iOS;India;I can see where my friends are, and their holiday photos inspire me to travel more!;4;f25711fe-e753-478b-bfe1-d52e69a1eeb7;No;3;0;General Topics
+21.09.2023;iOS;UK;Best decision to go premium, loving the exclusive tools available.;4;9dcd71e3-2e9f-4dc7-be9b-e96721c32f47;No;3;5;Premium Features
+3.09.2023;Android;USA;The new update looks good, but the app crashes every time I try to open the map feature.;1;6af2acf6-8cd3-4bf8-b641-a0f7e74660d0;Yes;2;1;Crashes and Bugs
+24.07.2023;iOS;USA;The app is slow and unresponsive when adding expenses.;1;7cc87636-f5b9-4f6a-9d7b-3ca4dab690d5;No;4;2;Crashes and Bugs
+6.07.2023;iOS;Brazil;Easy to share itineraries.;3;145d0d67-b7a0-41e2-8d68-082d541fe62b;No;0;1;General Topics
+6.09.2023;Android;UK;I love that it shows me alternate routes when my flight gets delayed.;5;6b079cef-6dfd-462d-a38a-45ac86a0d509;No;2;3;User Feedbacks & Recommendations
+25.07.2023;Android;India;Keeps me on track.;4;cf7ffab2-871c-4bbb-af44-30b1011e6172;No;2;0;General Topics
+17.08.2023;Android;USA;Great for finding spots.;5;842f8cff-aad2-4648-90a8-703bd69c6693;No;0;2;General Topics
+18.09.2023;Android;India;Flight alerts are on point, but I hate that the app crashes when I try to view my tickets.;1;3b5dd97a-e7f2-4a22-943a-ebd38e2e06e9;Yes;2;5;Crashes and Bugs
+31.07.2023;Android;Brazil;Premium subscription unlocks so many helpful tools, definitely worth it.;5;10de106f-7c32-4882-a2de-4a59eadd291b;No;3;0;Premium Features
+14.07.2023;iOS;India;Premium subscription is a must for anyone who travels frequently.;2;7bd9fe7b-c14d-4eec-b22a-e205b2dc6c9d;No;5;0;Premium Features
+14.07.2023;iOS;USA;Terrible app, it crashes at the home screen!;1;841293b4-eef4-4831-8a5d-7afea74ce720;Yes;3;1;Crashes and Bugs
+25.07.2023;Android;USA;I can 't stand the constant updates. It feels like there 's a new version every week.;2;bb98b616-0b0e-423f-b9c8-29fbf3dabe46;No;5;3;Updates
+19.09.2023;Android;USA;Useful but crashes randomly.;1;416a26ce-6269-4468-a101-7d9eb176d205;Yes;2;5;Crashes and Bugs
+9.09.2023;iOS;India;Helpful for trip organizing.;3;13149d24-d353-43b4-9869-1604ce26ce16;No;3;2;General Topics
+22.08.2023;iOS;India;It's like having a personal travel assistant in my pocket.;4;23de9ee4-3762-4b9e-9803-6b149241b897;No;5;2;General Topics
+19.09.2023;Android;UK;Ads are annoying, especially when you 're in a rush. A premium ad-free version would be nice.;1;7f0a0241-8317-4d76-b930-eedcb92955ce;No;3;2;Ads
+31.08.2023;iOS;USA;Disappointed with the update, it's causing more problems than it solved.;4;4033d98a-b163-4acc-a25d-09f223b419f1;No;2;4;Updates
+9.08.2023;Android;UK;The update caused the app to freeze on the main screen.;4;ad7c9668-1068-4739-a248-a21df4f21646;No;2;1;Crashes and Bugs
+15.08.2023;Android;Australia;Couldn't add my friends to the trip, super annoying.;2;85d90159-c1b2-4c41-a75f-7df7e2a5e8af;No;1;0;Crashes and Bugs
+20.09.2023;Android;UK;I love the expense tracking feature, but I wish the app was a bit faster when loading my data.;5;681176cd-eb7f-4e51-bd25-e7125a46175d;No;3;4;User Feedbacks & Recommendations
+14.08.2023;iOS;UK;The best part is being able to see where my friends are traveling. It's like a social network for travelers.;3;35c73038-414c-48c4-a2dd-28e447481b10;No;2;3;General Topics
+9.07.2023;iOS;USA;Great app for keeping my travel plans neat, but too many unnecessary notifications.;2;300ed28b-a113-4512-8b6e-0eaf8246b646;No;1;0;User Feedbacks & Recommendations
+7.07.2023;iOS;Australia;Tried to share my itinerary but it keeps failing.;1;6e3d49ad-c84d-4e65-9295-bab0c4c4c5c8;No;5;1;Crashes and Bugs
+19.09.2023;Android;USA;Best app for travel planning, but the social sharing features need some work.;4;b656b3e8-a4d4-407d-aaec-6c6a01fc7a54;No;1;4;User Feedbacks & Recommendations
+11.07.2023;iOS;India;The premium features are nice, but too pricey for my taste.;2;9d3c2290-6c1c-451c-89eb-72a4df9026ae;No;5;1;Premium Features
+11.07.2023;Android;USA;Ads help keep the app free, so I don't mind.;3;bd34776c-0251-4b39-9b61-1241b861c0eb;No;5;3;Ads
+9.07.2023;iOS;USA;Too costly for what you get in the premium version.;4;7316af1d-83cb-4dbe-8802-24a364a1fc78;No;3;2;Premium Features
+31.08.2023;iOS;Brazil;The payment feature needs improvement. It fails when using international cards.;1;179b574a-ea31-4968-af77-4911d117aa66;Yes;4;4;Premium Features
+6.07.2023;Android;USA;Error messages keep popping up, very frustrating!;1;bb24494f-3c29-494e-a6bb-3c02a167fcb5;No;5;1;Crashes and Bugs
+12.08.2023;Android;Australia;Keeps me updated.;2;2e3fc9e2-3b78-4170-b610-6444d80381c6;No;0;3;Updates
+13.09.2023;iOS;USA;I can easily split expenses with friends, so convenient!;4;bf0dfea3-fafb-4e01-ae34-0da3893163ba;No;4;1;General Topics
+3.08.2023;Android;USA;Not impressed with the update, app performance has declined noticeably.;2;6fe0615d-2086-4bd0-84a8-ef83a0fd8c55;No;2;1;Updates
+26.09.2023;iOS;UK;Booking flights and hotels is easy, but the customer support response time is slow.;4;c0c11d12-e280-4500-9dfa-982b41155f99;No;5;5;Customer Support
+27.07.2023;Android;UK;Ads are fine, they don't pop up too often.;2;69791712-a8b5-4445-9b4c-a11839974cc1;No;4;3;Ads
+10.08.2023;Android;UK;Ads are a bit too frequent, but they 're not a dealbreaker considering the app is free.;3;68faa7aa-a4bc-43c7-bac4-226880edca35;No;0;2;Ads
+24.07.2023;Android;USA;The app's map feature doesn't load properly on my phone, making it hard to find saved locations.;4;63908f92-aee9-4eff-9edf-5214dfc8ed0d;No;0;2;Crashes and Bugs
+31.07.2023;Android;USA;Perfect for solo travelers.;3;ec5674fd-660e-441b-b5ca-088c8b2429ef;No;3;2;General Topics
+1.09.2023;iOS;Brazil;Really appreciate the extra features with premium, totally worth it.;5;9600b1a6-4b2c-4ab4-8acd-12de8bb35b4f;No;3;0;Premium Features
+17.09.2023;Android;Brazil;It would be great if the app supported offline access for my saved itineraries.;5;dcf3a0d0-6a2c-4ab5-b525-5dd10118c1a2;No;3;5;User Feedbacks & Recommendations
+19.09.2023;Android;Brazil;Cannot sync with calendar.;2;fd954fca-b132-4470-8a1e-e7f57510e954;No;5;0;Crashes and Bugs
+19.07.2023;iOS;UK;Great update, especially loving the new layout and design changes.;5;5500c90f-b440-4cb5-b3e6-035e41026d83;No;2;4;Updates
+9.09.2023;Android;Australia;Update messed up the app, now it's crashing more than before.;1;d3e8aaae-7776-4ad9-bf39-e4bf7f8cbd0c;Yes;3;5;Crashes and Bugs
+30.09.2023;Android;Brazil;I love how I can track my expenses easily with this app.;4;1ecbd1bf-de16-4a79-bbe3-ea6f6df91f6d;No;4;5;General Topics
+28.08.2023;iOS;UK;It's great for tracking everything, but please add a feature to export my travel logs as PDFs.;5;c5f6f376-14c8-489f-9390-e50f8e52e5da;No;3;4;User Feedbacks & Recommendations
+14.07.2023;iOS;USA;I expected more from the premium subscription, not impressed.;3;9ec4511c-41bc-4471-b40c-ef3d49da80fc;No;4;0;Premium Features
+24.07.2023;Android;USA;Terrible app, it crashes at the home screen!;1;c417c5ca-3113-48bf-a8af-9607b37ffca5;Yes;2;2;Crashes and Bugs
+18.07.2023;Android;Australia;Simple and user-friendly.;2;22e89867-e6c7-4f63-8512-93c4538b0dbe;No;2;0;General Topics
+9.09.2023;Android;Australia;Maps don't load properly, hard to find my saved locations.;1;f33a54a8-c404-4919-aefe-fce746427742;No;0;2;Crashes and Bugs
+4.09.2023;Android;UK;App was fine before, the update has made it almost unusable.;3;e8814320-2ac1-4933-be32-0f3486be051f;No;2;0;Updates
+3.08.2023;iOS;USA;Some features missing.;2;7b71cb5b-9a52-4c4b-854e-bd81ad4b959c;No;2;4;User Feedbacks & Recommendations
+13.09.2023;iOS;UK;Recent update improved navigation, finding everything is much easier now.;3;b6492b0a-ea55-47de-9d2d-d822e35481a2;No;1;4;Updates
+11.09.2023;Android;USA;Using this app for business trips makes everything so much more efficient.;3;239a9017-be1a-4668-9772-e299e96894a3;No;2;4;General Topics
+17.08.2023;iOS;Australia;I appreciate the real-time updates on my bookings, but the app tends to freeze occasionally.;3;2663cd9f-d78a-4064-aea6-2d8f156c6899;No;0;1;Crashes and Bugs
+26.09.2023;iOS;USA;Couldn't add my friends to the trip, super annoying.;1;46d4c594-ae87-43a3-8cb5-c5f55e8144ce;No;5;3;Crashes and Bugs
+26.09.2023;Android;UK;The app does a good job of keeping all my travel details in one place, very organized.;4;2f25d8f9-041c-466a-9b98-696d041ac973;No;0;3;General Topics
+22.08.2023;iOS;India;The latest update made the app slower. It used to work perfectly before.;4;33ae811a-e261-49fd-a3b5-30d93ea971d1;No;1;3;Updates
+26.07.2023;Android;Australia;Excellent travel assistant!;3;1fd53efc-9348-43e4-ae55-914437bebc2d;No;3;1;General Topics
+28.09.2023;Android;Australia;I can't get past the payment step, please fix this!;2;9f38669c-b82f-4bee-88c4-9548cb87aa6f;Yes;3;2;Crashes and Bugs
+30.09.2023;Android;USA;I can 't access some of my saved places after the update. Please fix this.;2;e2e81d44-94b3-4db4-b1fc-4cc811ddd084;No;2;2;Crashes and Bugs
+16.08.2023;Android;Brazil;Love the map integration.;5;a461f8f2-ae94-415c-b6bd-059101d9e6fd;No;5;5;General Topics
+24.09.2023;Android;Brazil;The map doesn't always show the correct location pins, which is frustrating.;3;5c519bb0-3dc9-4326-9499-e5a6c24e5124;No;5;1;Crashes and Bugs
+12.09.2023;Android;UK;The app is slow and unresponsive when adding expenses.;2;70cf40bc-6a68-4166-a4d7-cddce568b01a;No;4;5;Crashes and Bugs
+8.07.2023;Android;Australia;Payment process needs fixing.;4;44101e27-4697-478d-95ea-a343a3cd1adb;No;5;1;Crashes and Bugs
+16.09.2023;Android;USA;Too many ads, especially when booking something.;1;3dd23de7-aa5e-4b19-ba8d-24dc2a58d354;Yes;4;5;Ads
+8.09.2023;Android;Brazil;App crashes too often.;1;72aefc8d-ab4f-466b-873a-2f5a7e45c508;Yes;1;2;Crashes and Bugs
+16.08.2023;Android;USA;Ads make the app glitchy, not happy with this.;3;e7fc6994-23f9-49d9-9aa8-35ff6ef8436d;No;3;1;Ads
+21.08.2023;Android;USA;Some hotels I booked through the app didn't have the correct check-in details.;3;bcff003e-d3fa-45d6-bd28-8dea6799d33b;No;1;3;General Topics
+23.07.2023;Android;USA;Ads are not too intrusive, can still use the app easily.;5;a0d5bdc5-5e04-42b3-8f18-d990e0886d1a;No;1;2;Ads
+23.08.2023;Android;USA;Love how I can track expenses, but the interface feels a bit outdated.;5;bed434fb-9d4f-47cb-a20c-8489d1739a4b;No;0;3;User Feedbacks & Recommendations
+30.09.2023;Android;Brazil;Sometimes unresponsive.;4;0b2d95a6-09b0-452b-8884-1529f99011e8;No;3;5;Crashes and Bugs
+14.09.2023;Android;India;Flight alerts are very accurate and have saved me from missing several flights.;3;24129b24-4615-4db1-a025-21305c7da9e9;No;0;0;General Topics
+19.08.2023;iOS;UK;New update removed the features I used the most, not happy.;1;4bdb1f65-ab4a-4bbe-9af6-7d1f49acea9c;No;5;3;Updates
+16.08.2023;Android;India;It's like having a personal travel assistant in my pocket.;5;6e9515fd-2cfd-4689-af69-22947b2b010b;No;3;4;General Topics
+15.09.2023;iOS;India;Sharing my travel photos and itineraries with friends has never been easier, love this feature.;5;1dc55d08-adfb-4232-8645-21b56cd87ba6;No;3;0;Premium Features
+4.07.2023;Android;Brazil;I can't get past the payment step, please fix this!;1;51f28522-d89e-4a3b-bd90-bf306e1e087e;Yes;2;4;Crashes and Bugs
+16.09.2023;Android;USA;The recent update improved a lot, but the search function is still too slow.;4;d6bb6746-0570-449a-aefa-a4c4065b8faa;No;3;5;Updates
+6.09.2023;Android;USA;Sharing trip details with my friends is so easy now. I just wish there were more customization options.;2;73ea6591-6804-48a8-8900-f9eff6cd42ef;No;2;0;User Feedbacks & Recommendations
+23.07.2023;Android;USA;The app is great for planning trips, but it crashes too often which makes it frustrating to use.;1;721450c0-d7aa-474a-b581-321d3d6ca26c;Yes;0;4;Crashes and Bugs
+25.09.2023;iOS;India;The user interface is confusing, I can't figure out basic tasks.;1;1b9fde12-0c24-4d43-9645-fa224d07b8d5;No;3;3;User Feedbacks & Recommendations
+11.09.2023;iOS;Brazil;Affordable premium subscription, really helps with my trip planning.;4;5105e041-b8a1-4f10-9df4-6f32534ea159;No;2;3;Premium Features
+30.09.2023;Android;USA;App fails during payments.;1;b6520e87-19fa-4e3a-a860-e0c73b376718;Yes;4;5;Crashes and Bugs
+15.08.2023;iOS;Australia;Confusing user interface.;4;98532cbb-5c8c-47c1-8d9a-aa5ddb16c48f;No;3;2;General Topics
+8.09.2023;Android;India;Notifications are great, but I wish I could customize them more.;5;bd593773-fca7-4c1f-b155-c287544f32f6;No;3;1;User Feedbacks & Recommendations
+3.07.2023;iOS;USA;Keeps my trips organized.;2;7d4c9399-0800-49ba-a761-861749695ad4;No;5;2;General Topics
+12.08.2023;iOS;Australia;I love planning my trips with TravelTracker, but sometimes it logs me out for no reason.;5;12ca1ca3-0221-4883-b4f5-b8613bddcbee;No;2;5;Crashes and Bugs
+21.08.2023;iOS;USA;Best for itinerary planning.;4;c412f847-39d2-47fc-bc32-554b5900a04c;No;5;4;General Topics
+2.09.2023;Android;UK;I can't get past the payment step, please fix this!;2;fc603219-c8a7-40e8-8c65-a83bc38f5d90;Yes;1;1;Crashes and Bugs
+19.08.2023;iOS;UK;The app helps me find great spots for food and sightseeing based on my itinerary.;5;420fce86-ac43-4029-9891-ae3c40e7a2b0;No;5;0;General Topics
+4.09.2023;Android;Australia;Expense tracking works well, but I wish it could auto-categorize my spending.;3;0d70d2a5-6874-44c2-a08a-ea2824e1f9fd;No;5;3;User Feedbacks & Recommendations
+3.07.2023;Android;Australia;Quick access to itineraries.;2;84f75d9e-8985-4d83-8d30-e5b04da81e9e;No;4;2;General Topics
+19.07.2023;iOS;USA;Maps don 't always load properly, which makes navigation a pain when you 're in a new city.;2;a2544ff2-df68-499d-8a81-4c3f40f2c76c;No;5;4;Crashes and Bugs
+9.09.2023;iOS;USA;Payment process needs improvement it often fails when I'm trying to book something last minute.;1;5c9841a6-2bfe-467c-8868-63d83d6d7b28;Yes;1;2;Crashes and Bugs
+12.09.2023;iOS;Brazil;The app is slow and unresponsive when adding expenses.;1;985d8a12-4a40-4a82-a24e-a304307e0fea;No;1;1;Crashes and Bugs
+12.07.2023;Android;India;Good but needs work.;4;9c7c4022-e3e7-4d67-afdd-7d240d6efbab;No;1;4;User Feedbacks & Recommendations
+10.07.2023;Android;USA;The ads are bearable, but I 'd prefer to pay a small fee to remove them entirely.;3;41dbddcc-fbe7-4ac9-8c56-b38896444fce;No;0;4;Ads
+6.09.2023;Android;Brazil;After the update, the app crashes at least once every session.;1;95f6b269-a735-432d-8055-d6f3530584f2;Yes;5;4;Crashes and Bugs
+16.08.2023;iOS;India;App needs more offline features. I can 't always rely on having an internet connection when I travel.;4;2372d2b8-c073-4459-b620-fe8ce240b665;No;1;4;User Feedbacks & Recommendations
+19.09.2023;Android;India;Love the premium features, makes my travel planning so much easier.;2;4308ef0b-cd4f-466f-b32f-21a3f9dccecb;No;5;4;Premium Features
+18.07.2023;iOS;USA;Search button is not working, can't find any destinations.;2;28ac1e74-ff75-41a2-a2b8-bcd0e557ad41;No;2;4;Crashes and Bugs
+10.07.2023;Android;USA;Annoying bugs in the app.;3;d058179a-8578-4eb6-8c9a-b36c3a7b67b5;No;1;5;Crashes and Bugs
+2.08.2023;iOS;USA;It would be nice to have a feature that suggests travel tips based on my current location.;3;b3637d8e-450b-4303-adf4-ca87f9cc626f;No;3;3;User Feedbacks & Recommendations
+11.07.2023;iOS;UK;Useful for frequent travelers.;2;50ca04e6-c41f-430a-bc02-e640b87f7745;No;2;1;General Topics
+8.08.2023;Android;USA;Slow to load itineraries.;2;f828c70c-380d-4d4b-8a75-bf58f7a09b73;No;0;0;Crashes and Bugs
+20.08.2023;Android;UK;The app is slow and unresponsive when adding expenses.;1;ebd702d4-12a0-4809-93bd-3602cd55a049;No;3;1;Crashes and Bugs
+18.07.2023;Android;Brazil;I don't mind the ads;3;c4cd1ff5-7780-4eee-74fb-2fec013a25f8;No;2;1;Ads
+2.08.2023;Android;India;I can't get past the payment step, please fix this!;2;3e09b87f-a3e6-4cdc-af84-4bec26674e65;Yes;5;3;Crashes and Bugs
+18.09.2023;Android;UK;Too many ads ruin the experience, especially when trying to book flights quickly. Please reduce them!;3;5e4ba869-042f-4bef-868b-20bd5ea66d42;No;0;2;Ads
+20.07.2023;iOS;India;Ads slow down the app, it's really frustrating.;2;f6af7b51-6f09-401e-b6e9-dbf69e0afabb;No;0;3;Ads
+24.09.2023;Android;Australia;Search results inaccurate.;2;c760a109-b2e0-43cb-b856-b0c87f61e2b7;No;4;4;General Topics
+5.08.2023;Android;USA;The search function is really slow, and sometimes it doesn't show any results at all.;4;98f0baa1-32e6-43b9-ad58-a18c2ed2980a;No;2;1;Crashes and Bugs
+27.09.2023;Android;UK;Payment fails frequently.;1;2d2322c9-484b-4c62-a6a8-7a15fc088923;Yes;7;3;Crashes and Bugs
+4.09.2023;iOS;UK;I can finally keep track of my trip expenses without needing a separate app.;4;8671971b-e2bc-433c-933f-07373c8d3138;No;3;5;General Topics
+28.08.2023;Android;Brazil;Always updating, annoying.;3;1ebb2c6c-56c8-4596-ad2a-3d0be5d40f6f;No;2;5;Updates
+23.09.2023;Android;USA;Too many login issues.;3;e0aa6196-f8a3-45fa-91a8-596d55fdf773;No;2;0;Crashes and Bugs
+22.07.2023;Android;UK;The user interface is confusing, I can't figure out basic tasks.;1;c7fc43ea-b8e3-419e-a483-9f6044cc1351;No;3;2;User Feedbacks & Recommendations
+30.07.2023;iOS;India;Tried to share my itinerary but it keeps failing.;1;a5f8b130-7380-4869-be0e-1205426167b7;No;4;2;Crashes and Bugs
+8.09.2023;Android;Brazil;Every time I open the app after the update, it freezes immediately.;3;26909ab9-e3b4-40f1-a641-130cec9806de;No;2;1;Crashes and Bugs
+21.09.2023;iOS;India;App keeps logging me out after the update, very annoying.;3;d942cd8d-26aa-4078-bfab-598dc9bc496f;No;2;1;Crashes and Bugs
+27.09.2023;Android;USA;Ads pop up at the worst times, please fix this.;4;1cad4e9f-feec-4af0-beda-30fa0c78b1bc;No;4;1;Ads
+16.07.2023;Android;USA;Always crashes on startup.;1;0aadfc96-d144-4ef8-a4fe-831526e07474;Yes;4;3;Crashes and Bugs
+15.07.2023;Android;Brazil;Frequent crashes make the app unreliable, but it 's still the best I 've found for trip planning.;1;4a84faf5-4430-4959-a33d-e5ecb9cf1541;Yes;0;3;Crashes and Bugs
+4.08.2023;iOS;USA;Keeps all my travel documents in one place. No more lost tickets or confirmation emails.;2;b4486f41-8942-450d-a911-3c75d3baa3ec;No;4;2;General Topics
+2.08.2023;Android;India;Update brought in some handy features, especially for tracking expenses.;2;b634f700-8398-43e0-b1d2-6346b18a04c2;No;2;1;Updates
+1.07.2023;Android;Brazil;I've been using TravelTracker for all my trips, and it's been a lifesaver for keeping me on schedule.;2;2036f301-c863-4b69-960f-11b08137dca2;No;1;3;General Topics
+21.09.2023;iOS;India;Not sure if the premium is worth the extra cost.;5;8b3122d0-20c5-4421-bf28-a9fac45ca015;No;5;1;Premium Features
+19.09.2023;iOS;Brazil;Great app, but the notifications can be a bit overwhelming at times.;4;ad364359-a846-42ba-8ef9-eb6089ce26df;No;1;3;User Feedbacks & Recommendations
+30.07.2023;Android;Australia;The user interface is confusing, I can't figure out basic tasks.;2;4bcde44c-f58f-4e2e-a085-ccf5942a5f7b;No;3;4;General Topics
+3.07.2023;Android;Brazil;Love the map integration, but the location accuracy could be improved.;5;d7082a89-c26a-4c50-a727-844f3c8383d8;No;3;5;User Feedbacks & Recommendations
+14.09.2023;iOS;UK;Saves all my travel docs.;2;2f5ba574-122d-49ae-b2f5-4d4595bfd284;No;2;2;General Topics
+24.07.2023;Android;Brazil;Update is buggy, constantly showing error messages during use.;4;4b6db955-a9b4-4bab-b238-fe09a128a0ac;No;3;3;Crashes and Bugs
+26.09.2023;Android;USA;The update looks nice but the functionality has taken a hit.;2;b38958dc-edf8-487a-b378-e192c371604e;No;1;4;Updates
+27.09.2023;Android;Brazil;The app fails to load past trips sometimes, which is annoying when I need old details.;1;a437b3cc-43c8-470d-a8c6-7164523bb481;Yes;4;4;Crashes and Bugs
+22.09.2023;Android;UK;App performance improved significantly after the recent update, great job!;4;77f5f802-d997-42e7-9987-a0235bd07706;No;1;3;Updates
+5.07.2023;iOS;USA;The UI could be a bit more intuitive, but overall it's a solid app for frequent travelers.;2;ad1dfeb8-8483-48d4-94b5-acb8fc38ce37;No;5;3;User Feedbacks & Recommendations
+6.09.2023;Android;UK;Loving the new update, everything feels faster and more reliable.;2;a28debfe-40eb-4923-aeae-3d463d9d4692;No;5;4;Updates
+22.09.2023;Android;Australia;The recent update made things worse, keeps freezing every time I use it.;3;47195787-a857-4864-b9fd-583f12b3177e;No;0;1;Crashes and Bugs
+21.08.2023;Android;Australia;Easy to plan trips.;3;419b49c0-5792-4f3f-bafe-9e2a8559196d;No;4;2;General Topics
+15.07.2023;Android;USA;The update really enhanced the user experience, it's much more intuitive now.;4;8d186d4a-26c8-4eab-9530-0311d5e6c354;No;4;1;Updates
+2.07.2023;Android;India;Search button is not working, can't find any destinations.;2;2c06caec-d063-4f5d-9f3b-604f1e60fc66;No;4;0;Crashes and Bugs
+11.08.2023;Android;Australia;The premium version is priced well, great value for frequent travelers.;5;9b4f721f-8353-498b-a88e-3b21651ff8ff;No;1;2;Premium Features
+22.08.2023;iOS;USA;The premium subscription unlocks so many useful features. I couldn 't imagine traveling without it now.;2;4e7997a8-fb15-4928-a9d7-8618ef3349e2;No;1;3;Premium Features
+22.08.2023;iOS;India;The app is a great travel companion, but I 'd like to see more integrations with other travel tools.;2;c5a02cae-f163-4fd9-afc8-536edf3a1e97;No;5;1;User Feedbacks & Recommendations
+24.08.2023;iOS;USA;Lags during flight search.;4;d8158ae1-0beb-40bc-9d66-1ad88226c72f;No;1;2;Crashes and Bugs
+22.09.2023;iOS;USA;Terrible app, it crashes at the home screen!;1;023e121e-96b0-4101-8b44-371c663913bb;Yes;4;0;Crashes and Bugs
+8.07.2023;iOS;USA;Best travel tool.;3;7d35cec7-b149-4d25-ad48-a3960c49939b;No;1;2;General Topics
+31.08.2023;Android;India;Love sharing travel photos.;5;731b9552-b2ef-44eb-ac89-3aa335a666bb;No;0;4;General Topics
+29.09.2023;iOS;USA;Excellent for organizing trips and keeping all my plans in one app.;5;7c127416-74ab-4d75-b7f0-35159e2a12b9;No;3;4;General Topics
+18.08.2023;iOS;India;I'm impressed with the hotel deals, but the flight prices are often higher than other sites.;2;a9e36a96-67f3-4c9b-8f25-47c199e475f0;No;3;5;General Topics
+9.09.2023;Android;UK;Needs more customization.;3;d1acb41b-c8de-49fe-b4fc-e02924dfe836;No;1;2;User Feedbacks & Recommendations
+20.08.2023;Android;Brazil;Update solved the annoying issues, app is usable again, thank you!;2;fbabf6c7-25ea-45ca-bfa7-e74a326ef91c;Yes;3;3;Updates
+5.09.2023;iOS;USA;Too many video ads, they waste my time.;1;e8c4df81-aa6c-4ac5-ad86-5aff1189db8d;Yes;4;3;Ads
+16.07.2023;iOS;India;Better than other apps.;3;a739963e-f725-4e53-ba45-a3c8c84d9db6;No;5;4;User Feedbacks & Recommendations
+3.07.2023;Android;USA;Easy to split expenses.;3;26eb2ebb-6119-46ad-b057-0f11523168bf;No;3;0;General Topics
+11.08.2023;iOS;UK;Ads are too frequent, makes the app frustrating.;3;80ed0f9c-1bf9-4b37-800a-fd8e0086c58c;No;2;1;Ads
+5.08.2023;Android;India;I like the reminders for check-ins and flight changes. Very useful for busy schedules.;3;62919794-73cd-4429-b672-f44cb5e9d19d;No;1;0;General Topics
+10.08.2023;Android;Australia;Useful but needs improvements.;4;336a860a-d73b-489f-9809-57487f35ae8f;No;5;5;User Feedbacks & Recommendations
+22.08.2023;Android;Australia;Quick hotel bookings.;4;d711f89b-b0a8-402e-abb7-cf385dac16f7;No;2;0;General Topics
+6.09.2023;iOS;USA;I had trouble sharing my itinerary with my friends. It keeps failing every time.;3;2dc684ed-52f7-4e2a-a069-72526d4dddae;No;4;2;Crashes and Bugs
+6.08.2023;iOS;USA;I love using this app, but the latest update seems to have made it slower.;5;1976adc1-69e1-440c-83f8-d73e4b9c4408;No;0;4;Updates
+26.09.2023;iOS;USA;App performance improved significantly after the update, but it still freezes occasionally.;4;9598992b-42c2-474d-8d02-56c8e4c155f6;No;4;1;Updates
+3.09.2023;Android;Brazil;Great value, premium features enhance the app significantly.;4;9689427d-d10c-448c-ac27-b3aa75d823db;No;3;3;Premium Features
+14.07.2023;Android;USA;Happy to pay for premium, the additional features are fantastic.;2;b04598d7-7f05-4550-a70a-a0dac39ef020;No;5;3;Premium Features
+13.07.2023;Android;Brazil;Struggles with payment step.;3;0dd09220-3b96-4b20-82cd-a22ab5c6d2c3;No;0;5;Crashes and Bugs
+4.07.2023;Android;UK;Ads cover important parts of the screen, very annoying.;1;1b1fe7da-cbee-4e7d-b2c6-8a91aab37180;No;1;5;Ads
+22.07.2023;Android;UK;Issues with search button.;3;613823c0-ac3a-4ff0-8895-d957d76ca85f;No;0;1;Crashes and Bugs
+31.07.2023;Android;Australia;The new design looks great after the update, very clean interface.;3;d1cd541d-7443-4c81-86e6-38d9dfb04962;No;0;4;Updates
+22.09.2023;Android;UK;Keeps everything in one place.;2;f40dc4ca-9cd2-4842-b44d-4fce07ab2163;No;0;5;General Topics
+24.08.2023;Android;Brazil;Update brought more bugs, app crashes at random times now.;1;08b48748-e0d2-47a1-9404-5b673fecc815;Yes;5;2;Crashes and Bugs
+28.09.2023;iOS;USA;The new premium tools are helpful, but the subscription is a bit overpriced.;2;546426c4-7e3f-4494-8f92-c41efeabeaa3;No;0;1;Premium Features
+26.09.2023;iOS;Australia;The booking process is seamless, and I always find the best deals on hotels and flights.;3;abebf8cb-6d2b-4ee5-8cdf-5efde0b1bfa2;No;5;4;General Topics
+20.07.2023;Android;USA;Easy to use and keeps all my travel details in one place, but could be faster.;4;bd30bce0-2bae-4a4c-b7e1-4ee44cd0becf;No;4;0;User Feedbacks & Recommendations
+15.07.2023;Android;India;Couldn't add my friends to the trip, super annoying.;2;b5b3bb58-de81-4899-b9be-d7081c1c9fc3;No;0;3;Crashes and Bugs
+5.08.2023;Android;India;Sharing options are limited.;3;570a5ae1-c833-4173-9180-ba8deea039c5;No;0;4;User Feedbacks & Recommendations
